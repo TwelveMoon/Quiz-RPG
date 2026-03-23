@@ -13,11 +13,52 @@
     <meta name="mobile-web-app-capable" content="yes">
     
     <style>
-        body, html { margin: 0; padding: 0; width: 100%; height: 100%; overflow: hidden; background-color: #0f172a; }
-        iframe { width: 100%; height: 100%; border: none; display: block; }
+        body, html { margin: 0; padding: 0; width: 100%; height: 100%; overflow: hidden; background-color: #0f172a; font-family: sans-serif; }
+        
+        /* 遊戲本體先隱藏 (透明度 0) */
+        iframe { width: 100%; height: 100%; border: none; display: block; opacity: 0; transition: opacity 0.8s ease-in-out; }
+        
+        /* 啟動畫面樣式 */
+        #splash-screen {
+            position: absolute; top: 0; left: 0; width: 100%; height: 100%;
+            background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
+            display: flex; flex-direction: column; justify-content: center; align-items: center;
+            z-index: 9999; transition: opacity 0.8s ease-in-out;
+        }
+        .logo { width: 120px; height: 120px; border-radius: 25px; margin-bottom: 30px; box-shadow: 0 0 30px rgba(250, 204, 21, 0.4); }
+        .spinner { border: 5px solid #334155; border-top: 5px solid #facc15; border-radius: 50%; width: 40px; height: 40px; animation: spin 1s linear infinite; margin-bottom: 20px; }
+        @keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
+        .title { color: #facc15; font-size: 28px; font-weight: bold; text-shadow: 0 0 15px rgba(250, 204, 21, 0.5); letter-spacing: 2px; margin-bottom: 10px; }
+        .loading-text { color: #94a3b8; font-size: 14px; letter-spacing: 1px; animation: pulse 1.5s infinite; }
+        @keyframes pulse { 0%, 100% { opacity: 0.5; } 50% { opacity: 1; } }
     </style>
 </head>
 <body>
-    <iframe src="https://script.google.com/macros/s/AKfycbxGHAG4ULIPbDpVdyXbtiKq1KWVSbOmdu56zHhgLJJUCwRC7hp89k5IdG3Bha5LtLqa/exec"></iframe>
+
+    <div id="splash-screen">
+        <img src="https://raw.githubusercontent.com/TwelveMoon/Quiz-RPG/refs/heads/main/ChiDongRPG.jpg" class="logo">
+        <div class="spinner"></div>
+        <div class="title">池東守護者</div>
+        <div class="loading-text">魔法陣連線中...</div>
+    </div>
+
+    <iframe id="game-frame" src="https://script.google.com/macros/s/AKfycbxGHAG4ULIPbDpVdyXbtiKq1KWVSbOmdu56zHhgLJJUCwRC7hp89k5IdG3Bha5LtLqa/exec" onload="hideSplash()"></iframe>
+
+    <script>
+        // 隱藏啟動畫面，顯示遊戲
+        function hideSplash() {
+            const splash = document.getElementById('splash-screen');
+            const game = document.getElementById('game-frame');
+            
+            // 開始淡出啟動畫面，淡入遊戲
+            splash.style.opacity = '0';
+            game.style.opacity = '1';
+            
+            // 等待淡出動畫(0.8秒)結束後，把啟動畫面徹底移除，避免阻擋點擊
+            setTimeout(() => {
+                splash.style.display = 'none';
+            }, 800);
+        }
+    </script>
 </body>
 </html>
