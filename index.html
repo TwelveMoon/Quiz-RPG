@@ -45,8 +45,13 @@
     <iframe id="game-frame" src="https://script.google.com/macros/s/AKfycbxGHAG4ULIPbDpVdyXbtiKq1KWVSbOmdu56zHhgLJJUCwRC7hp89k5IdG3Bha5LtLqa/exec" onload="hideSplash()"></iframe>
 
     <script>
+        let isSplashHidden = false; // 紀錄是否已經隱藏過了
+
         // 隱藏啟動畫面，顯示遊戲
         function hideSplash() {
+            if (isSplashHidden) return; // 避免重複執行
+            isSplashHidden = true;
+
             const splash = document.getElementById('splash-screen');
             const game = document.getElementById('game-frame');
             
@@ -59,6 +64,15 @@
                 splash.style.display = 'none';
             }, 800);
         }
+
+        // 🛡️ 終極防呆機制：如果 iframe 等了 8 秒還沒載完，強制掀開啟動畫面！
+        // 讓玩家至少能看到遊戲內部的 Loading 畫面，確認遊戲沒有死當。
+        setTimeout(() => {
+            if (!isSplashHidden) {
+                console.log("Iframe 載入過久，強制解除啟動畫面保護");
+                hideSplash();
+            }
+        }, 8000); // 8000毫秒 = 8秒，你可以視情況調成 10000 (10秒)
     </script>
 </body>
 </html>
