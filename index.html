@@ -18,7 +18,7 @@
         /* 遊戲本體先隱藏 (透明度 0) */
         iframe { width: 100%; height: 100%; border: none; display: block; opacity: 0; transition: opacity 0.8s ease-in-out; }
         
-        /* 啟動畫面樣式 */
+        /* 啟動畫面樣式 (最上層) */
         #splash-screen {
             position: absolute; top: 0; left: 0; width: 100%; height: 100%;
             background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
@@ -31,6 +31,18 @@
         .title { color: #facc15; font-size: 28px; font-weight: bold; text-shadow: 0 0 15px rgba(250, 204, 21, 0.5); letter-spacing: 2px; margin-bottom: 10px; }
         .loading-text { color: #94a3b8; font-size: 14px; letter-spacing: 1px; animation: pulse 1.5s infinite; }
         @keyframes pulse { 0%, 100% { opacity: 0.5; } 50% { opacity: 1; } }
+
+        /* 🌟 新增：警示畫面樣式 (夾在中間層) */
+        #warning-screen {
+            position: absolute; top: 0; left: 0; width: 100%; height: 100%;
+            background-color: #000; /* 純黑底色更具質感 */
+            display: flex; justify-content: center; align-items: center;
+            z-index: 5000; opacity: 0; transition: opacity 0.8s ease-in-out;
+            pointer-events: none; /* 隱藏時不阻擋點擊 */
+        }
+        #warning-screen img {
+            width: 100%; height: 100%; object-fit: contain; /* 確保警示圖完美符合手機比例且不變形 */
+        }
     </style>
 </head>
 <body>
@@ -42,37 +54,52 @@
         <div class="loading-text">魔法陣連線中...</div>
     </div>
 
-    <iframe id="game-frame" src="https://script.google.com/macros/s/AKfycbxGHAG4ULIPbDpVdyXbtiKq1KWVSbOmdu56zHhgLJJUCwRC7hp89k5IdG3Bha5LtLqa/exec" onload="hideSplash()"></iframe>
+    <div id="warning-screen">
+        <img src="https://raw.githubusercontent.com/TwelveMoon/Quiz-RPG/refs/heads/main/openwarning.png" alt="遊戲警示">
+    </div>
+
+    <iframe id="game-frame" src="https://script.google.com/macros/s/AKfycbxGHAG4ULIPbDpVdyXbtiKq1KWVSbOmdu56zHhgLJJUCwRC7hp89k5IdG3Bha5LtLqa/exec" onload="startTransition()"></iframe>
 
     <script>
-        let isSplashHidden = false; // 紀錄是否已經隱藏過了
+        let isTransitionStarted = false; // 紀錄是否已經開始過場
 
-        // 隱藏啟動畫面，顯示遊戲
-        function hideSplash() {
-            if (isSplashHidden) return; // 避免重複執行
-            isSplashHidden = true;
+        // 🌟 啟動三段式過場動畫
+        function startTransition() {
+            if (isTransitionStarted) return; // 避免重複執行
+            isTransitionStarted = true;
 
             const splash = document.getElementById('splash-screen');
+            const warning = document.getElementById('warning-screen');
             const game = document.getElementById('game-frame');
             
-            // 開始淡出啟動畫面，淡入遊戲
+            // 階段 1：淡出載入畫面，淡入警示畫面
             splash.style.opacity = '0';
-            game.style.opacity = '1';
+            warning.style.opacity = '1';
             
-            // 等待淡出動畫(0.8秒)結束後，把啟動畫面徹底移除，避免阻擋點擊
+            // 0.8 秒後將載入畫面徹底移除
             setTimeout(() => {
                 splash.style.display = 'none';
             }, 800);
+
+            // 階段 2：警示畫面停留 3 秒後 (加上淡入的 0.8 秒，大約在第 3.8 秒開始淡出)
+            setTimeout(() => {
+                warning.style.opacity = '0';
+                game.style.opacity = '1'; // 同時淡入遊戲本體
+                
+                // 動畫結束後把警示畫面移走，確保玩家可以正常點擊遊戲
+                setTimeout(() => {
+                    warning.style.display = 'none';
+                }, 800);
+            }, 3800);
         }
 
-        // 🛡️ 終極防呆機制：如果 iframe 等了 8 秒還沒載完，強制掀開啟動畫面！
-        // 讓玩家至少能看到遊戲內部的 Loading 畫面，確認遊戲沒有死當。
+        // 🛡️ 終極防呆機制：如果 iframe 等了 8 秒還沒觸發 onload，強制啟動過場程序
         setTimeout(() => {
-            if (!isSplashHidden) {
-                console.log("Iframe 載入過久，強制解除啟動畫面保護");
-                hideSplash();
+            if (!isTransitionStarted) {
+                console.log("Iframe 載入過久，強制啟動進入程序");
+                startTransition();
             }
-        }, 8000); // 8000毫秒 = 8秒，你可以視情況調成 10000 (10秒)
+        }, 8000); 
     </script>
 </body>
 </html>
