@@ -1,0 +1,17 @@
+{
+  "name": "池東守護者",
+  "short_name": "池東守護者",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/TwelveMoon/Quiz-RPG/refs/heads/main/ChiDongRPG.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}
