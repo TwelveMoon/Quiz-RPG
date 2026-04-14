@@ -7,10 +7,12 @@
     
     <link rel="apple-touch-icon" href="https://raw.githubusercontent.com/TwelveMoon/Quiz-RPG/refs/heads/main/ChiDongRPG.jpg">
     <link rel="icon" type="image/jpeg" href="https://raw.githubusercontent.com/TwelveMoon/Quiz-RPG/refs/heads/main/ChiDongRPG.jpg">
-    
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <meta name="mobile-web-app-capable" content="yes">
+
+    <link rel="manifest" href="manifest.json">
+    <meta name="theme-color" content="#0f172a">
     
     <style>
         body, html { margin: 0; padding: 0; width: 100%; height: 100%; overflow: hidden; background-color: #0f172a; font-family: sans-serif; }
@@ -100,6 +102,22 @@
                 startTransition();
             }
         }, 8000); 
+// 🛡️ 終極防呆機制：如果 iframe 等了 8 秒還沒觸發 onload，強制啟動過場程序
+        setTimeout(() => {
+            if (!isTransitionStarted) {
+                console.log("Iframe 載入過久，強制啟動進入程序");
+                startTransition();
+            }
+        }, 8000); 
+        
+        // 🌟 新增：註冊 Service Worker 讓安卓認定這是一個 App
+        if ('serviceWorker' in navigator) {
+            window.addEventListener('load', () => {
+                navigator.serviceWorker.register('sw.js')
+                    .then(reg => console.log('Service Worker registered!'))
+                    .catch(err => console.log('Service Worker registration failed:', err));
+            });
+        }
     </script>
 </body>
 </html>
