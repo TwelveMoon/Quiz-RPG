@@ -1,0 +1,12 @@
+{
+  "id": "./",
+  "name": "池東守護者・測試版",
+  "short_name": "守護者測試",
+  "lang": "zh-Hant",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#101d2d",
+  "theme_color": "#101d2d",
+  "icons": [{"src": "../ChiDongRPG.jpg", "type": "image/jpeg", "sizes": "1024x1024", "purpose": "any"}]
+}

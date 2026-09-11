@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#101d2d">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="守護者測試">
+  <meta name="robots" content="noindex, nofollow">
+  <link rel="manifest" href="./manifest.json">
+  <link rel="apple-touch-icon" href="../ChiDongRPG.jpg">
+  <link rel="icon" href="../ChiDongRPG.jpg" type="image/jpeg">
+  <title>池東守護者｜主畫面測試版</title>
+  <style>
+    :root{color-scheme:dark;font-family:system-ui,-apple-system,"PingFang TC",sans-serif;color:#edf3f6;background:#101d2d;--line:#344958;--muted:#b2c4cc;--mint:#a9ead7}
+    *{box-sizing:border-box}body{margin:0;min-height:100vh;min-height:100dvh;background:radial-gradient(ellipse at 15% 0%,#224550,transparent 65%),#101d2d}
+    button,a,summary{-webkit-tap-highlight-color:transparent}button,.button{font:inherit;min-height:48px;display:flex;align-items:center;justify-content:center;border-radius:13px;border:1px solid var(--line);padding:12px 18px;background:#1d3142;color:#edf3f6;text-decoration:none;font-weight:650;cursor:pointer;touch-action:manipulation}
+    button:focus-visible,a:focus-visible,summary:focus-visible{outline:3px solid #f6d786;outline-offset:4px}button:disabled{opacity:.5;cursor:wait}.primary{background:var(--mint);color:#102e2c;border-color:var(--mint)}
+    [hidden]{display:none!important}.wrap{max-width:520px;margin:auto;padding:calc(28px + env(safe-area-inset-top)) 22px calc(28px + env(safe-area-inset-bottom))}
+    .badge{font-size:12px;font-weight:750;letter-spacing:.12em;color:#f5d588}.brand{display:flex;gap:16px;align-items:center;margin:22px 0 30px}.brand img{width:74px;height:74px;border-radius:20px;background:#243b4b;object-fit:cover}.brand h1{font-size:28px;margin:0 0 5px;letter-spacing:.04em}.brand p{margin:0;font-size:14px;color:var(--muted)}
+    .card{background:#172a3bec;border:1px solid var(--line);border-radius:23px;padding:23px;box-shadow:0 18px 55px #0003}.card h2{font-size:23px;line-height:1.45;margin:0 0 13px}.card p{line-height:1.8;color:var(--muted);font-size:15px;margin:10px 0 20px}.wide{width:100%}.row{display:flex;gap:8px;flex-wrap:wrap}.row>*{flex:1}.status{font-size:13px;color:var(--mint);line-height:1.7;margin:14px 0 0}.warning{color:#f5d588}
+    details{border-top:1px solid var(--line);margin-top:22px;padding-top:18px}summary{font-weight:650;cursor:pointer;padding:6px 0}ol{padding-left:23px;line-height:1.9;font-size:14px;color:var(--muted)}.note{font-size:13px;line-height:1.85;color:var(--muted);margin:21px 2px}.note a{color:var(--mint)}.foot{font-size:12px;color:#9fb5c1;margin-top:25px;display:flex;justify-content:space-between;gap:12px}
+    #session{height:100vh;height:100dvh;display:flex;flex-direction:column;background:#0f172a;padding:env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left)}.bar{display:flex;align-items:center;justify-content:space-between;flex:none;gap:8px;padding:3px 10px;border-bottom:1px solid #344958;background:#101d2d;font-size:12px;color:#c2d1d8}.bar button{min-height:38px;padding:5px 12px;font-size:13px;border-radius:10px}.bar span{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}iframe{display:block;border:0;width:100%;flex:1;min-height:0;background:#0f172a}
+    dialog{width:min(460px,calc(100% - 30px));max-height:calc(100dvh - 40px);overflow:auto;border:1px solid var(--line);border-radius:23px;padding:25px;background:#172a3b;color:#edf3f6}dialog::backdrop{background:#07101ac9}dialog h2{font-size:22px;margin:0 0 14px}dialog p{font-size:15px;line-height:1.8;color:var(--muted)}dialog button,dialog .button{width:100%;margin-top:12px}.small{font-size:13px!important}#reload-warning{padding-top:12px;border-top:1px solid var(--line)}
+    @media(max-width:360px){.wrap{padding-left:16px;padding-right:16px}.card{padding:18px}.brand h1{font-size:24px}}@media(prefers-reduced-motion:no-preference){.card{animation:arrive .35s ease-out}@keyframes arrive{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}}
+  </style>
+</head>
+<body>
+  <main id="launcher" class="wrap">
+    <div class="badge">主畫面測試版 · B1</div>
+    <div class="brand"><img src="../ChiDongRPG.jpg" alt="池東守護者遊戲圖示" width="74" height="74"><div><h1>池東守護者</h1><p>把冒險放進你的主畫面</p></div></div>
+    <section class="card" aria-labelledby="welcome">
+      <h2 id="welcome">準備好，再出發。</h2>
+      <p>這個入口連到測試版遊戲。登入與存檔需要網路；圖片、音樂的下載進度可在遊戲內的設定查看。</p>
+      <button id="start" class="primary wide">進入測試版</button>
+      <div id="connection" class="status" role="status">正在檢查連線狀態…</div>
+      <div id="saved" class="status" role="status">正在準備入口保存…</div>
+      <details id="install"><summary>加入 iPhone、iPad 主畫面</summary>
+        <ol><li>用 Safari 開啟這個測試入口。</li><li>打開 Safari 的分享選單，選擇「加入主畫面」。找不到時，先點「更多」或編輯分享項目。</li><li>若有「以網頁 App 打開」，請保持開啟，再點「加入」。</li><li>以後點「守護者測試」圖示，就能從主畫面進入。</li></ol>
+        <p class="small">第一次請從主畫面圖示進入後，在遊戲內完成素材下載。瀏覽器與主畫面版可能使用不同的儲存空間。</p>
+      </details>
+    </section>
+    <p class="note">已下載的遊戲素材由遊戲逐檔管理；這個入口不會清除它們。首次改用新入口可能需要補下載，請以遊戲內顯示的進度為準。沒有網路時可以查看入口與安裝說明，但仍無法登入遊玩。</p>
+    <p id="update" class="note warning" role="status" hidden></p>
+    <noscript><p class="note">請啟用瀏覽器的 JavaScript 後重新開啟，才能使用遊戲。</p></noscript>
+    <div class="foot"><span id="mode">瀏覽器模式</span><span>測試遊戲 v22</span></div>
+  </main>
+  <section id="session" aria-label="測試遊戲" hidden>
+    <header class="bar"><span id="session-status" role="status">正在開啟測試遊戲…</span><button id="menu">入口選單</button></header>
+    <div id="frame-slot" style="display:contents"></div>
+  </section>
+  <dialog id="panel" aria-labelledby="panel-title">
+    <h2 id="panel-title">連線中</h2>
+    <p id="panel-text">正在開啟測試版，請稍候。</p>
+    <button id="resume" class="primary">查看遊戲畫面</button>
+    <button id="retry">重新連線</button>
+    <div id="reload-warning" hidden><p>重新連線會重新載入遊戲。請先確認存檔已完成；戰鬥或上傳進行中，請返回遊戲繼續等候。</p><button id="confirm-retry">確定重新載入</button><button id="cancel-retry">取消，保留目前畫面</button></div>
+    <a id="direct" class="button" target="_blank" rel="noopener noreferrer">另開原測試連結</a>
+    <p class="small">若出現 Google 登入或錯誤訊息，可另開原測試連結。請避免同時登入同一帳號。</p>
+  </dialog>
+  <script>
+    'use strict';
+    const TEST_URL = 'https://script.google.com/macros/s/AKfycbxTeDs52Jiwhj-LzmevG9dIAKAZSXxGrdoxEOB3mo6RPzuAPESm6l0yGIia0_Ko5JULew/exec';
+    const $ = id => document.getElementById(id);
+    let frame = null, timer = null, startedAt = 0;
+    $('direct').href = TEST_URL;
+    function closePanel() { $('reload-warning').hidden=true; $('panel').close(); }
+    function openPanel(title,text) { $('panel-title').textContent=title; $('panel-text').textContent=text; $('reload-warning').hidden=true; if(!$('panel').open)$('panel').showModal(); }
+    function networkStatus() {
+      const online=navigator.onLine;
+      $('connection').textContent=online?'裝置有網路連線，進入後將連接遊戲伺服器。':'目前沒有網路。恢復連線後，再點「進入測試版」。';
+      $('connection').classList.toggle('warning',!online);
+      if(frame)$('session-status').textContent=online?'測試版 · 裝置有網路連線':'目前離線 · 請保留畫面，等待網路恢復';
+      // Do not reload the frame or replay game operations on network events.
+    }
+    function startGame() {
+      if(!navigator.onLine) { networkStatus(); if(frame)openPanel('目前沒有網路','請保留目前畫面，恢復連線後再試。'); return; }
+      clearTimeout(timer);
+      const next=document.createElement('iframe');
+      next.title='池東守護者測試版'; next.allow='autoplay; fullscreen';
+      next.referrerPolicy='strict-origin-when-cross-origin';
+      startedAt=performance.now();
+      next.addEventListener('load',()=>{
+        if(frame!==next)return;
+        clearTimeout(timer);
+        // iframe load does not prove that GAS login/game initialization succeeded.
+        $('session-status').textContent='測試版 · 連線頁面已開啟';
+        $('session-status').dataset.openSeconds=((performance.now()-startedAt)/1000).toFixed(1);
+        if($('panel').open&&$('panel-title').textContent==='連線中')closePanel();
+      });
+      next.addEventListener('error',()=>{if(frame===next){clearTimeout(timer);openPanel('連線未完成','請檢查網路後重試，也可以另開原測試連結。');}});
+      next.src=TEST_URL;
+      if(frame)frame.remove(); frame=next;
+      $('frame-slot').append(next); $('launcher').hidden=true; $('session').hidden=false;
+      $('session-status').textContent='正在開啟測試遊戲…';
+      openPanel('連線中','正在開啟測試版。若等候較久，可以查看目前畫面或另開原測試連結。');
+      timer=setTimeout(()=>{if(frame!==next)return;$('session-status').textContent='連線較久 · 可從入口選單重試';if($('panel').open)openPanel('連線時間較久','尚未確認連線頁面已開啟。可以先查看畫面；若仍是空白或錯誤，再重新連線。');},20000);
+    }
+    $('start').onclick=()=>{if(!frame)startGame();};
+    $('menu').onclick=()=>openPanel('入口選單','可以返回目前的遊戲畫面；若畫面一直空白或出現連線錯誤，再選擇重新連線。');
+    $('resume').onclick=closePanel;
+    $('retry').onclick=()=>{$('reload-warning').hidden=false;$('confirm-retry').focus();};
+    $('cancel-retry').onclick=()=>{$('reload-warning').hidden=true;$('resume').focus();};
+    $('confirm-retry').onclick=startGame;
+    window.addEventListener('online',networkStatus); window.addEventListener('offline',networkStatus);
+    const standalone=window.matchMedia('(display-mode: standalone)').matches||navigator.standalone===true;
+    $('mode').textContent=standalone?'從主畫面開啟':'瀏覽器模式';
+    if(standalone)$('install').hidden=true;
+    networkStatus();
+    async function prepareEntry() {
+      if(!('serviceWorker' in navigator)) { $('saved').textContent='此瀏覽器無法保存入口，仍可連線遊玩。'; return; }
+      try {
+        const reg=await navigator.serviceWorker.register('./sw.js',{scope:'./',updateViaCache:'none'});
+        function showUpdate(){if(reg.waiting){$('update').hidden=false;$('update').textContent='入口有新版。結束遊戲並完全關閉這個入口後，下次開啟時套用。';}}
+        async function checkSaved(){
+          if(!reg.active||reg.active.state!=='activated')return;
+          const channel=new MessageChannel();
+          const timeout=setTimeout(()=>{$('saved').textContent='暫時無法確認入口是否已保存，仍可連線遊玩。';channel.port1.close();},4000);
+          channel.port1.onmessage=event=>{clearTimeout(timeout);channel.port1.close();$('saved').textContent=event.data?.ready===true?'入口已保存 · 遊戲素材請在遊戲內查看。':'入口尚未完整保存，連線時重新開啟可再試。';};
+          reg.active.postMessage({type:'ENTRY_CACHE_STATUS'},[channel.port2]);
+        }
+        function watch(worker){if(!worker)return;worker.addEventListener('statechange',()=>{showUpdate();if(worker.state==='activated')checkSaved();if(worker.state==='redundant'&&!reg.active)$('saved').textContent='入口保存未完成，仍可連線遊玩；下次開啟會再試。';});}
+        watch(reg.installing);reg.addEventListener('updatefound',()=>watch(reg.installing));
+        showUpdate();await checkSaved();
+        navigator.serviceWorker.addEventListener('controllerchange',checkSaved);
+      } catch(error) { $('saved').textContent='入口保存未完成，仍可連線遊玩；下次開啟會再試。'; }
+    }
+    prepareEntry();
+  </script>
+</body>
+</html>
