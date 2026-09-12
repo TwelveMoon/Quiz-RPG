@@ -1,0 +1,4976 @@
+{
+  "schema": 1,
+  "assetCommit": "3d5a27af5d2940789ec99a34891557320da396fa",
+  "assets": {
+    "Beneath the Mask.mp3": {
+      "path": "assets/audio/music/Beneath the Mask.mp3",
+      "gitBlobSha": "82730979817593362384b9b2a7eb06070bf135f3",
+      "bytes": 4501506
+    },
+    "ChiDongRPG.jpg": {
+      "path": "assets/ui/general/ChiDongRPG.jpg",
+      "gitBlobSha": "2b5f6c363f86f10003c099859036e7c911604048",
+      "bytes": 169912,
+      "optimized": {
+        "path": "assets/ui/general/optimized/ChiDongRPG.jpg.webp",
+        "gitBlobSha": "ef2880ffeccaebc9be6fa5abaddb01198cfc7390",
+        "bytes": 83112
+      }
+    },
+    "Enemy_dummy_01.png": {
+      "path": "assets/enemies/other/Enemy_dummy_01.png",
+      "gitBlobSha": "359323c58d78e1e0fa2a00828237c4ef305ae42c",
+      "bytes": 669419,
+      "optimized": {
+        "path": "assets/enemies/other/optimized/Enemy_dummy_01.png.webp",
+        "gitBlobSha": "46f5e3db48dac640c7d8d4eed6c1efa92e48062f",
+        "bytes": 402330
+      }
+    },
+    "Enemy_dummy_02.png": {
+      "path": "assets/enemies/other/Enemy_dummy_02.png",
+      "gitBlobSha": "359323c58d78e1e0fa2a00828237c4ef305ae42c",
+      "bytes": 669419,
+      "optimized": {
+        "path": "assets/enemies/other/optimized/Enemy_dummy_02.png.webp",
+        "gitBlobSha": "46f5e3db48dac640c7d8d4eed6c1efa92e48062f",
+        "bytes": 402330
+      }
+    },
+    "Keeper of Lust.mp3": {
+      "path": "assets/audio/music/Keeper of Lust.mp3",
+      "gitBlobSha": "e20cf1f6210f6ef36fd608959d3ba159636c9404",
+      "bytes": 3905612
+    },
+    "Last Surprise.mp3": {
+      "path": "assets/audio/music/Last Surprise.mp3",
+      "gitBlobSha": "395a9a0ea129448a9e1c5a4cf5e4afc00e876ec3",
+      "bytes": 3816846
+    },
+    "Life Will Change.mp3": {
+      "path": "assets/audio/music/Life Will Change.mp3",
+      "gitBlobSha": "fc42fcfb4995eecc958e252c3da2f6e515fa03d5",
+      "bytes": 4242833
+    },
+    "N_01_sprite.png": {
+      "path": "assets/characters/sprites/legacy/N_01_sprite.png",
+      "gitBlobSha": "7269aceed3cbac5f1e5e2538266883dd1d34ea3a",
+      "bytes": 1067431,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/N_01_sprite.png.webp",
+        "gitBlobSha": "afc16e231375ffde93fe9a9f524288c1ecf151dc",
+        "bytes": 635010
+      }
+    },
+    "N_07_avatar.png": {
+      "path": "assets/characters/avatars/N_07_avatar.png",
+      "gitBlobSha": "46b575ebec81a12cc07da344b5e40ed262f2cb6a",
+      "bytes": 79869,
+      "optimized": {
+        "path": "assets/characters/avatars/optimized/N_07_avatar.png.webp",
+        "gitBlobSha": "5458df866e5e64125fd502c309ad35e3e91baf63",
+        "bytes": 44112
+      }
+    },
+    "N_08_avatar.png": {
+      "path": "assets/characters/avatars/N_08_avatar.png",
+      "gitBlobSha": "5fbc5b23f8db5c52e3d43d1057bcce1a542b4d01",
+      "bytes": 73668,
+      "optimized": {
+        "path": "assets/characters/avatars/optimized/N_08_avatar.png.webp",
+        "gitBlobSha": "4c528feda553b6eaaaa9da5fedec912ea2574b71",
+        "bytes": 39988
+      }
+    },
+    "N_09_avatar.png": {
+      "path": "assets/characters/avatars/N_09_avatar.png",
+      "gitBlobSha": "5aad7bb8d4a9f7ad69de74e08817981adc0cfc1c",
+      "bytes": 119907,
+      "optimized": {
+        "path": "assets/characters/avatars/optimized/N_09_avatar.png.webp",
+        "gitBlobSha": "c75195db4b9efdcf3e4ca614ae85a12757240791",
+        "bytes": 66144
+      }
+    },
+    "N_10_avatar.png": {
+      "path": "assets/characters/avatars/N_10_avatar.png",
+      "gitBlobSha": "91045510c2f3f738cf09aee912cbbd69ec009ca3",
+      "bytes": 186433,
+      "optimized": {
+        "path": "assets/characters/avatars/optimized/N_10_avatar.png.webp",
+        "gitBlobSha": "757dbd528c016c27c136524863287d8d03ee029a",
+        "bytes": 33090
+      }
+    },
+    "N_10_card.jpeg": {
+      "path": "assets/characters/cards/N_10_card.jpeg",
+      "gitBlobSha": "f14874a821a8c1a58607490cf77c61921d0a4ab0",
+      "bytes": 721757,
+      "optimized": {
+        "path": "assets/characters/cards/optimized/N_10_card.jpeg.webp",
+        "gitBlobSha": "8990cf601ad3fc67defb76e5ba361cccb10325d7",
+        "bytes": 527670
+      }
+    },
+    "N_10_sprite.png": {
+      "path": "assets/characters/sprites/N_10_sprite.png",
+      "gitBlobSha": "1b6b2be095336688c5d12e55ab6c2ef7fea1b6e7",
+      "bytes": 991605,
+      "optimized": {
+        "path": "assets/characters/sprites/optimized/N_10_sprite.png.webp",
+        "gitBlobSha": "59a1a2fb94bbf0ed2664b85c1e24bd7152d05e44",
+        "bytes": 743608
+      }
+    },
+    "N_11_avatar.png": {
+      "path": "assets/characters/avatars/N_11_avatar.png",
+      "gitBlobSha": "41436384e4cdc8e2e2ac40d5293ace8a705244a4",
+      "bytes": 196682,
+      "optimized": {
+        "path": "assets/characters/avatars/optimized/N_11_avatar.png.webp",
+        "gitBlobSha": "c75aeadbbab5f8372e03b32aac501c194da72e79",
+        "bytes": 38034
+      }
+    },
+    "N_11_card.jpeg": {
+      "path": "assets/characters/cards/N_11_card.jpeg",
+      "gitBlobSha": "f9d0e2e9326600c59b81957e5bb2a734577ec5b4",
+      "bytes": 784610,
+      "optimized": {
+        "path": "assets/characters/cards/optimized/N_11_card.jpeg.webp",
+        "gitBlobSha": "327828138e9a4aa9dd081461967d65832fe16885",
+        "bytes": 636772
+      }
+    },
+    "N_11_sprite.png": {
+      "path": "assets/characters/sprites/N_11_sprite.png",
+      "gitBlobSha": "b7004a74ae7ddca376081a2e6f2e0bf4483821c8",
+      "bytes": 969187,
+      "optimized": {
+        "path": "assets/characters/sprites/optimized/N_11_sprite.png.webp",
+        "gitBlobSha": "e6fdaab2b91f2a7d0824f95af781affea6510e11",
+        "bytes": 755132
+      }
+    },
+    "N_12_avatar.png": {
+      "path": "assets/characters/avatars/N_12_avatar.png",
+      "gitBlobSha": "02985549a6f8a72b00ef4e83942e60a435c1025e",
+      "bytes": 162020,
+      "optimized": {
+        "path": "assets/characters/avatars/optimized/N_12_avatar.png.webp",
+        "gitBlobSha": "175119cd364ed0819b132e5cdd5847806cf35edb",
+        "bytes": 24492
+      }
+    },
+    "N_12_card.jpeg": {
+      "path": "assets/characters/cards/N_12_card.jpeg",
+      "gitBlobSha": "fd5381b4c7ca047cfd4488719722fc31ebfb3190",
+      "bytes": 710226,
+      "optimized": {
+        "path": "assets/characters/cards/optimized/N_12_card.jpeg.webp",
+        "gitBlobSha": "99120a49b048add2e1af1f52e579db3cba9e5d5b",
+        "bytes": 568354
+      }
+    },
+    "N_12_sprite.png": {
+      "path": "assets/characters/sprites/N_12_sprite.png",
+      "gitBlobSha": "b3cba7250c2b4d4d83298ea2a9c31f808011d73f",
+      "bytes": 980559,
+      "optimized": {
+        "path": "assets/characters/sprites/optimized/N_12_sprite.png.webp",
+        "gitBlobSha": "59f35ca1ee4c845269def9ed2ab7e14809a16378",
+        "bytes": 751162
+      }
+    },
+    "R_01_avatar.png": {
+      "path": "assets/characters/avatars/R_01_avatar.png",
+      "gitBlobSha": "c815b81b1607a150e9ca5e9c563fcfb7968c2b8e",
+      "bytes": 230702,
+      "optimized": {
+        "path": "assets/characters/avatars/optimized/R_01_avatar.png.webp",
+        "gitBlobSha": "8fdc700b749c794473fbd29809f8878953677360",
+        "bytes": 107996
+      }
+    },
+    "R_01_card.png": {
+      "path": "assets/characters/cards/R_01_card.png",
+      "gitBlobSha": "48f3ebef1ae1ee4f5f28eab1d10ba8c63372e59e",
+      "bytes": 1901133,
+      "optimized": {
+        "path": "assets/characters/cards/optimized/R_01_card.png.webp",
+        "gitBlobSha": "ce91779e971401c7aebcede50dda6436ddd6bb33",
+        "bytes": 301748
+      }
+    },
+    "R_01_sprite.png": {
+      "path": "assets/characters/sprites/legacy/R_01_sprite.png",
+      "gitBlobSha": "9a87309491f9a91d6d338456394f53bd5fa38c2a",
+      "bytes": 1070588,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/R_01_sprite.png.webp",
+        "gitBlobSha": "c730d2a6c7488644d577b7f590b03e316c7ef1c0",
+        "bytes": 650138
+      }
+    },
+    "R_02_avatar.png": {
+      "path": "assets/characters/avatars/R_02_avatar.png",
+      "gitBlobSha": "2716fbac3ffdafc2b2d8ad54bb0be9c8e614b3d7",
+      "bytes": 234636,
+      "optimized": {
+        "path": "assets/characters/avatars/optimized/R_02_avatar.png.webp",
+        "gitBlobSha": "08ce3040227f354a7ad9a08d66a444060df9795d",
+        "bytes": 110728
+      }
+    },
+    "R_02_card.png": {
+      "path": "assets/characters/cards/R_02_card.png",
+      "gitBlobSha": "70ed3b6922799111ab0b6c320bcc6ead13e48f19",
+      "bytes": 1746227,
+      "optimized": {
+        "path": "assets/characters/cards/optimized/R_02_card.png.webp",
+        "gitBlobSha": "307683414a6bf996863879f0a91a4454210a10f4",
+        "bytes": 249194
+      }
+    },
+    "R_02_sprite.png": {
+      "path": "assets/characters/sprites/legacy/R_02_sprite.png",
+      "gitBlobSha": "2c031225ba3cfafb1845f9da1db9f8ead82e255a",
+      "bytes": 947490,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/R_02_sprite.png.webp",
+        "gitBlobSha": "b457458ff980dbf587afce4ceda41e095237b7d5",
+        "bytes": 588112
+      }
+    },
+    "R_03_avatar.png": {
+      "path": "assets/characters/avatars/R_03_avatar.png",
+      "gitBlobSha": "f07c91455fe5392572f8c5bed05b240a1fe74a2d",
+      "bytes": 134384,
+      "optimized": {
+        "path": "assets/characters/avatars/optimized/R_03_avatar.png.webp",
+        "gitBlobSha": "7337563f8ef3755741cfc78e3a3d6d510c81cb0b",
+        "bytes": 64398
+      }
+    },
+    "R_03_card.png": {
+      "path": "assets/characters/cards/R_03_card.png",
+      "gitBlobSha": "b686862a21b6166850bd32180950baa51df9535d",
+      "bytes": 1504654,
+      "optimized": {
+        "path": "assets/characters/cards/optimized/R_03_card.png.webp",
+        "gitBlobSha": "523f2f97d4f7d975f8682eed0bc91cd375c76318",
+        "bytes": 163488
+      }
+    },
+    "R_03_sprite.png": {
+      "path": "assets/characters/sprites/legacy/R_03_sprite.png",
+      "gitBlobSha": "63c44f29353ddda8c749d58389a50478837b9191",
+      "bytes": 998272,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/R_03_sprite.png.webp",
+        "gitBlobSha": "aef3a21d4369c833247209a352ef569bc3af5a7c",
+        "bytes": 593996
+      }
+    },
+    "R_04_avatar.png": {
+      "path": "assets/characters/avatars/R_04_avatar.png",
+      "gitBlobSha": "936dee3bb90210a3052641b22174afe5492ef39d",
+      "bytes": 124769,
+      "optimized": {
+        "path": "assets/characters/avatars/optimized/R_04_avatar.png.webp",
+        "gitBlobSha": "98b29045d5a96a2e998f01ddc64712b1a569ecda",
+        "bytes": 59908
+      }
+    },
+    "R_04_card.png": {
+      "path": "assets/characters/cards/R_04_card.png",
+      "gitBlobSha": "43071cd9ba770db9b9935ca8ddd259e6e41a1be1",
+      "bytes": 1560012,
+      "optimized": {
+        "path": "assets/characters/cards/optimized/R_04_card.png.webp",
+        "gitBlobSha": "f5c7c2100e7745537a96f78829c0e6d7bc168409",
+        "bytes": 195944
+      }
+    },
+    "R_04_sprite.png": {
+      "path": "assets/characters/sprites/legacy/R_04_sprite.png",
+      "gitBlobSha": "a6b1c4ac76cf5083f692f5dc6b406cec53d7a151",
+      "bytes": 1075284,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/R_04_sprite.png.webp",
+        "gitBlobSha": "6c5a45aa8ebe66319a4f57bac4cc4db7ce3be1a9",
+        "bytes": 640732
+      }
+    },
+    "R_05_avatar.png": {
+      "path": "assets/characters/avatars/R_05_avatar.png",
+      "gitBlobSha": "60b26fdc646fdd9a53af2a705dabdd40a18ffb86",
+      "bytes": 143979,
+      "optimized": {
+        "path": "assets/characters/avatars/optimized/R_05_avatar.png.webp",
+        "gitBlobSha": "2685ffb1dbf63720257018660e09a32fbd8c17ce",
+        "bytes": 70430
+      }
+    },
+    "R_05_card.png": {
+      "path": "assets/characters/cards/R_05_card.png",
+      "gitBlobSha": "8d8777e83a79b0a94319df4f4d9686af47a46793",
+      "bytes": 1540707,
+      "optimized": {
+        "path": "assets/characters/cards/optimized/R_05_card.png.webp",
+        "gitBlobSha": "9912b123c2e65b5ba623b702bc291676b6b8c7cc",
+        "bytes": 186654
+      }
+    },
+    "R_05_sprite.png": {
+      "path": "assets/characters/sprites/legacy/R_05_sprite.png",
+      "gitBlobSha": "fd4bd8281e1ba9e1872da1551f91327c7bcf6d21",
+      "bytes": 915982,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/R_05_sprite.png.webp",
+        "gitBlobSha": "03ae93b50fbb22079f6d4a74cde66c789043d6e6",
+        "bytes": 555764
+      }
+    },
+    "R_06_avatar.png": {
+      "path": "assets/characters/avatars/R_06_avatar.png",
+      "gitBlobSha": "317e77cf17e007a0c20459c4ef2719e49d73a2cc",
+      "bytes": 142586,
+      "optimized": {
+        "path": "assets/characters/avatars/optimized/R_06_avatar.png.webp",
+        "gitBlobSha": "60886cf2e00d45196b7ff17e6776f87089f91d4a",
+        "bytes": 70626
+      }
+    },
+    "R_06_card.png": {
+      "path": "assets/characters/cards/R_06_card.png",
+      "gitBlobSha": "483c272a56fefaff887d84fed81acda57944fcb1",
+      "bytes": 1509092,
+      "optimized": {
+        "path": "assets/characters/cards/optimized/R_06_card.png.webp",
+        "gitBlobSha": "3f54f7f6434fb3c345e8fb2991c0acda5bd2f741",
+        "bytes": 163882
+      }
+    },
+    "R_06_sprite.png": {
+      "path": "assets/characters/sprites/legacy/R_06_sprite.png",
+      "gitBlobSha": "2388f7e742c98798c6325d005d4127fa99666f33",
+      "bytes": 1077541,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/R_06_sprite.png.webp",
+        "gitBlobSha": "437ff1d4ab1852b7ae855201161c4edac160a48f",
+        "bytes": 651704
+      }
+    },
+    "R_07_avatar.png": {
+      "path": "assets/characters/avatars/R_07_avatar.png",
+      "gitBlobSha": "b3c04e90338782b04b6b7b682a0075c1e89eee9e",
+      "bytes": 208125,
+      "optimized": {
+        "path": "assets/characters/avatars/optimized/R_07_avatar.png.webp",
+        "gitBlobSha": "8ec963e33e0358802ad32ea0fdc9586cd856e3f2",
+        "bytes": 100318
+      }
+    },
+    "R_07_card.png": {
+      "path": "assets/characters/cards/R_07_card.png",
+      "gitBlobSha": "eede6b4bd019665c7aa22d9caab11906a8288900",
+      "bytes": 1812547,
+      "optimized": {
+        "path": "assets/characters/cards/optimized/R_07_card.png.webp",
+        "gitBlobSha": "f39f07fdfed219830b069fb4c369bc11344ead75",
+        "bytes": 294116
+      }
+    },
+    "R_07_sprite.png": {
+      "path": "assets/characters/sprites/legacy/R_07_sprite.png",
+      "gitBlobSha": "43730c03b313b584f1fddff8393cfcf4bf6122df",
+      "bytes": 1095688,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/R_07_sprite.png.webp",
+        "gitBlobSha": "38b3dfa8fa0ab59b486130891aed455725e9efce",
+        "bytes": 672818
+      }
+    },
+    "R_08_avatar.png": {
+      "path": "assets/characters/avatars/R_08_avatar.png",
+      "gitBlobSha": "729f5d7ff6fd96ebce3a95b44ac546753b4b9b4e",
+      "bytes": 98702,
+      "optimized": {
+        "path": "assets/characters/avatars/optimized/R_08_avatar.png.webp",
+        "gitBlobSha": "6f3bdb706982c0b9b58d9e1f7e1d226b91fdb757",
+        "bytes": 57432
+      }
+    },
+    "R_08_card.png": {
+      "path": "assets/characters/cards/R_08_card.png",
+      "gitBlobSha": "e12ee8d1d6f4827d7f6ff3bf52bf7cecd6b53a35",
+      "bytes": 1749067,
+      "optimized": {
+        "path": "assets/characters/cards/optimized/R_08_card.png.webp",
+        "gitBlobSha": "9b15d306063ed9d8420624288e3b8391ed0dbaca",
+        "bytes": 1142218
+      }
+    },
+    "R_08_sprite.png": {
+      "path": "assets/characters/sprites/legacy/R_08_sprite.png",
+      "gitBlobSha": "5ce58f56896b1c165d8d58cf7a2c57e764b65026",
+      "bytes": 1081306,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/R_08_sprite.png.webp",
+        "gitBlobSha": "25047649511dc8dc93ee378a8c441ecba79f904f",
+        "bytes": 813020
+      }
+    },
+    "R_09_avatar.png": {
+      "path": "assets/characters/avatars/R_09_avatar.png",
+      "gitBlobSha": "2833028db82bceafd3bbd3a6187cd4148ffe840d",
+      "bytes": 152911,
+      "optimized": {
+        "path": "assets/characters/avatars/optimized/R_09_avatar.png.webp",
+        "gitBlobSha": "d2b4b45f0a2ce304b7383bb34741e02c259c3aff",
+        "bytes": 82126
+      }
+    },
+    "R_09_card.png": {
+      "path": "assets/characters/cards/R_09_card.png",
+      "gitBlobSha": "d1fed6d0a327dbe0e15c8a090718a64a705214d6",
+      "bytes": 1581561,
+      "optimized": {
+        "path": "assets/characters/cards/optimized/R_09_card.png.webp",
+        "gitBlobSha": "ecffb8a7a185b10930767073c0abd2d9698900a7",
+        "bytes": 971246
+      }
+    },
+    "R_09_sprite.png": {
+      "path": "assets/characters/sprites/legacy/R_09_sprite.png",
+      "gitBlobSha": "66b171d0879fa8f6773b8213a69370d0be3229bd",
+      "bytes": 1009176,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/R_09_sprite.png.webp",
+        "gitBlobSha": "ebdd275f5b7c1e3e40560bd1df0380ed63ce870b",
+        "bytes": 696096
+      }
+    },
+    "R_10_avatar.png": {
+      "path": "assets/characters/avatars/R_10_avatar.png",
+      "gitBlobSha": "e80c12eb8582e388487172120623b72f37eed2de",
+      "bytes": 128545,
+      "optimized": {
+        "path": "assets/characters/avatars/optimized/R_10_avatar.png.webp",
+        "gitBlobSha": "21df33ef3cb8d505bb1d8c7fd5bb2b60da7bc2ea",
+        "bytes": 68786
+      }
+    },
+    "R_10_card.png": {
+      "path": "assets/characters/cards/R_10_card.png",
+      "gitBlobSha": "94c88a82c14bd5a41389bb811a523ece25782aa1",
+      "bytes": 1732901,
+      "optimized": {
+        "path": "assets/characters/cards/optimized/R_10_card.png.webp",
+        "gitBlobSha": "3fce21cd6006341b22830c912f7687ca2d077644",
+        "bytes": 1089678
+      }
+    },
+    "R_10_sprite.png": {
+      "path": "assets/characters/sprites/legacy/R_10_sprite.png",
+      "gitBlobSha": "09bfa09288700350d18b9a0fb8a53626a241a3ef",
+      "bytes": 1108271,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/R_10_sprite.png.webp",
+        "gitBlobSha": "e34699238318857f53ecedef54479b36f8ef52f5",
+        "bytes": 777462
+      }
+    },
+    "R_11_avatar.png": {
+      "path": "assets/characters/avatars/R_11_avatar.png",
+      "gitBlobSha": "ef99b4a8e91c5244d167e6b4b5dabe5c66976c6a",
+      "bytes": 111873,
+      "optimized": {
+        "path": "assets/characters/avatars/optimized/R_11_avatar.png.webp",
+        "gitBlobSha": "94c9d01499fb90c31b917ac744da1e26880a5c1a",
+        "bytes": 62350
+      }
+    },
+    "R_11_card.png": {
+      "path": "assets/characters/cards/R_11_card.png",
+      "gitBlobSha": "62a5d70ade03a1f51a6f46985fa7db1d30c7bc34",
+      "bytes": 1787356,
+      "optimized": {
+        "path": "assets/characters/cards/optimized/R_11_card.png.webp",
+        "gitBlobSha": "ac11bbb9bb6b7f624e186028f51b3c8aac17367f",
+        "bytes": 1147424
+      }
+    },
+    "R_11_sprite.png": {
+      "path": "assets/characters/sprites/legacy/R_11_sprite.png",
+      "gitBlobSha": "c2c11612a306d8aa7dc0e7131b8ae405a3ba6311",
+      "bytes": 1274509,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/R_11_sprite.png.webp",
+        "gitBlobSha": "4776f097568ddc2639365cf2513f23cd44428fe9",
+        "bytes": 912026
+      }
+    },
+    "R_12_avatar.png": {
+      "path": "assets/characters/avatars/R_12_avatar.png",
+      "gitBlobSha": "6c0106cb66cd6c7526338e49a8939a31fd8c0053",
+      "bytes": 193212,
+      "optimized": {
+        "path": "assets/characters/avatars/optimized/R_12_avatar.png.webp",
+        "gitBlobSha": "408b047a805c1893c01092e1db2c9e871a741774",
+        "bytes": 97144
+      }
+    },
+    "R_12_card.png": {
+      "path": "assets/characters/cards/R_12_card.png",
+      "gitBlobSha": "c189c82febcfd533ea604ef3649696eca692c4f1",
+      "bytes": 1516880,
+      "optimized": {
+        "path": "assets/characters/cards/optimized/R_12_card.png.webp",
+        "gitBlobSha": "ba6fdc6bfbd38a3e410f2d65f7866881bfedbf63",
+        "bytes": 918636
+      }
+    },
+    "R_12_sprite.png": {
+      "path": "assets/characters/sprites/legacy/R_12_sprite.png",
+      "gitBlobSha": "ef2c10a1128b2a8db02e88741d0b4bb883f53c4d",
+      "bytes": 1140998,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/R_12_sprite.png.webp",
+        "gitBlobSha": "60930a05820151e2983178b09e338b91cfea32a8",
+        "bytes": 794612
+      }
+    },
+    "R_13_avatar.png": {
+      "path": "assets/characters/avatars/R_13_avatar.png",
+      "gitBlobSha": "ed717f1f35b330d62324aa55e7cc8ce4154f49a6",
+      "bytes": 121420,
+      "optimized": {
+        "path": "assets/characters/avatars/optimized/R_13_avatar.png.webp",
+        "gitBlobSha": "07e8510be1f223fc607cd7243cb291fdfdf1261b",
+        "bytes": 65852
+      }
+    },
+    "R_13_card.png": {
+      "path": "assets/characters/cards/R_13_card.png",
+      "gitBlobSha": "a23d8e8843ee02aef7e5a020124a188da7075592",
+      "bytes": 1790719,
+      "optimized": {
+        "path": "assets/characters/cards/optimized/R_13_card.png.webp",
+        "gitBlobSha": "918b18de7cb3cd079ff4c2d77ed918402a3f1d0b",
+        "bytes": 1156194
+      }
+    },
+    "R_13_sprite.png": {
+      "path": "assets/characters/sprites/legacy/R_13_sprite.png",
+      "gitBlobSha": "92b5aeb2f3170e54f033b377d827b38c976d9496",
+      "bytes": 985351,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/R_13_sprite.png.webp",
+        "gitBlobSha": "690155dc5abfa45e6ba12242c75340ced569cd46",
+        "bytes": 673404
+      }
+    },
+    "R_14_avatar.png": {
+      "path": "assets/characters/avatars/R_14_avatar.png",
+      "gitBlobSha": "67703c7bea28625c81cf19aff4b3b7a084305a21",
+      "bytes": 193714,
+      "optimized": {
+        "path": "assets/characters/avatars/optimized/R_14_avatar.png.webp",
+        "gitBlobSha": "b285b0e50a1e716c7a39db8de9067c9175451763",
+        "bytes": 35736
+      }
+    },
+    "R_14_card.jpeg": {
+      "path": "assets/characters/cards/R_14_card.jpeg",
+      "gitBlobSha": "c1572b94e789c3473c2c393d1596644c7f3a986d",
+      "bytes": 813813,
+      "optimized": {
+        "path": "assets/characters/cards/optimized/R_14_card.jpeg.webp",
+        "gitBlobSha": "12768e675a653ecc5aae1e56521235e53b28b7ca",
+        "bytes": 648570
+      }
+    },
+    "R_14_sprite.png": {
+      "path": "assets/characters/sprites/R_14_sprite.png",
+      "gitBlobSha": "5173c6ebce4ea7edede7e651bfaf0895256b6b95",
+      "bytes": 980293,
+      "optimized": {
+        "path": "assets/characters/sprites/optimized/R_14_sprite.png.webp",
+        "gitBlobSha": "e3704f08fa8bde4a38dd16c9954d71ae19bfa372",
+        "bytes": 812294
+      }
+    },
+    "R_15_avatar.png": {
+      "path": "assets/characters/avatars/R_15_avatar.png",
+      "gitBlobSha": "b630f528eb95538d07428adefb89251353440783",
+      "bytes": 190395,
+      "optimized": {
+        "path": "assets/characters/avatars/optimized/R_15_avatar.png.webp",
+        "gitBlobSha": "ffed1be151b1f0e4721be915cde3518e48be4227",
+        "bytes": 39484
+      }
+    },
+    "R_15_card.jpeg": {
+      "path": "assets/characters/cards/R_15_card.jpeg",
+      "gitBlobSha": "73df879936aee71bac54a1dec19e68587a1a602a",
+      "bytes": 755909,
+      "optimized": {
+        "path": "assets/characters/cards/optimized/R_15_card.jpeg.webp",
+        "gitBlobSha": "8a8a8d44d3b86f35832c5bf6e3ff50b365c07e7b",
+        "bytes": 623580
+      }
+    },
+    "R_15_sprite.png": {
+      "path": "assets/characters/sprites/R_15_sprite.png",
+      "gitBlobSha": "8ae8574f568b0c8b1674762797cef8b676fe7e64",
+      "bytes": 999303,
+      "optimized": {
+        "path": "assets/characters/sprites/optimized/R_15_sprite.png.webp",
+        "gitBlobSha": "e5b33dc4a8af9e03ee853efa6699691d01c608c8",
+        "bytes": 794908
+      }
+    },
+    "R_16_avatar.png": {
+      "path": "assets/characters/avatars/R_16_avatar.png",
+      "gitBlobSha": "b066b6a79538abcf56c8a66b9f7dba90d9b3c4d2",
+      "bytes": 199535,
+      "optimized": {
+        "path": "assets/characters/avatars/optimized/R_16_avatar.png.webp",
+        "gitBlobSha": "1a66f06b66ffd95a26c72a332a3bf9422ba62c17",
+        "bytes": 36066
+      }
+    },
+    "R_16_card.jpeg": {
+      "path": "assets/characters/cards/R_16_card.jpeg",
+      "gitBlobSha": "64d87167e5a36f990af397ed2ae8b2b8351f3bc7",
+      "bytes": 767902,
+      "optimized": {
+        "path": "assets/characters/cards/optimized/R_16_card.jpeg.webp",
+        "gitBlobSha": "c249657ec578e49e9f26d70312a6f607c539b2d5",
+        "bytes": 608264
+      }
+    },
+    "R_16_sprite.png": {
+      "path": "assets/characters/sprites/R_16_sprite.png",
+      "gitBlobSha": "4d2766bb8a98b88e4aec420474852debb481b1e6",
+      "bytes": 950006,
+      "optimized": {
+        "path": "assets/characters/sprites/optimized/R_16_sprite.png.webp",
+        "gitBlobSha": "95571c88cd9fede250fb7fbf6c517e7df13bd1a8",
+        "bytes": 682280
+      }
+    },
+    "R_17_avatar.png": {
+      "path": "assets/characters/avatars/R_17_avatar.png",
+      "gitBlobSha": "f783f30596c50f4e0ecfc8fd0132276e558b1766",
+      "bytes": 191402,
+      "optimized": {
+        "path": "assets/characters/avatars/optimized/R_17_avatar.png.webp",
+        "gitBlobSha": "9cb856d452022abe058fe9e689d7a76cf1cae2e5",
+        "bytes": 37270
+      }
+    },
+    "R_17_card.jpeg": {
+      "path": "assets/characters/cards/R_17_card.jpeg",
+      "gitBlobSha": "c99e55b7824dcf6729481f31b355565b0bbc5f3d",
+      "bytes": 872983,
+      "optimized": {
+        "path": "assets/characters/cards/optimized/R_17_card.jpeg.webp",
+        "gitBlobSha": "276752e169064532df9701fc69eb84f3a74e6978",
+        "bytes": 756308
+      }
+    },
+    "R_17_sprite.png": {
+      "path": "assets/characters/sprites/R_17_sprite.png",
+      "gitBlobSha": "0b9234b24977fc393f4e277d8db906f41d3f5197",
+      "bytes": 981406,
+      "optimized": {
+        "path": "assets/characters/sprites/optimized/R_17_sprite.png.webp",
+        "gitBlobSha": "30a16ee6b23e76f02e2f2a5c3176c6a350c2846e",
+        "bytes": 765868
+      }
+    },
+    "R_18_avatar.png": {
+      "path": "assets/characters/avatars/R_18_avatar.png",
+      "gitBlobSha": "270e13bbeebff8a558bdbb170a3a9866fa83c2de",
+      "bytes": 185919,
+      "optimized": {
+        "path": "assets/characters/avatars/optimized/R_18_avatar.png.webp",
+        "gitBlobSha": "635a28f36b04ef83e4893a4b0afba3a329b838fd",
+        "bytes": 36236
+      }
+    },
+    "R_18_card.jpeg": {
+      "path": "assets/characters/cards/R_18_card.jpeg",
+      "gitBlobSha": "e4f2f7e11717f6678bed7404fce3827edf6ae8a0",
+      "bytes": 602433,
+      "optimized": {
+        "path": "assets/characters/cards/optimized/R_18_card.jpeg.webp",
+        "gitBlobSha": "60bff125f7cf0d87e725110906e63f11907e57c7",
+        "bytes": 440908
+      }
+    },
+    "R_18_sprite.png": {
+      "path": "assets/characters/sprites/R_18_sprite.png",
+      "gitBlobSha": "6e7d3e9e9a4d210174ac75705fb5fbcfa7d646ce",
+      "bytes": 984049,
+      "optimized": {
+        "path": "assets/characters/sprites/optimized/R_18_sprite.png.webp",
+        "gitBlobSha": "61f320cfd8cb46f37db67693b842044d92693ff0",
+        "bytes": 813630
+      }
+    },
+    "SR_01_avatar.png": {
+      "path": "assets/characters/avatars/SR_01_avatar.png",
+      "gitBlobSha": "91e52daaacf0fab1440990e6c3881710964dc67c",
+      "bytes": 219683,
+      "optimized": {
+        "path": "assets/characters/avatars/optimized/SR_01_avatar.png.webp",
+        "gitBlobSha": "a585174676c2c6b2db4cd7422b96268bd267eb2a",
+        "bytes": 111608
+      }
+    },
+    "SR_01_card.jpg": {
+      "path": "assets/characters/cards/SR_01_card.jpg",
+      "gitBlobSha": "c93315e5323ca6fbb62edb02213a8c91c530d800",
+      "bytes": 228696
+    },
+    "SR_01_sprite.png": {
+      "path": "assets/characters/sprites/legacy/SR_01_sprite.png",
+      "gitBlobSha": "3832bcd74e65faeec25ade9d425b06f8e7422d4d",
+      "bytes": 978879,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/SR_01_sprite.png.webp",
+        "gitBlobSha": "bd2d21b907e19642e5d093ee7cb6f08b6a3ea8c4",
+        "bytes": 667178
+      }
+    },
+    "SR_02_avatar.png": {
+      "path": "assets/characters/avatars/SR_02_avatar.png",
+      "gitBlobSha": "0c25efabc61d736bbe7c1074c2e49bee3e1d32f2",
+      "bytes": 195519,
+      "optimized": {
+        "path": "assets/characters/avatars/optimized/SR_02_avatar.png.webp",
+        "gitBlobSha": "ca90773c4837e5a968ba261b22679de8f9813143",
+        "bytes": 92186
+      }
+    },
+    "SR_02_card.jpg": {
+      "path": "assets/characters/cards/SR_02_card.jpg",
+      "gitBlobSha": "bec1d8aa1895465f6c0c5543aa010e0576f549f4",
+      "bytes": 223979
+    },
+    "SR_02_sprite.png": {
+      "path": "assets/characters/sprites/legacy/SR_02_sprite.png",
+      "gitBlobSha": "3b1fa8fbb8a49492741e3255e14b927cde12d710",
+      "bytes": 985448,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/SR_02_sprite.png.webp",
+        "gitBlobSha": "7e5a5d74faefaa609861dc1838fe471bb8c0e54d",
+        "bytes": 656652
+      }
+    },
+    "SR_03_avatar.png": {
+      "path": "assets/characters/avatars/SR_03_avatar.png",
+      "gitBlobSha": "74f52744dc43bbf8189e64e94c4445f1f3a5afa5",
+      "bytes": 185428,
+      "optimized": {
+        "path": "assets/characters/avatars/optimized/SR_03_avatar.png.webp",
+        "gitBlobSha": "c0d48571184383777566d06a7939c53ea5c0181d",
+        "bytes": 100538
+      }
+    },
+    "SR_03_card.png": {
+      "path": "assets/characters/cards/SR_03_card.png",
+      "gitBlobSha": "1527043e512e1c9920aa6d6033121838d6de1e96",
+      "bytes": 1968329,
+      "optimized": {
+        "path": "assets/characters/cards/optimized/SR_03_card.png.webp",
+        "gitBlobSha": "371ef527c9a4f3d5ae6fdf4ef135823aa4345d2e",
+        "bytes": 313110
+      }
+    },
+    "SR_03_sprite.png": {
+      "path": "assets/characters/sprites/legacy/SR_03_sprite.png",
+      "gitBlobSha": "8cfc36569d0dee9fdc8167b8f9534b11e34bf3ea",
+      "bytes": 1134068,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/SR_03_sprite.png.webp",
+        "gitBlobSha": "8a7d42c673b38fed595cd3bb3f603391047bb15e",
+        "bytes": 703786
+      }
+    },
+    "SR_04_avatar.png": {
+      "path": "assets/characters/avatars/SR_04_avatar.png",
+      "gitBlobSha": "657f5119d9b218fa83934bf89f9ef59153e58aa4",
+      "bytes": 162458,
+      "optimized": {
+        "path": "assets/characters/avatars/optimized/SR_04_avatar.png.webp",
+        "gitBlobSha": "4c10d68cabd8bbf910221fcc258f03370541de0d",
+        "bytes": 79752
+      }
+    },
+    "SR_04_card.png": {
+      "path": "assets/characters/cards/SR_04_card.png",
+      "gitBlobSha": "7dbd61f55c746f736c8d4c8720b6fcf4ca325d49",
+      "bytes": 396954,
+      "optimized": {
+        "path": "assets/characters/cards/optimized/SR_04_card.png.webp",
+        "gitBlobSha": "19cc110678656e63fac8f60ed1143c8f846b9075",
+        "bytes": 83654
+      }
+    },
+    "SR_04_sprite.png": {
+      "path": "assets/characters/sprites/legacy/SR_04_sprite.png",
+      "gitBlobSha": "8548368ae83d2a6693c7fdbe8b88dc4d1a3d7fda",
+      "bytes": 340571,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/SR_04_sprite.png.webp",
+        "gitBlobSha": "cdbf4c09e9335494da16424cfb37b199bd668330",
+        "bytes": 229604
+      }
+    },
+    "SR_05_avatar.png": {
+      "path": "assets/characters/avatars/SR_05_avatar.png",
+      "gitBlobSha": "8c75d1f107d5497396b63e55c0360286d76a6dc2",
+      "bytes": 146752,
+      "optimized": {
+        "path": "assets/characters/avatars/optimized/SR_05_avatar.png.webp",
+        "gitBlobSha": "1d0323ecbeaa0ebf87ac73d4df414bb3e482aafd",
+        "bytes": 71620
+      }
+    },
+    "SR_05_card.png": {
+      "path": "assets/characters/cards/SR_05_card.png",
+      "gitBlobSha": "4949584b3cf0d777d7c451504a6a3c787902ff16",
+      "bytes": 1604202,
+      "optimized": {
+        "path": "assets/characters/cards/optimized/SR_05_card.png.webp",
+        "gitBlobSha": "1781c5a4bc17eb7d6a7c92ccb4fa8e91d0b59b3b",
+        "bytes": 202568
+      }
+    },
+    "SR_05_sprite.png": {
+      "path": "assets/characters/sprites/legacy/SR_05_sprite.png",
+      "gitBlobSha": "da9abc6e2b98d1543d8edef1826b93438e6a9cfd",
+      "bytes": 3196863,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/SR_05_sprite.png.webp",
+        "gitBlobSha": "c67bda1dd53f1bb84bae9fe7a25fcdb8c885aa5d",
+        "bytes": 1777584
+      }
+    },
+    "SR_06_avatar.png": {
+      "path": "assets/characters/avatars/SR_06_avatar.png",
+      "gitBlobSha": "4a2f1d2369f8208578001289a06b4e261dd2b424",
+      "bytes": 209441,
+      "optimized": {
+        "path": "assets/characters/avatars/optimized/SR_06_avatar.png.webp",
+        "gitBlobSha": "9d7a6442945bc98d9c37247bf6cb97fc65b73095",
+        "bytes": 105972
+      }
+    },
+    "SR_06_card.png": {
+      "path": "assets/characters/cards/SR_06_card.png",
+      "gitBlobSha": "758ddd2d3095e53a62959c5653c9fe942fa23d5c",
+      "bytes": 1789941,
+      "optimized": {
+        "path": "assets/characters/cards/optimized/SR_06_card.png.webp",
+        "gitBlobSha": "a78c90aa514de8a7a867a3297bd019ca650982de",
+        "bytes": 239916
+      }
+    },
+    "SR_06_sprite.png": {
+      "path": "assets/characters/sprites/legacy/SR_06_sprite.png",
+      "gitBlobSha": "c7f36a0d492fb1209c18d58ab90304f8a1256fab",
+      "bytes": 963447,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/SR_06_sprite.png.webp",
+        "gitBlobSha": "f0cc79db2f5073fb526b8013ccdbc59753b0583a",
+        "bytes": 637246
+      }
+    },
+    "SR_07_avatar.png": {
+      "path": "assets/characters/avatars/SR_07_avatar.png",
+      "gitBlobSha": "d588d0490b0e3360bdec5fa54c41cbea3b7361ac",
+      "bytes": 280443,
+      "optimized": {
+        "path": "assets/characters/avatars/optimized/SR_07_avatar.png.webp",
+        "gitBlobSha": "5563bfe31ffa2b6139e93d5b23f67a6cee4b7e2c",
+        "bytes": 143140
+      }
+    },
+    "SR_07_card.png": {
+      "path": "assets/characters/cards/SR_07_card.png",
+      "gitBlobSha": "d8ee7e6dd940d32b94867d66ac455efa7acb0d6f",
+      "bytes": 1818971,
+      "optimized": {
+        "path": "assets/characters/cards/optimized/SR_07_card.png.webp",
+        "gitBlobSha": "5f3f601606fe3fd1c64d948b93d9ba6add3754d4",
+        "bytes": 263244
+      }
+    },
+    "SR_07_sprite.png": {
+      "path": "assets/characters/sprites/legacy/SR_07_sprite.png",
+      "gitBlobSha": "225755e4c2cd9aebc18c70e72ffc114df3c92257",
+      "bytes": 1115642,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/SR_07_sprite.png.webp",
+        "gitBlobSha": "2cda35731d7260bbc2939025c62428d86ed28e88",
+        "bytes": 701028
+      }
+    },
+    "SR_08_avatar.png": {
+      "path": "assets/characters/avatars/SR_08_avatar.png",
+      "gitBlobSha": "ca9f0c534cb30649ef2915b28f71937769eafcd7",
+      "bytes": 138827,
+      "optimized": {
+        "path": "assets/characters/avatars/optimized/SR_08_avatar.png.webp",
+        "gitBlobSha": "3a61538f2dc2be99605e21c2b1635213c7250a57",
+        "bytes": 74908
+      }
+    },
+    "SR_08_card.png": {
+      "path": "assets/characters/cards/SR_08_card.png",
+      "gitBlobSha": "acc242e368728884142774a935953607c6e991db",
+      "bytes": 1104593,
+      "optimized": {
+        "path": "assets/characters/cards/optimized/SR_08_card.png.webp",
+        "gitBlobSha": "f6640db48379319b4f79c9517f0b3e9873764943",
+        "bytes": 692566
+      }
+    },
+    "SR_08_sprite.png": {
+      "path": "assets/characters/sprites/legacy/SR_08_sprite.png",
+      "gitBlobSha": "f098b03e7b2b4ae6c714631d46107f1079ea52f9",
+      "bytes": 1319846,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/SR_08_sprite.png.webp",
+        "gitBlobSha": "75c6e1cb65fb9adc2fb4011ea131b6f2a0f18b07",
+        "bytes": 905756
+      }
+    },
+    "SR_09_avatar.png": {
+      "path": "assets/characters/avatars/SR_09_avatar.png",
+      "gitBlobSha": "36825a506f72345f887343469c6cbffcfa3ed881",
+      "bytes": 231813,
+      "optimized": {
+        "path": "assets/characters/avatars/optimized/SR_09_avatar.png.webp",
+        "gitBlobSha": "f5ebe601537c2360d1b73844e3a5e8cfac0de244",
+        "bytes": 130534
+      }
+    },
+    "SR_09_card.png": {
+      "path": "assets/characters/cards/SR_09_card.png",
+      "gitBlobSha": "7a3a4a77e7776b98c085b598a420f719fd6ee79b",
+      "bytes": 1622867,
+      "optimized": {
+        "path": "assets/characters/cards/optimized/SR_09_card.png.webp",
+        "gitBlobSha": "6d8566ff94dc0469c6d5216114a0c50fee077209",
+        "bytes": 1024102
+      }
+    },
+    "SR_09_sprite.png": {
+      "path": "assets/characters/sprites/legacy/SR_09_sprite.png",
+      "gitBlobSha": "0eb01877191a3cd9bffd42c9a59f6d4fc3db2de7",
+      "bytes": 1215302,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/SR_09_sprite.png.webp",
+        "gitBlobSha": "26ab72901ea20497b38c1265eca0f373dc88a5db",
+        "bytes": 853548
+      }
+    },
+    "SR_10_avatar.png": {
+      "path": "assets/characters/avatars/SR_10_avatar.png",
+      "gitBlobSha": "d0038b3c9a1fb41ad2d7c741755559345819a599",
+      "bytes": 111185,
+      "optimized": {
+        "path": "assets/characters/avatars/optimized/SR_10_avatar.png.webp",
+        "gitBlobSha": "ed09529a278b1d492fbea8000155fe66aa017e45",
+        "bytes": 55102
+      }
+    },
+    "SR_10_card.png": {
+      "path": "assets/characters/cards/SR_10_card.png",
+      "gitBlobSha": "a990ba7ceaeeb38e622494461f999b9e8dee489d",
+      "bytes": 1695531,
+      "optimized": {
+        "path": "assets/characters/cards/optimized/SR_10_card.png.webp",
+        "gitBlobSha": "f116c23b507d43284415c57787dba514d3cf1fdc",
+        "bytes": 220734
+      }
+    },
+    "SR_10_sprite.png": {
+      "path": "assets/characters/sprites/legacy/SR_10_sprite.png",
+      "gitBlobSha": "fa9a61d3e799f7c6fdeb033badf61be0d089c550",
+      "bytes": 1202070,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/SR_10_sprite.png.webp",
+        "gitBlobSha": "ba7dcd3671666704c5abe2828b61aa471943a093",
+        "bytes": 757650
+      }
+    },
+    "SR_11_avatar.png": {
+      "path": "assets/characters/avatars/SR_11_avatar.png",
+      "gitBlobSha": "8f93053b3b103ca154709ab7bb61804f93468676",
+      "bytes": 182379,
+      "optimized": {
+        "path": "assets/characters/avatars/optimized/SR_11_avatar.png.webp",
+        "gitBlobSha": "0d4c57635687307275db3d9a76d2bc05cefe7ea2",
+        "bytes": 95838
+      }
+    },
+    "SR_11_card.png": {
+      "path": "assets/characters/cards/SR_11_card.png",
+      "gitBlobSha": "7eb9dfbf2b7a2982cfb65ba96bcb9d5dd247135b",
+      "bytes": 1720557,
+      "optimized": {
+        "path": "assets/characters/cards/optimized/SR_11_card.png.webp",
+        "gitBlobSha": "898f6f09632066e160fce0cb755f651fb05a06fb",
+        "bytes": 1114634
+      }
+    },
+    "SR_11_sprite.png": {
+      "path": "assets/characters/sprites/legacy/SR_11_sprite.png",
+      "gitBlobSha": "9318b04434085f18584560f02147497841837137",
+      "bytes": 1118410,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/SR_11_sprite.png.webp",
+        "gitBlobSha": "e5d82b4d1cf5e3a83fd62a61f2013a71d84e4df9",
+        "bytes": 794556
+      }
+    },
+    "SR_12_avatar.png": {
+      "path": "assets/characters/avatars/SR_12_avatar.png",
+      "gitBlobSha": "c89b656af6d41a575081a9a6d425605341d24bc8",
+      "bytes": 120550,
+      "optimized": {
+        "path": "assets/characters/avatars/optimized/SR_12_avatar.png.webp",
+        "gitBlobSha": "aae1e3c87538bafebfedcecfea66cbff676c1013",
+        "bytes": 65894
+      }
+    },
+    "SR_12_card.png": {
+      "path": "assets/characters/cards/SR_12_card.png",
+      "gitBlobSha": "7b9cf23c8f0b7fca786dd476112b9707aa9b7ce2",
+      "bytes": 1732894,
+      "optimized": {
+        "path": "assets/characters/cards/optimized/SR_12_card.png.webp",
+        "gitBlobSha": "24e311f98a8f2ae448fcbb7d7ae2f315eb6d777f",
+        "bytes": 1100644
+      }
+    },
+    "SR_12_sprite.png": {
+      "path": "assets/characters/sprites/legacy/SR_12_sprite.png",
+      "gitBlobSha": "987d6cec97075138c1f888a6d21c08afc033af14",
+      "bytes": 1316252,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/SR_12_sprite.png.webp",
+        "gitBlobSha": "546a4dfa82575becbf16ad973d1325b0b2e350c4",
+        "bytes": 885108
+      }
+    },
+    "SR_13_avatar.png": {
+      "path": "assets/characters/avatars/SR_13_avatar.png",
+      "gitBlobSha": "206501912e9835f84c974ba943ca8d0d17e37819",
+      "bytes": 180109,
+      "optimized": {
+        "path": "assets/characters/avatars/optimized/SR_13_avatar.png.webp",
+        "gitBlobSha": "2b6a770e409611f76c1d5c37120421b5f4454742",
+        "bytes": 38458
+      }
+    },
+    "SR_13_card.jpeg": {
+      "path": "assets/characters/cards/SR_13_card.jpeg",
+      "gitBlobSha": "02114e565f23c26bff0511822c90b624ffb6dffc",
+      "bytes": 589513,
+      "optimized": {
+        "path": "assets/characters/cards/optimized/SR_13_card.jpeg.webp",
+        "gitBlobSha": "31f8d7d2d8f9f61ee3a98a12d76c04d3fb00b8df",
+        "bytes": 452656
+      }
+    },
+    "SR_13_sprite.png": {
+      "path": "assets/characters/sprites/SR_13_sprite.png",
+      "gitBlobSha": "72768190aa74a0a70c9d6a41795c022e04a2bb4e",
+      "bytes": 992954,
+      "optimized": {
+        "path": "assets/characters/sprites/optimized/SR_13_sprite.png.webp",
+        "gitBlobSha": "61f0fa2104539d018707ae7d3cec033a5ba46998",
+        "bytes": 734646
+      }
+    },
+    "SR_14_avatar.png": {
+      "path": "assets/characters/avatars/SR_14_avatar.png",
+      "gitBlobSha": "d20e97043e9702dcb6346fdff699709943d95108",
+      "bytes": 180880,
+      "optimized": {
+        "path": "assets/characters/avatars/optimized/SR_14_avatar.png.webp",
+        "gitBlobSha": "6996e6bc21612292dc78943b610f12f90deb98cc",
+        "bytes": 34538
+      }
+    },
+    "SR_14_card.jpeg": {
+      "path": "assets/characters/cards/SR_14_card.jpeg",
+      "gitBlobSha": "7b628733b0be23b5537174b4ef843662f9a9109c",
+      "bytes": 815092,
+      "optimized": {
+        "path": "assets/characters/cards/optimized/SR_14_card.jpeg.webp",
+        "gitBlobSha": "d3d17ad501e7e2fa42cd6733c4e3291bf81d1fc2",
+        "bytes": 650218
+      }
+    },
+    "SR_14_sprite.png": {
+      "path": "assets/characters/sprites/SR_14_sprite.png",
+      "gitBlobSha": "1cd4455e7096deb4bc18b96c2358b1d1d920b2af",
+      "bytes": 948089,
+      "optimized": {
+        "path": "assets/characters/sprites/optimized/SR_14_sprite.png.webp",
+        "gitBlobSha": "e288dc14e95149c7ebe571518f0b4a6477772b9f",
+        "bytes": 803636
+      }
+    },
+    "SR_15_avatar.png": {
+      "path": "assets/characters/avatars/SR_15_avatar.png",
+      "gitBlobSha": "fef3b8de0f184665be0777b0d32905205623d068",
+      "bytes": 179250,
+      "optimized": {
+        "path": "assets/characters/avatars/optimized/SR_15_avatar.png.webp",
+        "gitBlobSha": "018ae2086b08b5f56e131d0b9374d02066eae9d8",
+        "bytes": 30734
+      }
+    },
+    "SR_15_card.jpeg": {
+      "path": "assets/characters/cards/SR_15_card.jpeg",
+      "gitBlobSha": "a08d301bac654b5762915e84d34377ca7e4d2c0d",
+      "bytes": 755325,
+      "optimized": {
+        "path": "assets/characters/cards/optimized/SR_15_card.jpeg.webp",
+        "gitBlobSha": "bb5089dd165501252fbda016e7aa5c1a69123c7e",
+        "bytes": 587000
+      }
+    },
+    "SR_15_sprite.png": {
+      "path": "assets/characters/sprites/SR_15_sprite.png",
+      "gitBlobSha": "3564af057df1c73b89b8b1141c125dd19ec4a3e0",
+      "bytes": 988322,
+      "optimized": {
+        "path": "assets/characters/sprites/optimized/SR_15_sprite.png.webp",
+        "gitBlobSha": "91e16ccb39b9a20fea8ee09a759bbdfb16648c14",
+        "bytes": 816912
+      }
+    },
+    "SR_16_avatar.png": {
+      "path": "assets/characters/avatars/SR_16_avatar.png",
+      "gitBlobSha": "5a04df1b8637411ad6fae95d40702d942c71a97a",
+      "bytes": 191564,
+      "optimized": {
+        "path": "assets/characters/avatars/optimized/SR_16_avatar.png.webp",
+        "gitBlobSha": "ece60db5fc00829c82f401470d677b28e7f12a72",
+        "bytes": 37452
+      }
+    },
+    "SR_16_card.jpeg": {
+      "path": "assets/characters/cards/SR_16_card.jpeg",
+      "gitBlobSha": "2b69195ff7f7137440be9a589848a77de7b6f36e",
+      "bytes": 578098,
+      "optimized": {
+        "path": "assets/characters/cards/optimized/SR_16_card.jpeg.webp",
+        "gitBlobSha": "4d72cafea2b2f6be01c0179ee9c731af45801aee",
+        "bytes": 412402
+      }
+    },
+    "SR_16_sprite.png": {
+      "path": "assets/characters/sprites/SR_16_sprite.png",
+      "gitBlobSha": "dbd90eba32afd93cc54f1cf7e99046b9486412bd",
+      "bytes": 939689,
+      "optimized": {
+        "path": "assets/characters/sprites/optimized/SR_16_sprite.png.webp",
+        "gitBlobSha": "c10660c9564c2c60b910cc7ff7e55e467bce91e0",
+        "bytes": 651820
+      }
+    },
+    "SR_17_avatar.png": {
+      "path": "assets/characters/avatars/SR_17_avatar.png",
+      "gitBlobSha": "eb85a9eb9364f13ad8d53f709bc44cdeddbbcfef",
+      "bytes": 179134,
+      "optimized": {
+        "path": "assets/characters/avatars/optimized/SR_17_avatar.png.webp",
+        "gitBlobSha": "6199e22bad6d4d634b9c9ee4c87b2159bfac0fdd",
+        "bytes": 39946
+      }
+    },
+    "SR_17_card.jpeg": {
+      "path": "assets/characters/cards/SR_17_card.jpeg",
+      "gitBlobSha": "99c26ef4ee9c2b858143295eee26196d9226c418",
+      "bytes": 788477,
+      "optimized": {
+        "path": "assets/characters/cards/optimized/SR_17_card.jpeg.webp",
+        "gitBlobSha": "d8231e154f64bd384b79785b3128db3cba914f36",
+        "bytes": 638708
+      }
+    },
+    "SR_17_sprite.png": {
+      "path": "assets/characters/sprites/SR_17_sprite.png",
+      "gitBlobSha": "4f18a57724e8384b4a4a5f3f4aed909977a6a1d7",
+      "bytes": 995448,
+      "optimized": {
+        "path": "assets/characters/sprites/optimized/SR_17_sprite.png.webp",
+        "gitBlobSha": "774f77f2ca2bc0de6e3744f20b99e9fb957f58e3",
+        "bytes": 747884
+      }
+    },
+    "SR_18_avatar.png": {
+      "path": "assets/characters/avatars/SR_18_avatar.png",
+      "gitBlobSha": "32b7cb7828eb00d3f868564a1a2c68757ee9e653",
+      "bytes": 178639,
+      "optimized": {
+        "path": "assets/characters/avatars/optimized/SR_18_avatar.png.webp",
+        "gitBlobSha": "be8d72883e0f4abebf0557d78e7864e253bc70bd",
+        "bytes": 33644
+      }
+    },
+    "SR_18_card.jpeg": {
+      "path": "assets/characters/cards/SR_18_card.jpeg",
+      "gitBlobSha": "534da830db558a226a6a2e0d45bb8faefb48dd0e",
+      "bytes": 772523,
+      "optimized": {
+        "path": "assets/characters/cards/optimized/SR_18_card.jpeg.webp",
+        "gitBlobSha": "4098b6a429710d2c3896463a11302d0e68c43484",
+        "bytes": 622524
+      }
+    },
+    "SR_18_sprite.png": {
+      "path": "assets/characters/sprites/SR_18_sprite.png",
+      "gitBlobSha": "c03656e34eadfc9d740a2b47ad9a1448cd35fbc8",
+      "bytes": 932033,
+      "optimized": {
+        "path": "assets/characters/sprites/optimized/SR_18_sprite.png.webp",
+        "gitBlobSha": "35fea3fcdf0a2e9f407189adedf454c052f68b57",
+        "bytes": 667328
+      }
+    },
+    "SSR_01_avatar.png": {
+      "path": "assets/characters/avatars/SSR_01_avatar.png",
+      "gitBlobSha": "15d6cb6dbab2e30cc3e7eb2bf72bcef40eccbc23",
+      "bytes": 346038,
+      "optimized": {
+        "path": "assets/characters/avatars/optimized/SSR_01_avatar.png.webp",
+        "gitBlobSha": "7c262a0e4a1c27cb4b6bc2eb052a4534447fafbd",
+        "bytes": 173838
+      }
+    },
+    "SSR_01_card.PNG": {
+      "path": "assets/characters/cards/SSR_01_card.PNG",
+      "gitBlobSha": "c04b0d14f1307a728f5e1f393bc5beb0093d2dc6",
+      "bytes": 1897398,
+      "optimized": {
+        "path": "assets/characters/cards/optimized/SSR_01_card.PNG.webp",
+        "gitBlobSha": "7c8ee3159c83561069dc36f4a36231ebe6780685",
+        "bytes": 291452
+      }
+    },
+    "SSR_01_sprite.png": {
+      "path": "assets/characters/sprites/legacy/SSR_01_sprite.png",
+      "gitBlobSha": "3590b96d6fa24a876f7929124cd02a324b8c7157",
+      "bytes": 1182636,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/SSR_01_sprite.png.webp",
+        "gitBlobSha": "e5d766cb4f612cb6e964915f7b21916ac6721ae6",
+        "bytes": 824190
+      }
+    },
+    "SSR_02_avatar.png": {
+      "path": "assets/characters/avatars/SSR_02_avatar.png",
+      "gitBlobSha": "d642ff05f2a59903fe906f7d00ba7383a67baca8",
+      "bytes": 636139,
+      "optimized": {
+        "path": "assets/characters/avatars/optimized/SSR_02_avatar.png.webp",
+        "gitBlobSha": "a7034c753f0ef065a3bc2fe90b0d39d61f4e2b27",
+        "bytes": 290158
+      }
+    },
+    "SSR_02_card.png": {
+      "path": "assets/characters/cards/SSR_02_card.png",
+      "gitBlobSha": "8686a9f21c7e02a14003e6a2ca317d6a4f3e47c5",
+      "bytes": 2114919,
+      "optimized": {
+        "path": "assets/characters/cards/optimized/SSR_02_card.png.webp",
+        "gitBlobSha": "c018b5dac7813b89cc705394407c28ceea60bf25",
+        "bytes": 381830
+      }
+    },
+    "SSR_02_sprite.png": {
+      "path": "assets/characters/sprites/legacy/SSR_02_sprite.png",
+      "gitBlobSha": "0c9b49530586f2946372b9891b02d83904d70f8e",
+      "bytes": 1183099,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/SSR_02_sprite.png.webp",
+        "gitBlobSha": "af2fdd039fd76e02ff9ca67b9535ce0bbfa90899",
+        "bytes": 852500
+      }
+    },
+    "SSR_03_avatar.png": {
+      "path": "assets/characters/avatars/SSR_03_avatar.png",
+      "gitBlobSha": "6466291a09f5fd59c3f911d155c6d7b9eea9ed93",
+      "bytes": 488041,
+      "optimized": {
+        "path": "assets/characters/avatars/optimized/SSR_03_avatar.png.webp",
+        "gitBlobSha": "d8493fd40169e84596a68ecee3a4cb9d4ccbca1d",
+        "bytes": 216516
+      }
+    },
+    "SSR_03_card.png": {
+      "path": "assets/characters/cards/SSR_03_card.png",
+      "gitBlobSha": "dac5dc35a1ba976ce0a7004dd3951f96f7b84b58",
+      "bytes": 1904987,
+      "optimized": {
+        "path": "assets/characters/cards/optimized/SSR_03_card.png.webp",
+        "gitBlobSha": "5a94ca7da9da2521471d99b4808c1d1c6b372b98",
+        "bytes": 303508
+      }
+    },
+    "SSR_03_sprite.png": {
+      "path": "assets/characters/sprites/legacy/SSR_03_sprite.png",
+      "gitBlobSha": "a8c61a4181934be2e898e2ae105252570b2d2e79",
+      "bytes": 1289206,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/SSR_03_sprite.png.webp",
+        "gitBlobSha": "222a3c948fe2e388f286c87e41c1ea09ae0f590b",
+        "bytes": 916660
+      }
+    },
+    "SSR_04_avatar.png": {
+      "path": "assets/characters/avatars/SSR_04_avatar.png",
+      "gitBlobSha": "5c907eb647801601503987a40ff9b132b04f5ac4",
+      "bytes": 286873,
+      "optimized": {
+        "path": "assets/characters/avatars/optimized/SSR_04_avatar.png.webp",
+        "gitBlobSha": "b8c799e303426141e490c7a3fe31a68531269522",
+        "bytes": 136690
+      }
+    },
+    "SSR_04_card.png": {
+      "path": "assets/characters/cards/SSR_04_card.png",
+      "gitBlobSha": "26a5fc4ee08c6793cf6abac45c008413dbcf950c",
+      "bytes": 1844564,
+      "optimized": {
+        "path": "assets/characters/cards/optimized/SSR_04_card.png.webp",
+        "gitBlobSha": "1cc25780af87a1cd00b0e7a0da9c660baead8f33",
+        "bytes": 277456
+      }
+    },
+    "SSR_04_sprite.png": {
+      "path": "assets/characters/sprites/legacy/SSR_04_sprite.png",
+      "gitBlobSha": "7b77b50eb13baddfccec6b14175f43c58ecec02e",
+      "bytes": 1260193,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/SSR_04_sprite.png.webp",
+        "gitBlobSha": "72756070708f5ede9469e6ca4f9da7b4f51c3e42",
+        "bytes": 901770
+      }
+    },
+    "SSR_05_avatar.png": {
+      "path": "assets/characters/avatars/SSR_05_avatar.png",
+      "gitBlobSha": "3d960293f5f96e784201aed4944e6e05f336f543",
+      "bytes": 266546,
+      "optimized": {
+        "path": "assets/characters/avatars/optimized/SSR_05_avatar.png.webp",
+        "gitBlobSha": "568b18e7bbebdeecb19ef8b4b4868b95b2fbad9d",
+        "bytes": 123110
+      }
+    },
+    "SSR_05_card.png": {
+      "path": "assets/characters/cards/SSR_05_card.png",
+      "gitBlobSha": "a7bc84488aa17710af530ebde2f0f7d40474777f",
+      "bytes": 1827860,
+      "optimized": {
+        "path": "assets/characters/cards/optimized/SSR_05_card.png.webp",
+        "gitBlobSha": "b4ec5b970939061dc2b8d6ce5b6a48daab9461a6",
+        "bytes": 283678
+      }
+    },
+    "SSR_05_sprite.png": {
+      "path": "assets/characters/sprites/legacy/SSR_05_sprite.png",
+      "gitBlobSha": "4a246a4f9dba58b5690753dafd97647058b31d15",
+      "bytes": 946819,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/SSR_05_sprite.png.webp",
+        "gitBlobSha": "587b5a10a017902f3749b26630455a6bc94d6e9c",
+        "bytes": 563210
+      }
+    },
+    "SSR_06_avatar.png": {
+      "path": "assets/characters/avatars/SSR_06_avatar.png",
+      "gitBlobSha": "9011dea60843901f7d6605301ad7568a1be17c4c",
+      "bytes": 353213,
+      "optimized": {
+        "path": "assets/characters/avatars/optimized/SSR_06_avatar.png.webp",
+        "gitBlobSha": "a8b7be064060daa36ced2f30ab9f4f921e264a3c",
+        "bytes": 169806
+      }
+    },
+    "SSR_06_card.png": {
+      "path": "assets/characters/cards/SSR_06_card.png",
+      "gitBlobSha": "c21cc612505377bae803fbd38001e9eae6562124",
+      "bytes": 2024478,
+      "optimized": {
+        "path": "assets/characters/cards/optimized/SSR_06_card.png.webp",
+        "gitBlobSha": "f7d52f8e25f0aeb39fdd74a803500cabcd9003be",
+        "bytes": 334168
+      }
+    },
+    "SSR_06_sprite.png": {
+      "path": "assets/characters/sprites/legacy/SSR_06_sprite.png",
+      "gitBlobSha": "aba95cd9b2ec7f381986a78be0ba33b220ccf11f",
+      "bytes": 1164027,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/SSR_06_sprite.png.webp",
+        "gitBlobSha": "2f3c973e71e1c9c9deb8f40819de5da8f4583f54",
+        "bytes": 665534
+      }
+    },
+    "SSR_07_avatar.png": {
+      "path": "assets/characters/avatars/SSR_07_avatar.png",
+      "gitBlobSha": "f2d445806fbd8a55f2aedbab6dc06ba4e3106f41",
+      "bytes": 156505,
+      "optimized": {
+        "path": "assets/characters/avatars/optimized/SSR_07_avatar.png.webp",
+        "gitBlobSha": "ba71c1caf87b8532cac76e51c8f691602c0e9a41",
+        "bytes": 83044
+      }
+    },
+    "SSR_07_card.png": {
+      "path": "assets/characters/cards/SSR_07_card.png",
+      "gitBlobSha": "1377c178c3f0d4e16b7bca2aaae8643160d6d3df",
+      "bytes": 1891606,
+      "optimized": {
+        "path": "assets/characters/cards/optimized/SSR_07_card.png.webp",
+        "gitBlobSha": "1727499de42b008691b76380831beb251fa5c243",
+        "bytes": 287238
+      }
+    },
+    "SSR_07_sprite.png": {
+      "path": "assets/characters/sprites/legacy/SSR_07_sprite.png",
+      "gitBlobSha": "3dc15be70f81b1141cc80ca68545c60b89ceb53f",
+      "bytes": 1088949,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/SSR_07_sprite.png.webp",
+        "gitBlobSha": "685a184c8ed535fdf91796fd28009d24d71b2e4e",
+        "bytes": 725540
+      }
+    },
+    "SSR_08_avatar.png": {
+      "path": "assets/characters/avatars/SSR_08_avatar.png",
+      "gitBlobSha": "02b3dc156ec3f29f2d10cc9ba56a0c22d2232f75",
+      "bytes": 127658,
+      "optimized": {
+        "path": "assets/characters/avatars/optimized/SSR_08_avatar.png.webp",
+        "gitBlobSha": "8e22844d5298d9db8295922957011d3c73e4da2a",
+        "bytes": 64058
+      }
+    },
+    "SSR_08_card.png": {
+      "path": "assets/characters/cards/SSR_08_card.png",
+      "gitBlobSha": "8c63a9b56060f5af280dbebda59e5ccff40fa74a",
+      "bytes": 1628889,
+      "optimized": {
+        "path": "assets/characters/cards/optimized/SSR_08_card.png.webp",
+        "gitBlobSha": "e6cd2a10ecb78f21108d182a0e2e5b8a6ae918c0",
+        "bytes": 191596
+      }
+    },
+    "SSR_08_sprite.png": {
+      "path": "assets/characters/sprites/legacy/SSR_08_sprite.png",
+      "gitBlobSha": "aec951281e8688bc69c4c78d035dfceec2fb54ac",
+      "bytes": 1063082,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/SSR_08_sprite.png.webp",
+        "gitBlobSha": "593ca65d06de11366e14741129c90fb35208ab32",
+        "bytes": 751048
+      }
+    },
+    "SSR_09_avatar.png": {
+      "path": "assets/characters/avatars/SSR_09_avatar.png",
+      "gitBlobSha": "ce1cb46191a93ec1a216bd7601dda8251d40c555",
+      "bytes": 150121,
+      "optimized": {
+        "path": "assets/characters/avatars/optimized/SSR_09_avatar.png.webp",
+        "gitBlobSha": "4821b1c0d29c0a9fe5670b405bd88552d8ca9f7c",
+        "bytes": 76012
+      }
+    },
+    "SSR_09_card.png": {
+      "path": "assets/characters/cards/SSR_09_card.png",
+      "gitBlobSha": "b85cec50e377fe5bef237c7565c9c2fade28abc0",
+      "bytes": 1519760,
+      "optimized": {
+        "path": "assets/characters/cards/optimized/SSR_09_card.png.webp",
+        "gitBlobSha": "f6892232a8c4c42f020a9ef36de0a29b69b56020",
+        "bytes": 903220
+      }
+    },
+    "SSR_09_sprite.png": {
+      "path": "assets/characters/sprites/legacy/SSR_09_sprite.png",
+      "gitBlobSha": "35fb5860a905f17d40e5c5cc710cc7162694c401",
+      "bytes": 3661656,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/SSR_09_sprite.png.webp",
+        "gitBlobSha": "97958abcb755fdff1f2680139a54ce26fc8484ae",
+        "bytes": 2107962
+      }
+    },
+    "SSR_10_avatar.png": {
+      "path": "assets/characters/avatars/SSR_10_avatar.png",
+      "gitBlobSha": "d6b13d13bc85ed21ecafdfd6bacc25a8ec0eb848",
+      "bytes": 86229,
+      "optimized": {
+        "path": "assets/characters/avatars/optimized/SSR_10_avatar.png.webp",
+        "gitBlobSha": "c5bf457f170c8f6e18d960ac667765692615e250",
+        "bytes": 48480
+      }
+    },
+    "SSR_10_card.png": {
+      "path": "assets/characters/cards/SSR_10_card.png",
+      "gitBlobSha": "1f2f142c24712c6603bac616805ba9701a6e21a8",
+      "bytes": 1886317,
+      "optimized": {
+        "path": "assets/characters/cards/optimized/SSR_10_card.png.webp",
+        "gitBlobSha": "a5b1f51084fc59bd66edaf5f3e5e8ac863cfbf4d",
+        "bytes": 1221816
+      }
+    },
+    "SSR_10_sprite.png": {
+      "path": "assets/characters/sprites/legacy/SSR_10_sprite.png",
+      "gitBlobSha": "11bfb682359a321ca35770b81f80ed992eb82bba",
+      "bytes": 1336177,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/SSR_10_sprite.png.webp",
+        "gitBlobSha": "b0388ffbde02f9a5e91f908e3ef3b29a171d5eb2",
+        "bytes": 940034
+      }
+    },
+    "SSR_11_avatar.png": {
+      "path": "assets/characters/avatars/SSR_11_avatar.png",
+      "gitBlobSha": "24f525e8353dd8f957b95df9a5950d006f766987",
+      "bytes": 140899,
+      "optimized": {
+        "path": "assets/characters/avatars/optimized/SSR_11_avatar.png.webp",
+        "gitBlobSha": "080b7a424a8000ee7258897bf5e86e0168dd0cc9",
+        "bytes": 76212
+      }
+    },
+    "SSR_11_card.png": {
+      "path": "assets/characters/cards/SSR_11_card.png",
+      "gitBlobSha": "31cd757d2d107cfe35390f31b638ea9a20fe81b0",
+      "bytes": 1811769,
+      "optimized": {
+        "path": "assets/characters/cards/optimized/SSR_11_card.png.webp",
+        "gitBlobSha": "6091f2f3155bacda42eb8f359ba78e6a55041bf0",
+        "bytes": 1173554
+      }
+    },
+    "SSR_11_sprite.png": {
+      "path": "assets/characters/sprites/legacy/SSR_11_sprite.png",
+      "gitBlobSha": "0374511156ce7d09d6584dc667d9a33622d1d16c",
+      "bytes": 1208777,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/SSR_11_sprite.png.webp",
+        "gitBlobSha": "29a4061cc9f33ceb6937f9bf955fa791eea7d240",
+        "bytes": 834244
+      }
+    },
+    "SSR_12_avatar.png": {
+      "path": "assets/characters/avatars/SSR_12_avatar.png",
+      "gitBlobSha": "4922037cd00796db4875d27ce2d9e7172beac6b2",
+      "bytes": 193213,
+      "optimized": {
+        "path": "assets/characters/avatars/optimized/SSR_12_avatar.png.webp",
+        "gitBlobSha": "2a295ee440c146b7af24b29acd3130775f0a1068",
+        "bytes": 32902
+      }
+    },
+    "SSR_12_card.jpeg": {
+      "path": "assets/characters/cards/SSR_12_card.jpeg",
+      "gitBlobSha": "4e4b4065609e65d8b151bd29c84dc80f66587b2c",
+      "bytes": 798936,
+      "optimized": {
+        "path": "assets/characters/cards/optimized/SSR_12_card.jpeg.webp",
+        "gitBlobSha": "9672e57b3f7a31445e3ca9e43d97edbdc4c05ab0",
+        "bytes": 571312
+      }
+    },
+    "SSR_12_sprite.png": {
+      "path": "assets/characters/sprites/SSR_12_sprite.png",
+      "gitBlobSha": "b7e37008c9daf4ebd67c13b8fe05902af9ae1ca4",
+      "bytes": 858252,
+      "optimized": {
+        "path": "assets/characters/sprites/optimized/SSR_12_sprite.png.webp",
+        "gitBlobSha": "380bbd081d14d8b96a7060b412cb20b99cd89249",
+        "bytes": 593478
+      }
+    },
+    "SSR_13_avatar.png": {
+      "path": "assets/characters/avatars/SSR_13_avatar.png",
+      "gitBlobSha": "24ead66246fed1b5ae6b2979e452331ea7c7f4c9",
+      "bytes": 180743,
+      "optimized": {
+        "path": "assets/characters/avatars/optimized/SSR_13_avatar.png.webp",
+        "gitBlobSha": "086cce67ef0f22eb1377f966bf8ab31e19e2e61b",
+        "bytes": 36726
+      }
+    },
+    "SSR_13_card.jpeg": {
+      "path": "assets/characters/cards/SSR_13_card.jpeg",
+      "gitBlobSha": "130fc7991105b325e09c367c9bc686535d5d9f16",
+      "bytes": 600431,
+      "optimized": {
+        "path": "assets/characters/cards/optimized/SSR_13_card.jpeg.webp",
+        "gitBlobSha": "c7a6c3594c2acf5fcb8a2c17666b5764026f48d6",
+        "bytes": 445514
+      }
+    },
+    "SSR_13_sprite.png": {
+      "path": "assets/characters/sprites/SSR_13_sprite.png",
+      "gitBlobSha": "399493b45b3b93ebf60017fa086cef3482ab7950",
+      "bytes": 981701,
+      "optimized": {
+        "path": "assets/characters/sprites/optimized/SSR_13_sprite.png.webp",
+        "gitBlobSha": "f41a3c3081e71754817931acbee22278dc166b23",
+        "bytes": 681268
+      }
+    },
+    "SSR_14_avatar.png": {
+      "path": "assets/characters/avatars/SSR_14_avatar.png",
+      "gitBlobSha": "44fe3212f92fad5b68be8680920b3688853aecee",
+      "bytes": 199872,
+      "optimized": {
+        "path": "assets/characters/avatars/optimized/SSR_14_avatar.png.webp",
+        "gitBlobSha": "bf2a7e7698b3e6e929bc6b957753a7bb5bfab6d6",
+        "bytes": 35218
+      }
+    },
+    "SSR_14_card.jpeg": {
+      "path": "assets/characters/cards/SSR_14_card.jpeg",
+      "gitBlobSha": "09c8ebe03c11c0089293400c4498b943a4cad622",
+      "bytes": 682633,
+      "optimized": {
+        "path": "assets/characters/cards/optimized/SSR_14_card.jpeg.webp",
+        "gitBlobSha": "d297041bbdc7857467636cd9cb71ce8b92c0d137",
+        "bytes": 541564
+      }
+    },
+    "SSR_14_sprite.png": {
+      "path": "assets/characters/sprites/SSR_14_sprite.png",
+      "gitBlobSha": "883a094c5f0ca61d9707297dd8ac44065347c8b1",
+      "bytes": 990591,
+      "optimized": {
+        "path": "assets/characters/sprites/optimized/SSR_14_sprite.png.webp",
+        "gitBlobSha": "e3cd5f3ee2d71e8904c188b6752271cb8aa35ce2",
+        "bytes": 787574
+      }
+    },
+    "SSR_15_avatar.png": {
+      "path": "assets/characters/avatars/SSR_15_avatar.png",
+      "gitBlobSha": "27c5d8f2c79193e01b1efc93952a4fce0c122473",
+      "bytes": 180502,
+      "optimized": {
+        "path": "assets/characters/avatars/optimized/SSR_15_avatar.png.webp",
+        "gitBlobSha": "6a3d4648414c140e9c405f3ff76b110c21d94530",
+        "bytes": 35068
+      }
+    },
+    "SSR_15_card.jpeg": {
+      "path": "assets/characters/cards/SSR_15_card.jpeg",
+      "gitBlobSha": "4ad7bd50a2af4b1ec8641f1d5729734337ea0974",
+      "bytes": 783983,
+      "optimized": {
+        "path": "assets/characters/cards/optimized/SSR_15_card.jpeg.webp",
+        "gitBlobSha": "b0bf09e038612563a602e13095b300fa6a76e938",
+        "bytes": 638534
+      }
+    },
+    "SSR_15_sprite.png": {
+      "path": "assets/characters/sprites/SSR_15_sprite.png",
+      "gitBlobSha": "fa831b94f6d6bbb6abc755b75bc9720e375098e2",
+      "bytes": 971108,
+      "optimized": {
+        "path": "assets/characters/sprites/optimized/SSR_15_sprite.png.webp",
+        "gitBlobSha": "306d4e7b4bb622aeb5fdcd0e081abc6d1b1ee9be",
+        "bytes": 747070
+      }
+    },
+    "Summon_01.png": {
+      "path": "assets/ui/summon/Summon_01.png",
+      "gitBlobSha": "8b2d31e4d1b35ba5c1834c827dd1149bca9fac59",
+      "bytes": 6075839,
+      "optimized": {
+        "path": "assets/ui/summon/optimized/Summon_01.png.webp",
+        "gitBlobSha": "cba65e0f8f1d0518e18f581409242d37789d82df",
+        "bytes": 2854140
+      }
+    },
+    "UR_01_avatar.png": {
+      "path": "assets/characters/avatars/UR_01_avatar.png",
+      "gitBlobSha": "32de409aa67b4fd55f0a5ad35488259694365bd6",
+      "bytes": 515633,
+      "optimized": {
+        "path": "assets/characters/avatars/optimized/UR_01_avatar.png.webp",
+        "gitBlobSha": "8a87c3ede1d24367ca3d6bcd41f82bd902954935",
+        "bytes": 258866
+      }
+    },
+    "UR_01_card.jpg": {
+      "path": "assets/characters/cards/UR_01_card.jpg",
+      "gitBlobSha": "2651ea638e6e7331dcc015ae9707581c399b7442",
+      "bytes": 303927
+    },
+    "UR_01_sprite.png": {
+      "path": "assets/characters/sprites/legacy/UR_01_sprite.png",
+      "gitBlobSha": "92ed303422bb857f3ff21546e86d9b94a89ffc9b",
+      "bytes": 797982,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/UR_01_sprite.png.webp",
+        "gitBlobSha": "97cab08a5cc1c2f8477c609fae8348c372826aee",
+        "bytes": 452482
+      }
+    },
+    "UR_02_avatar.png": {
+      "path": "assets/characters/avatars/UR_02_avatar.png",
+      "gitBlobSha": "9405c4857917bfce7234ba8ce9293ea500c491a0",
+      "bytes": 548610,
+      "optimized": {
+        "path": "assets/characters/avatars/optimized/UR_02_avatar.png.webp",
+        "gitBlobSha": "df28e912133656cc4498849ec9558d9be233036f",
+        "bytes": 287084
+      }
+    },
+    "UR_02_card.png": {
+      "path": "assets/characters/cards/UR_02_card.png",
+      "gitBlobSha": "e4d776d9a27abe91140540b96935e694c77f761e",
+      "bytes": 2287135,
+      "optimized": {
+        "path": "assets/characters/cards/optimized/UR_02_card.png.webp",
+        "gitBlobSha": "5bc891ce00ee48822ff935e237805c5b743261af",
+        "bytes": 1354432
+      }
+    },
+    "UR_02_sprite.png": {
+      "path": "assets/characters/sprites/legacy/UR_02_sprite.png",
+      "gitBlobSha": "65e5e99b58d24631f93ad03b44b12077dfd78076",
+      "bytes": 4037182,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/UR_02_sprite.png.webp",
+        "gitBlobSha": "9cbe2e0fa939d3f3a929eb2849fda98e5cb395ca",
+        "bytes": 2400140
+      }
+    },
+    "UR_03_avatar.png": {
+      "path": "assets/characters/avatars/UR_03_avatar.png",
+      "gitBlobSha": "8ca3afdd7ee4c0f2659ce1b9cea295c91916de48",
+      "bytes": 148804,
+      "optimized": {
+        "path": "assets/characters/avatars/optimized/UR_03_avatar.png.webp",
+        "gitBlobSha": "99b8190ee446a9cfb4e5e6535a79c991d9b1082d",
+        "bytes": 86114
+      }
+    },
+    "UR_03_card.png": {
+      "path": "assets/characters/cards/UR_03_card.png",
+      "gitBlobSha": "7d1f1549e6da9ae8fd357f3270c052e0355b2276",
+      "bytes": 1801733,
+      "optimized": {
+        "path": "assets/characters/cards/optimized/UR_03_card.png.webp",
+        "gitBlobSha": "996417c7c88de57884c3e896541345ac182f6aee",
+        "bytes": 1166032
+      }
+    },
+    "UR_03_sprite.png": {
+      "path": "assets/characters/sprites/legacy/UR_03_sprite.png",
+      "gitBlobSha": "6c918ae46dc5aebf5cc1d8ab34e0cde598beb019",
+      "bytes": 1222440,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/UR_03_sprite.png.webp",
+        "gitBlobSha": "2b9b82554f77493b1b8e1a98bd98f09130c6fcb4",
+        "bytes": 874826
+      }
+    },
+    "UR_04_avatar.png": {
+      "path": "assets/characters/avatars/UR_04_avatar.png",
+      "gitBlobSha": "ab19394a1c4fa64f1b443cafa014d30ea92b142f",
+      "bytes": 149925,
+      "optimized": {
+        "path": "assets/characters/avatars/optimized/UR_04_avatar.png.webp",
+        "gitBlobSha": "a8fa61b574b17648acd4c09abe29ad9f49095a49",
+        "bytes": 75704
+      }
+    },
+    "UR_04_card.png": {
+      "path": "assets/characters/cards/UR_04_card.png",
+      "gitBlobSha": "e825564a84444a169832252763ca1adeade874cb",
+      "bytes": 1699852,
+      "optimized": {
+        "path": "assets/characters/cards/optimized/UR_04_card.png.webp",
+        "gitBlobSha": "25f38e150c155d5d3251bc6b3f25e26963e17362",
+        "bytes": 1048290
+      }
+    },
+    "UR_04_sprite.png": {
+      "path": "assets/characters/sprites/legacy/UR_04_sprite.png",
+      "gitBlobSha": "7b52c8045c657b6436b601a61bc1a59e37f487b3",
+      "bytes": 1082609,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/UR_04_sprite.png.webp",
+        "gitBlobSha": "92d5e54fdbb69449880fbaefa504636b8b85eb7e",
+        "bytes": 736774
+      }
+    },
+    "UR_05_avatar.png": {
+      "path": "assets/characters/avatars/UR_05_avatar.png",
+      "gitBlobSha": "482041d003cda385503d46a7ab41aa4f6392be5d",
+      "bytes": 208142,
+      "optimized": {
+        "path": "assets/characters/avatars/optimized/UR_05_avatar.png.webp",
+        "gitBlobSha": "42a2974b70dd5b8c844654c67027ed0247ed7086",
+        "bytes": 119014
+      }
+    },
+    "UR_05_card.png": {
+      "path": "assets/characters/cards/UR_05_card.png",
+      "gitBlobSha": "9f0baade9f37c02ea87af2227008286ce1dc0425",
+      "bytes": 1801952,
+      "optimized": {
+        "path": "assets/characters/cards/optimized/UR_05_card.png.webp",
+        "gitBlobSha": "5f866b391ab46f7726e434ffc7abb393eab2fabf",
+        "bytes": 1147410
+      }
+    },
+    "UR_05_sprite.png": {
+      "path": "assets/characters/sprites/legacy/UR_05_sprite.png",
+      "gitBlobSha": "343c09a8e5c5fd8ebf1cc83ea4f1c566f3ea5499",
+      "bytes": 1109445,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/UR_05_sprite.png.webp",
+        "gitBlobSha": "20705cd2c771da2ac77f515af2340f5e42400fc0",
+        "bytes": 769576
+      }
+    },
+    "UR_06_avatar.png": {
+      "path": "assets/characters/avatars/UR_06_avatar.png",
+      "gitBlobSha": "be8827fbdff21f4e2cdb860594cf6cc9cf53d969",
+      "bytes": 113211,
+      "optimized": {
+        "path": "assets/characters/avatars/optimized/UR_06_avatar.png.webp",
+        "gitBlobSha": "b0b8f439203a924425561a98f45507348285788c",
+        "bytes": 63686
+      }
+    },
+    "UR_06_card.png": {
+      "path": "assets/characters/cards/UR_06_card.png",
+      "gitBlobSha": "ad4fbb94437a5624262109ba894252f6727c9ae5",
+      "bytes": 1792871,
+      "optimized": {
+        "path": "assets/characters/cards/optimized/UR_06_card.png.webp",
+        "gitBlobSha": "2eb01786d803daed39123415e6a8df55b4ab3b0d",
+        "bytes": 1142500
+      }
+    },
+    "UR_06_sprite.png": {
+      "path": "assets/characters/sprites/legacy/UR_06_sprite.png",
+      "gitBlobSha": "95af8b658195fd9e6e70e700b0d741148f06135f",
+      "bytes": 1216169,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/UR_06_sprite.png.webp",
+        "gitBlobSha": "03d2da1ae67b8058ccc9765f00ea1cea18eddfa9",
+        "bytes": 881414
+      }
+    },
+    "UR_07_avatar.png": {
+      "path": "assets/characters/avatars/UR_07_avatar.png",
+      "gitBlobSha": "e4d78a74150dfbcd98abf4ae264f891b1a8d96c7",
+      "bytes": 93784,
+      "optimized": {
+        "path": "assets/characters/avatars/optimized/UR_07_avatar.png.webp",
+        "gitBlobSha": "bf590ed4bda379d7561e306b33b8884a51b9f96e",
+        "bytes": 50666
+      }
+    },
+    "UR_07_card.png": {
+      "path": "assets/characters/cards/UR_07_card.png",
+      "gitBlobSha": "fd6314687c9943254b51d18186d44a494e65726c",
+      "bytes": 1118341,
+      "optimized": {
+        "path": "assets/characters/cards/optimized/UR_07_card.png.webp",
+        "gitBlobSha": "f72426fa2439c9a26ef0f0fa2013648e7c2181ac",
+        "bytes": 663022
+      }
+    },
+    "UR_07_sprite.png": {
+      "path": "assets/characters/sprites/legacy/UR_07_sprite.png",
+      "gitBlobSha": "1f902bc63744c47b8deb01728bb3b34bf96ed44c",
+      "bytes": 844498,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/UR_07_sprite.png.webp",
+        "gitBlobSha": "ad4ee18c90a912e0ec6e390aacc59e20ad3452a9",
+        "bytes": 599404
+      }
+    },
+    "UR_08_avatar.png": {
+      "path": "assets/characters/avatars/UR_08_avatar.png",
+      "gitBlobSha": "0f080c6a514b5545912b4227ffb6fe8b1eafc698",
+      "bytes": 184668,
+      "optimized": {
+        "path": "assets/characters/avatars/optimized/UR_08_avatar.png.webp",
+        "gitBlobSha": "14ef60d014f3bf19bfe5b51b608cbc1e45315168",
+        "bytes": 35966
+      }
+    },
+    "UR_08_card.jpeg": {
+      "path": "assets/characters/cards/UR_08_card.jpeg",
+      "gitBlobSha": "328d508b5d1eb3c2dd70e9c587b531fe7b4ab70a",
+      "bytes": 903110,
+      "optimized": {
+        "path": "assets/characters/cards/optimized/UR_08_card.jpeg.webp",
+        "gitBlobSha": "db52ed8eb53b5185d1080870b82d4e24a3cfb062",
+        "bytes": 779608
+      }
+    },
+    "UR_08_sprite.png": {
+      "path": "assets/characters/sprites/UR_08_sprite.png",
+      "gitBlobSha": "67b09cb4d6f2db20cb7f3097acb41590e3cb7b85",
+      "bytes": 970455,
+      "optimized": {
+        "path": "assets/characters/sprites/optimized/UR_08_sprite.png.webp",
+        "gitBlobSha": "df4ad961d337fbabbbf21bc075a219751a50cdbd",
+        "bytes": 780444
+      }
+    },
+    "UR_09_avatar.png": {
+      "path": "assets/characters/avatars/UR_09_avatar.png",
+      "gitBlobSha": "52180eba833e93a0fb96da5b9e361e9ba148bae8",
+      "bytes": 182772,
+      "optimized": {
+        "path": "assets/characters/avatars/optimized/UR_09_avatar.png.webp",
+        "gitBlobSha": "96ae3113cb84eaf22a22f1b889404667e530a401",
+        "bytes": 33804
+      }
+    },
+    "UR_09_card.jpeg": {
+      "path": "assets/characters/cards/UR_09_card.jpeg",
+      "gitBlobSha": "e1c429fd1cd06a7bbf1dfeaab52d013dd85e9141",
+      "bytes": 883966,
+      "optimized": {
+        "path": "assets/characters/cards/optimized/UR_09_card.jpeg.webp",
+        "gitBlobSha": "ccef5434bd319df777f63e0b0a92eb0b0dcd8499",
+        "bytes": 761832
+      }
+    },
+    "UR_09_sprite.png": {
+      "path": "assets/characters/sprites/UR_09_sprite.png",
+      "gitBlobSha": "c8ac02e2b4c5c96a3639803d43a172d6563af2a7",
+      "bytes": 997803,
+      "optimized": {
+        "path": "assets/characters/sprites/optimized/UR_09_sprite.png.webp",
+        "gitBlobSha": "9c2f0e927a6831e8afd4dfa7079566c76b95d0d9",
+        "bytes": 821020
+      }
+    },
+    "Victory.mp3": {
+      "path": "assets/audio/music/Victory.mp3",
+      "gitBlobSha": "2e25a0a41e63d87b2cfc1961ee28cd766eaa457d",
+      "bytes": 530413,
+      "optimized": {
+        "path": "assets/audio/music/optimized/Victory.mp3",
+        "gitBlobSha": "b8c9f364d9c61f5ea7d062f37444d48a2c3f292b",
+        "bytes": 354092
+      }
+    },
+    "Wyvern Valley BGM - boss  battle-2.mp3": {
+      "path": "assets/audio/music/Wyvern Valley BGM - boss  battle-2.mp3",
+      "gitBlobSha": "ab23e020abb5f5526d4ca963a1f42894790d6e30",
+      "bytes": 5574754,
+      "optimized": {
+        "path": "assets/audio/music/optimized/Wyvern Valley BGM - boss  battle-2.mp3",
+        "gitBlobSha": "639977c5d4a0049f4a94f11323298df5142a8c8c",
+        "bytes": 3814700
+      }
+    },
+    "Wyvern Valley BGM - elite  battle-2.mp3": {
+      "path": "assets/audio/music/Wyvern Valley BGM - elite  battle-2.mp3",
+      "gitBlobSha": "683bd43d5fe9708f4b1b591bb53138765b1a174d",
+      "bytes": 4875418,
+      "optimized": {
+        "path": "assets/audio/music/optimized/Wyvern Valley BGM - elite  battle-2.mp3",
+        "gitBlobSha": "8b8b17eda80f8d9c71f0c7a8d24cef4295220de3",
+        "bytes": 3398828
+      }
+    },
+    "Wyvern Valley BGM - normal battle-2.mp3": {
+      "path": "assets/audio/music/Wyvern Valley BGM - normal battle-2.mp3",
+      "gitBlobSha": "c6b307f0447f3bfa3ce82423a19f85b56e8e61e4",
+      "bytes": 5179727,
+      "optimized": {
+        "path": "assets/audio/music/optimized/Wyvern Valley BGM - normal battle-2.mp3",
+        "gitBlobSha": "9b308fd2f763a04e992b62dfd31982e5bf9a04c9",
+        "bytes": 3571628
+      }
+    },
+    "bg_ENV.jpg": {
+      "path": "assets/backgrounds/battle/bg_ENV.jpg",
+      "gitBlobSha": "7f9210a6401369a5145de88af51b6137775c9ffb",
+      "bytes": 1463641,
+      "optimized": {
+        "path": "assets/backgrounds/battle/optimized/bg_ENV.jpg.webp",
+        "gitBlobSha": "ceabb830750e07a8399226d4c396bbbf904edc58",
+        "bytes": 695242
+      }
+    },
+    "bg_ReadingG1.jpg": {
+      "path": "assets/backgrounds/battle/bg_ReadingG1.jpg",
+      "gitBlobSha": "d006f8a240a60d7ecc4f83a0e52edbdf342e3df5",
+      "bytes": 621724,
+      "optimized": {
+        "path": "assets/backgrounds/battle/optimized/bg_ReadingG1.jpg.webp",
+        "gitBlobSha": "9906296ddf24951c40baabf30c389ee75f1b2f60",
+        "bytes": 570456
+      }
+    },
+    "bg_ReadingG2.jpg": {
+      "path": "assets/backgrounds/battle/bg_ReadingG2.jpg",
+      "gitBlobSha": "d21ae4836ea9600b33bbef1a1bc98c1568e9f3ef",
+      "bytes": 493461,
+      "optimized": {
+        "path": "assets/backgrounds/battle/optimized/bg_ReadingG2.jpg.webp",
+        "gitBlobSha": "933e52a7eb1a3611ea29d773a0bde7f4b2ede3ec",
+        "bytes": 414126
+      }
+    },
+    "bg_ReadingG3.jpg": {
+      "path": "assets/backgrounds/battle/bg_ReadingG3.jpg",
+      "gitBlobSha": "270a32506851ccddf09d84a893ac54e67cab5d7b",
+      "bytes": 570358,
+      "optimized": {
+        "path": "assets/backgrounds/battle/optimized/bg_ReadingG3.jpg.webp",
+        "gitBlobSha": "6c5d5f75b24ceb6eddcd58d209f36da50b0b18ad",
+        "bytes": 476784
+      }
+    },
+    "bg_ReadingG4.jpg": {
+      "path": "assets/backgrounds/battle/bg_ReadingG4.jpg",
+      "gitBlobSha": "a8b3f89b2cefc551aa8f3c5ac9a9e846eb64548e",
+      "bytes": 354961,
+      "optimized": {
+        "path": "assets/backgrounds/battle/optimized/bg_ReadingG4.jpg.webp",
+        "gitBlobSha": "69140d25d0bdf131d313e6b0849ac389ffe9c671",
+        "bytes": 286788
+      }
+    },
+    "bg_ReadingG5.jpg": {
+      "path": "assets/backgrounds/battle/bg_ReadingG5.jpg",
+      "gitBlobSha": "446824c5cba1b6cf8357b1fc4b42609024728033",
+      "bytes": 475416,
+      "optimized": {
+        "path": "assets/backgrounds/battle/optimized/bg_ReadingG5.jpg.webp",
+        "gitBlobSha": "65772c0fbd60c81ac1eadf38123b821c7a124ba0",
+        "bytes": 409660
+      }
+    },
+    "bg_ReadingG6.jpg": {
+      "path": "assets/backgrounds/battle/bg_ReadingG6.jpg",
+      "gitBlobSha": "fd26633a04e04a266d04cc0f9664d1f75cf1df11",
+      "bytes": 557562,
+      "optimized": {
+        "path": "assets/backgrounds/battle/optimized/bg_ReadingG6.jpg.webp",
+        "gitBlobSha": "da8a5a7003669bd822029cd7dcf56ec000dba445",
+        "bytes": 455728
+      }
+    },
+    "bg_ReadingG7.jpg": {
+      "path": "assets/backgrounds/battle/bg_ReadingG7.jpg",
+      "gitBlobSha": "5d0f607392d9971e94c8373fc575ced6e8adbedb",
+      "bytes": 170183,
+      "optimized": {
+        "path": "assets/backgrounds/battle/optimized/bg_ReadingG7.jpg.webp",
+        "gitBlobSha": "2d02c51d72b7b428ac41a4cdcadebb42e0c766ab",
+        "bytes": 151106
+      }
+    },
+    "bg_arena.jpg": {
+      "path": "assets/backgrounds/battle/bg_arena.jpg",
+      "gitBlobSha": "1b7b1c149ba6ea7258d86a6090ecbfec87e63a3c",
+      "bytes": 654141,
+      "optimized": {
+        "path": "assets/backgrounds/battle/optimized/bg_arena.jpg.webp",
+        "gitBlobSha": "a71dc2372d8d17883179cc6480a8197e94477d8d",
+        "bytes": 223452
+      }
+    },
+    "bg_battlefield.jpg": {
+      "path": "assets/backgrounds/battle/bg_battlefield.jpg",
+      "gitBlobSha": "83f277d9cc11e3c6bbac46630a5683efd9df23c9",
+      "bytes": 280275,
+      "optimized": {
+        "path": "assets/backgrounds/battle/optimized/bg_battlefield.jpg.webp",
+        "gitBlobSha": "ec71f938fb0c51b610656d5a320d893104953a97",
+        "bytes": 122438
+      }
+    },
+    "bg_beach.jpg": {
+      "path": "assets/backgrounds/battle/bg_beach.jpg",
+      "gitBlobSha": "a12657f4224361c0b006520a2a6c7db102936851",
+      "bytes": 187929,
+      "optimized": {
+        "path": "assets/backgrounds/battle/optimized/bg_beach.jpg.webp",
+        "gitBlobSha": "7db14938ef8fe39cbd6c2e29cf23ef3b28f7df04",
+        "bytes": 94308
+      }
+    },
+    "bg_dojo.jpg": {
+      "path": "assets/backgrounds/battle/bg_dojo.jpg",
+      "gitBlobSha": "b122523733283c1af97316e855459a9507b4a4a8",
+      "bytes": 238106,
+      "optimized": {
+        "path": "assets/backgrounds/battle/optimized/bg_dojo.jpg.webp",
+        "gitBlobSha": "2339bb23639f346c40fdec4b6b912ac2296db296",
+        "bytes": 138800
+      }
+    },
+    "bg_forest.jpg": {
+      "path": "assets/backgrounds/battle/bg_forest.jpg",
+      "gitBlobSha": "5ca1c5cb5184bc178821e3e19d8a3c976ed1ac2f",
+      "bytes": 322486,
+      "optimized": {
+        "path": "assets/backgrounds/battle/optimized/bg_forest.jpg.webp",
+        "gitBlobSha": "63e26cba9b16ecd0a442bae2c3f167dbffa3d246",
+        "bytes": 282444
+      }
+    },
+    "bg_fortress.jpg": {
+      "path": "assets/backgrounds/battle/bg_fortress.jpg",
+      "gitBlobSha": "ec22ee107931db5c2c6a2d2f1841822c32f0700d",
+      "bytes": 234233,
+      "optimized": {
+        "path": "assets/backgrounds/battle/optimized/bg_fortress.jpg.webp",
+        "gitBlobSha": "ff81158d72babf6e890eecd148eede96b8c8f56d",
+        "bytes": 125822
+      }
+    },
+    "bg_meadow.jpg": {
+      "path": "assets/backgrounds/battle/bg_meadow.jpg",
+      "gitBlobSha": "0540ae17b1d7d79214d496f91ff75e5dbaabfb30",
+      "bytes": 171350,
+      "optimized": {
+        "path": "assets/backgrounds/battle/optimized/bg_meadow.jpg.webp",
+        "gitBlobSha": "ee563d22fe52534c78e0c44831fb27517a85551b",
+        "bytes": 93620
+      }
+    },
+    "bg_underdark.jpg": {
+      "path": "assets/backgrounds/battle/bg_underdark.jpg",
+      "gitBlobSha": "d2634a85a4e5d492856688c495f942204c5d27c3",
+      "bytes": 397437,
+      "optimized": {
+        "path": "assets/backgrounds/battle/optimized/bg_underdark.jpg.webp",
+        "gitBlobSha": "09986c2c48e8bc549e7ed21b2501a3804c86d8cd",
+        "bytes": 161002
+      }
+    },
+    "bg_village.jpg": {
+      "path": "assets/backgrounds/battle/bg_village.jpg",
+      "gitBlobSha": "555074791698f09f2aa032c75000180a32a611dc",
+      "bytes": 184044,
+      "optimized": {
+        "path": "assets/backgrounds/battle/optimized/bg_village.jpg.webp",
+        "gitBlobSha": "84766430eb6b275770f01a3b8072daff3f0a0908",
+        "bytes": 120164
+      }
+    },
+    "bg_whalecave.jpg": {
+      "path": "assets/backgrounds/battle/bg_whalecave.jpg",
+      "gitBlobSha": "f0c106185edb2e3c2ec0675a4c6fd314149f3122",
+      "bytes": 226417,
+      "optimized": {
+        "path": "assets/backgrounds/battle/optimized/bg_whalecave.jpg.webp",
+        "gitBlobSha": "50bccc35f77fbe5a80bd67cbb227635fd184b29c",
+        "bytes": 125634
+      }
+    },
+    "bg_wyvernvalley.jpg": {
+      "path": "assets/backgrounds/battle/bg_wyvernvalley.jpg",
+      "gitBlobSha": "bb62610dec186e833b9e01c2ff869df1ae90b7eb",
+      "bytes": 333890,
+      "optimized": {
+        "path": "assets/backgrounds/battle/optimized/bg_wyvernvalley.jpg.webp",
+        "gitBlobSha": "9217bae33d013688e3e923e84ba2413fc66f5a00",
+        "bytes": 98026
+      }
+    },
+    "bg_yharnamdugeon.jpg": {
+      "path": "assets/backgrounds/battle/bg_yharnamdugeon.jpg",
+      "gitBlobSha": "e860b41fd1d0ba7ce7424d4a939f4d445a3593ae",
+      "bytes": 531646,
+      "optimized": {
+        "path": "assets/backgrounds/battle/optimized/bg_yharnamdugeon.jpg.webp",
+        "gitBlobSha": "4f226d9c0639287ff6f0dfa47dd3cca3e8350ec4",
+        "bytes": 252104
+      }
+    },
+    "bgm_ENV_boss_battle.mp3": {
+      "path": "assets/audio/music/bgm_ENV_boss_battle.mp3",
+      "gitBlobSha": "946d191f625b53d1d55da8a9f0ea4cf70a5cacf0",
+      "bytes": 3904406
+    },
+    "bgm_ENV_elite_battle.mp3": {
+      "path": "assets/audio/music/bgm_ENV_elite_battle.mp3",
+      "gitBlobSha": "51b78604a0d562a0d1063da4ea6cac3e12fe936c",
+      "bytes": 3070139
+    },
+    "bgm_ENV_normal_battle.mp3": {
+      "path": "assets/audio/music/bgm_ENV_normal_battle.mp3",
+      "gitBlobSha": "66c9229b6e86334e298dea89275ae018ff652efb",
+      "bytes": 2417913
+    },
+    "bgm_Reading_1_boss.mp3": {
+      "path": "assets/audio/music/bgm_Reading_1_boss.mp3",
+      "gitBlobSha": "4e6fced1e6f5547848ed6ef3d190d6cfee739f74",
+      "bytes": 1992013
+    },
+    "bgm_Reading_1_mob.mp3": {
+      "path": "assets/audio/music/bgm_Reading_1_mob.mp3",
+      "gitBlobSha": "78fddc3a89e6c866ea5e22035eeda3f5566c570e",
+      "bytes": 956833
+    },
+    "bgm_Reading_2_boss.mp3": {
+      "path": "assets/audio/music/bgm_Reading_2_boss.mp3",
+      "gitBlobSha": "9a568022a8970eb7ed05c3f323ad8fe00028502d",
+      "bytes": 1842634
+    },
+    "bgm_Reading_2_mob.mp3": {
+      "path": "assets/audio/music/bgm_Reading_2_mob.mp3",
+      "gitBlobSha": "bd59c56a7a4f5233bc7e359748832ccb358ffa95",
+      "bytes": 1758144
+    },
+    "bgm_Reading_3_boss.mp3": {
+      "path": "assets/audio/music/bgm_Reading_3_boss.mp3",
+      "gitBlobSha": "f1cab120c107ede7880b5eaf78a61f452404c17a",
+      "bytes": 3171515
+    },
+    "bgm_Reading_3_mob.mp3": {
+      "path": "assets/audio/music/bgm_Reading_3_mob.mp3",
+      "gitBlobSha": "6d766301e128ae2dac852f6e9038d065dae5431e",
+      "bytes": 1872665
+    },
+    "bgm_Reading_4_boss.mp3": {
+      "path": "assets/audio/music/bgm_Reading_4_boss.mp3",
+      "gitBlobSha": "d39f8b75a38a2d6551eae41c997c4ae8880801f0",
+      "bytes": 2119511
+    },
+    "bgm_Reading_4_mob.mp3": {
+      "path": "assets/audio/music/bgm_Reading_4_mob.mp3",
+      "gitBlobSha": "e0db3e51b1533e712d04829c580ed9f8ecd6853c",
+      "bytes": 1817369
+    },
+    "bgm_Reading_5_boss.mp3": {
+      "path": "assets/audio/music/bgm_Reading_5_boss.mp3",
+      "gitBlobSha": "1193bf0c41244a22f5d69aa00fdc5b489e28f44f",
+      "bytes": 3451171
+    },
+    "bgm_Reading_5_mob.mp3": {
+      "path": "assets/audio/music/bgm_Reading_5_mob.mp3",
+      "gitBlobSha": "b76106d7fef65b6cc02fa16d5c2db131e0cfbc2c",
+      "bytes": 2963643
+    },
+    "bgm_Reading_6_boss.mp3": {
+      "path": "assets/audio/music/bgm_Reading_6_boss.mp3",
+      "gitBlobSha": "395c46acbcc4e0e695a0dd1ca84fc6134340da8b",
+      "bytes": 3095425
+    },
+    "bgm_Reading_6_mob.mp3": {
+      "path": "assets/audio/music/bgm_Reading_6_mob.mp3",
+      "gitBlobSha": "21bd0f0878acfd7e36c74e9ee9b1a5bc710918d1",
+      "bytes": 2860031
+    },
+    "bgm_Reading_7_boss.mp3": {
+      "path": "assets/audio/music/bgm_Reading_7_boss.mp3",
+      "gitBlobSha": "cad390624d46ef3dbca9c19e4e1e51f0862fca22",
+      "bytes": 4293025
+    },
+    "bgm_Reading_7_mob.mp3": {
+      "path": "assets/audio/music/bgm_Reading_7_mob.mp3",
+      "gitBlobSha": "fa8d76cee17afbbf25cf22720be5c4e7585405a0",
+      "bytes": 3026713
+    },
+    "bgm_arena.mp3": {
+      "path": "assets/audio/music/bgm_arena.mp3",
+      "gitBlobSha": "c5231a4a7f4cb5459289f3cecd9b44870ad1118b",
+      "bytes": 2011615
+    },
+    "bgm_gacha.mp3": {
+      "path": "assets/audio/music/bgm_gacha.mp3",
+      "gitBlobSha": "91cc0dc9a069ac90d43b7e0f7f83c07c41f50ad4",
+      "bytes": 2106346
+    },
+    "bgm_lobby.mp3": {
+      "path": "assets/audio/music/bgm_lobby.mp3",
+      "gitBlobSha": "5cf97a7038dc08a151fe4adab49e0322525d2378",
+      "bytes": 744608,
+      "optimized": {
+        "path": "assets/audio/music/optimized/bgm_lobby.mp3",
+        "gitBlobSha": "1d69d602e9d90a8ceef077017bdfd6f9d84c05ce",
+        "bytes": 493234
+      }
+    },
+    "bgm_lobby_Intro.mp3": {
+      "path": "assets/audio/music/bgm_lobby_Intro.mp3",
+      "gitBlobSha": "486e8a465db3553e4831e251107e749466c5bcc0",
+      "bytes": 627189
+    },
+    "bgm_lobby_Loop.mp3": {
+      "path": "assets/audio/music/bgm_lobby_Loop.mp3",
+      "gitBlobSha": "14964b611cdf55e0780302bf1b0b88fcb169b073",
+      "bytes": 535147
+    },
+    "bgm_map01_boss.mp3": {
+      "path": "assets/audio/music/bgm_map01_boss.mp3",
+      "gitBlobSha": "ba14db358178ae493156ca66a58953db43e34e03",
+      "bytes": 744608,
+      "optimized": {
+        "path": "assets/audio/music/optimized/bgm_map01_boss.mp3",
+        "gitBlobSha": "603e494ef19c98e672996ef10e500cca87e4c949",
+        "bytes": 493234
+      }
+    },
+    "bgm_map01_boss_battle.mp3": {
+      "path": "assets/audio/music/bgm_map01_boss_battle.mp3",
+      "gitBlobSha": "c8a88d173560da9e1587d5da3d2ba30118c1c4a9",
+      "bytes": 2846781
+    },
+    "bgm_map01_elite.mp3": {
+      "path": "assets/audio/music/bgm_map01_elite.mp3",
+      "gitBlobSha": "965b8910691ff6d3d170276fb65a59ee97449886",
+      "bytes": 744608,
+      "optimized": {
+        "path": "assets/audio/music/optimized/bgm_map01_elite.mp3",
+        "gitBlobSha": "708f62e25a6288996dab8405a50d2a31317fb812",
+        "bytes": 493234
+      }
+    },
+    "bgm_map01_elite_battle.mp3": {
+      "path": "assets/audio/music/bgm_map01_elite_battle.mp3",
+      "gitBlobSha": "a5a67d103d85df9b3576d9d44ba72ee2af5d8459",
+      "bytes": 2369346
+    },
+    "bgm_map01_lobby.mp3": {
+      "path": "assets/audio/music/bgm_map01_lobby.mp3",
+      "gitBlobSha": "919fc18ae857268df401aedf5aba3ea90b95e6b4",
+      "bytes": 854662
+    },
+    "bgm_map01_lobby_Intro.mp3": {
+      "path": "assets/audio/music/bgm_map01_lobby_Intro.mp3",
+      "gitBlobSha": "625a5d31b0a44dbe419809291725455b346c127d",
+      "bytes": 413853
+    },
+    "bgm_map01_lobby_Loop.mp3": {
+      "path": "assets/audio/music/bgm_map01_lobby_Loop.mp3",
+      "gitBlobSha": "10cae5efe9e69f784ad8e2743e316045c47ab9b8",
+      "bytes": 2286282
+    },
+    "bgm_map01_mob.mp3": {
+      "path": "assets/audio/music/bgm_map01_mob.mp3",
+      "gitBlobSha": "31af48c4fc44bf1f0f714b72e46a7eee21c8ff12",
+      "bytes": 744608,
+      "optimized": {
+        "path": "assets/audio/music/optimized/bgm_map01_mob.mp3",
+        "gitBlobSha": "01b001535eabd61384d48ec9e61b5ae578299690",
+        "bytes": 493234
+      }
+    },
+    "bgm_map01_normal_battle.mp3": {
+      "path": "assets/audio/music/bgm_map01_normal_battle.mp3",
+      "gitBlobSha": "760a5e976f8b3dea81320a8fd3040f944a8cfa5f",
+      "bytes": 2085469
+    },
+    "bgm_map02_boss_battle.mp3": {
+      "path": "assets/audio/music/bgm_map02_boss_battle.mp3",
+      "gitBlobSha": "7c2ffa3d89bb453829abf082ecfab8eb47c52db9",
+      "bytes": 4664298
+    },
+    "bgm_map02_elite_battle.mp3": {
+      "path": "assets/audio/music/bgm_map02_elite_battle.mp3",
+      "gitBlobSha": "bfea66ecafe5a6451b6d9f5aa11696832a14f002",
+      "bytes": 3449437
+    },
+    "bgm_map02_lobby.mp3": {
+      "path": "assets/audio/music/bgm_map02_lobby.mp3",
+      "gitBlobSha": "6c477cc6719578a80832325cead4244a316fa404",
+      "bytes": 1545068
+    },
+    "bgm_map02_normal_battle.mp3": {
+      "path": "assets/audio/music/bgm_map02_normal_battle.mp3",
+      "gitBlobSha": "f1d9e1245832e59e2c0890f4b136140fb0145c77",
+      "bytes": 2755666
+    },
+    "bgm_map03_boss_battle.mp3": {
+      "path": "assets/audio/music/bgm_map03_boss_battle.mp3",
+      "gitBlobSha": "365d7a1e41082c841d180c85b55674d92ab60be0",
+      "bytes": 2752929
+    },
+    "bgm_map03_elite_battle.mp3": {
+      "path": "assets/audio/music/bgm_map03_elite_battle.mp3",
+      "gitBlobSha": "ead074b112269d9a389991817d41612378c7fe97",
+      "bytes": 2334510
+    },
+    "bgm_map03_normal_battle.mp3": {
+      "path": "assets/audio/music/bgm_map03_normal_battle.mp3",
+      "gitBlobSha": "51fc2fe5001a0a7be0ae20773581e433b393c4ff",
+      "bytes": 1676976
+    },
+    "bgm_map04_boss_battle.mp3": {
+      "path": "assets/audio/music/bgm_map04_boss_battle.mp3",
+      "gitBlobSha": "32ae0d47960a7fdf2800d9483f80b6971d7f1c96",
+      "bytes": 3144285
+    },
+    "bgm_map04_elite_battle.mp3": {
+      "path": "assets/audio/music/bgm_map04_elite_battle.mp3",
+      "gitBlobSha": "fb3d1b89fc6970c20891f1a4262fa0a8c2b02dc1",
+      "bytes": 3868232
+    },
+    "bgm_map04_lobby.mp3": {
+      "path": "assets/audio/music/bgm_map04_lobby.mp3",
+      "gitBlobSha": "ea0b108821b119b7304d34b46066c8cb1bc1102a",
+      "bytes": 3063904,
+      "optimized": {
+        "path": "assets/audio/music/optimized/bgm_map04_lobby.mp3",
+        "gitBlobSha": "f325b5bdef24721019fcf066b901ce67b4e645fb",
+        "bytes": 2148140
+      }
+    },
+    "bgm_map04_normal_battle.mp3": {
+      "path": "assets/audio/music/bgm_map04_normal_battle.mp3",
+      "gitBlobSha": "50481aabd0106aee6959a719e38e9a040a36a79c",
+      "bytes": 2974739
+    },
+    "bgm_map05_boss_battle.mp3": {
+      "path": "assets/audio/music/bgm_map05_boss_battle.mp3",
+      "gitBlobSha": "663a6113091d73c25d77ce1fd23ea9b83984cb5d",
+      "bytes": 3535599
+    },
+    "bgm_map05_elite_battle.mp3": {
+      "path": "assets/audio/music/bgm_map05_elite_battle.mp3",
+      "gitBlobSha": "1805abe325679887c700605445c4f642464a6a96",
+      "bytes": 3357715
+    },
+    "bgm_map05_lobby.mp3": {
+      "path": "assets/audio/music/bgm_map05_lobby.mp3",
+      "gitBlobSha": "c3ca1ef2596ee0cd328ee3d77c36f7099ce60941",
+      "bytes": 2587281,
+      "optimized": {
+        "path": "assets/audio/music/optimized/bgm_map05_lobby.mp3",
+        "gitBlobSha": "b22c003571d1bb78e1ba4e780d577b32ff2a1ff4",
+        "bytes": 1892780
+      }
+    },
+    "bgm_map05_normal_battle.mp3": {
+      "path": "assets/audio/music/bgm_map05_normal_battle.mp3",
+      "gitBlobSha": "3edc8b45499be1c5ee5dd3e8a5a9a1203b4cad12",
+      "bytes": 3358510
+    },
+    "bgm_map06_boss_battle.mp3": {
+      "path": "assets/audio/music/bgm_map06_boss_battle.mp3",
+      "gitBlobSha": "75c29b51e04458c6e7114203718305ce9f51d798",
+      "bytes": 3445717
+    },
+    "bgm_map06_elite_battle.mp3": {
+      "path": "assets/audio/music/bgm_map06_elite_battle.mp3",
+      "gitBlobSha": "6fbcfb694f32873ade0b42762e98cac9e4e89b8d",
+      "bytes": 3365469
+    },
+    "bgm_map06_lobby.mp3": {
+      "path": "assets/audio/music/bgm_map06_lobby.mp3",
+      "gitBlobSha": "ab16e306819219b3151e92163cfd540030c9f61f",
+      "bytes": 3189738
+    },
+    "bgm_map06_normal_battle.mp3": {
+      "path": "assets/audio/music/bgm_map06_normal_battle.mp3",
+      "gitBlobSha": "08629afc791feacf67b3e0db7eaadfbe7db4c304",
+      "bytes": 3329148
+    },
+    "bgm_map07_boss_battle.mp3": {
+      "path": "assets/audio/music/bgm_map07_boss_battle.mp3",
+      "gitBlobSha": "c98a1ec0c4b2f10e582a82f3752ba91159af11a8",
+      "bytes": 3429061
+    },
+    "bgm_map07_elite_battle.mp3": {
+      "path": "assets/audio/music/bgm_map07_elite_battle.mp3",
+      "gitBlobSha": "3f23c232a26a0bebae7395005edb019f9c376fe2",
+      "bytes": 3372219
+    },
+    "bgm_map07_lobby.mp3": {
+      "path": "assets/audio/music/bgm_map07_lobby.mp3",
+      "gitBlobSha": "c50c8dd84fa40e5eb0c39edef671813ad275d52b",
+      "bytes": 3316797
+    },
+    "bgm_map07_normal_battle.mp3": {
+      "path": "assets/audio/music/bgm_map07_normal_battle.mp3",
+      "gitBlobSha": "b00053cc4f395de23c74d1f15bc65aa46290dffa",
+      "bytes": 3008594
+    },
+    "bgm_map08_boss_battle.mp3": {
+      "path": "assets/audio/music/bgm_map08_boss_battle.mp3",
+      "gitBlobSha": "7966c676b52af4bbd292c9f931b6ae4996475f76",
+      "bytes": 3892766
+    },
+    "bgm_map08_elite_battle.mp3": {
+      "path": "assets/audio/music/bgm_map08_elite_battle.mp3",
+      "gitBlobSha": "d50622a8f79c149c31d2d0ae97639adb4b28a2fd",
+      "bytes": 3836718
+    },
+    "bgm_map08_lobby.mp3": {
+      "path": "assets/audio/music/bgm_map08_lobby.mp3",
+      "gitBlobSha": "3456f93eae9ad9b1cbd1567a6e770a3c617d21a6",
+      "bytes": 3092729
+    },
+    "bgm_map08_normal_battle.mp3": {
+      "path": "assets/audio/music/bgm_map08_normal_battle.mp3",
+      "gitBlobSha": "75ab0d149d70a37e30ffc7a45cf6ef963efb3af8",
+      "bytes": 3023139
+    },
+    "bgm_map09_boss_battle.mp3": {
+      "path": "assets/audio/music/bgm_map09_boss_battle.mp3",
+      "gitBlobSha": "3772e803f86be48efb4821c65919c7566a17ee7c",
+      "bytes": 3683786
+    },
+    "bgm_map09_elite_battle.mp3": {
+      "path": "assets/audio/music/bgm_map09_elite_battle.mp3",
+      "gitBlobSha": "4f55021a23110e9877142a86c5541e9b9ed95bff",
+      "bytes": 3665438
+    },
+    "bgm_map09_lobby.mp3": {
+      "path": "assets/audio/music/bgm_map09_lobby.mp3",
+      "gitBlobSha": "3ee389240adffc8904aa695a622834abc7bfe1f5",
+      "bytes": 2889873
+    },
+    "bgm_map09_normal_battle.mp3": {
+      "path": "assets/audio/music/bgm_map09_normal_battle.mp3",
+      "gitBlobSha": "c18e6bf3c9bbd8a5de0601021b2917ece97a0fa0",
+      "bytes": 3103575
+    },
+    "bgm_map10_boss_battle.mp3": {
+      "path": "assets/audio/music/bgm_map10_boss_battle.mp3",
+      "gitBlobSha": "c9093b9663eb0039739bd9a78a4836ad26f903d0",
+      "bytes": 2991865
+    },
+    "bgm_map10_elite_battle.mp3": {
+      "path": "assets/audio/music/bgm_map10_elite_battle.mp3",
+      "gitBlobSha": "b38b356c4e1d779894b82311825ee9d9a2f663d9",
+      "bytes": 3209131
+    },
+    "bgm_map10_lobby.mp3": {
+      "path": "assets/audio/music/bgm_map10_lobby.mp3",
+      "gitBlobSha": "b889d1b452f43e402865c5ad320441aaddb5abf1",
+      "bytes": 4300318
+    },
+    "bgm_map10_normal_battle.mp3": {
+      "path": "assets/audio/music/bgm_map10_normal_battle.mp3",
+      "gitBlobSha": "f8a7dad5e0bcf092624681f1acc041d61912eb19",
+      "bytes": 4689438
+    },
+    "bgm_tower.mp3": {
+      "path": "assets/audio/music/bgm_tower.mp3",
+      "gitBlobSha": "7a2fccf6f05b899c28c9cc394375e1ad714aab76",
+      "bytes": 5538235,
+      "optimized": {
+        "path": "assets/audio/music/optimized/bgm_tower.mp3",
+        "gitBlobSha": "7097aab9e87231c0c79f27b653e31cae153ba782",
+        "bytes": 3760172
+      }
+    },
+    "bos_10_01.png": {
+      "path": "assets/enemies/bosses/bos_10_01.png",
+      "gitBlobSha": "d4b7642b5ab777d8647fc96a869ccfe71cbc16dd",
+      "bytes": 933166,
+      "optimized": {
+        "path": "assets/enemies/bosses/optimized/bos_10_01.png.webp",
+        "gitBlobSha": "0b3ca05a1d390da7a9e9973a3af004dbc75c73a0",
+        "bytes": 572038
+      }
+    },
+    "bos_10_02.png": {
+      "path": "assets/enemies/bosses/bos_10_02.png",
+      "gitBlobSha": "85f39670905cda9191f34201e13b9605427daccb",
+      "bytes": 840215,
+      "optimized": {
+        "path": "assets/enemies/bosses/optimized/bos_10_02.png.webp",
+        "gitBlobSha": "bfc0dd1c4a4c1e07dc695e31c75fcef9694e9ff0",
+        "bytes": 501608
+      }
+    },
+    "bos_1_01.png": {
+      "path": "assets/enemies/bosses/bos_1_01.png",
+      "gitBlobSha": "167b042ce81f2cbc30a19e327d79815016935498",
+      "bytes": 713872,
+      "optimized": {
+        "path": "assets/enemies/bosses/optimized/bos_1_01.png.webp",
+        "gitBlobSha": "e8433bdc56ca2e85798fa01ce279b5aaa0c2351a",
+        "bytes": 437474
+      }
+    },
+    "bos_1_02.png": {
+      "path": "assets/enemies/bosses/bos_1_02.png",
+      "gitBlobSha": "2e3931281bff6d107b0051136c8761f14cbd0ff0",
+      "bytes": 702755,
+      "optimized": {
+        "path": "assets/enemies/bosses/optimized/bos_1_02.png.webp",
+        "gitBlobSha": "8eaf11f4aec68f54bdd5ccaf15333800f3e68d65",
+        "bytes": 424780
+      }
+    },
+    "bos_2_01.png": {
+      "path": "assets/enemies/bosses/bos_2_01.png",
+      "gitBlobSha": "8b599d018a68f31a6639638a4fb88cee90417ee2",
+      "bytes": 634039,
+      "optimized": {
+        "path": "assets/enemies/bosses/optimized/bos_2_01.png.webp",
+        "gitBlobSha": "1643135a49020d8beed90ec2a4234bc6b4f78062",
+        "bytes": 372268
+      }
+    },
+    "bos_2_02.png": {
+      "path": "assets/enemies/bosses/bos_2_02.png",
+      "gitBlobSha": "936181de8b46c5612dff9de80ddaab2f7949aa1f",
+      "bytes": 864161,
+      "optimized": {
+        "path": "assets/enemies/bosses/optimized/bos_2_02.png.webp",
+        "gitBlobSha": "ac514eef14b0959d2306b70cc60de7ae32e2e633",
+        "bytes": 537964
+      }
+    },
+    "bos_3_01.png": {
+      "path": "assets/enemies/bosses/bos_3_01.png",
+      "gitBlobSha": "15c8c51ef149ab272a3d5030f610a560d0751012",
+      "bytes": 637417,
+      "optimized": {
+        "path": "assets/enemies/bosses/optimized/bos_3_01.png.webp",
+        "gitBlobSha": "35516f6da8ade3648d2e9dc0ec6be99cdb85003e",
+        "bytes": 401226
+      }
+    },
+    "bos_3_02.png": {
+      "path": "assets/enemies/bosses/bos_3_02.png",
+      "gitBlobSha": "33b5b07dd6a216d9efa3e3ecf9370abf0772f256",
+      "bytes": 610629,
+      "optimized": {
+        "path": "assets/enemies/bosses/optimized/bos_3_02.png.webp",
+        "gitBlobSha": "5e1b83a9f03d50e40c205d727c290744c63f8a40",
+        "bytes": 359020
+      }
+    },
+    "bos_4_01.png": {
+      "path": "assets/enemies/bosses/bos_4_01.png",
+      "gitBlobSha": "5e83d84b002e9815f912b559adc73ed0b068f1f0",
+      "bytes": 914635,
+      "optimized": {
+        "path": "assets/enemies/bosses/optimized/bos_4_01.png.webp",
+        "gitBlobSha": "12b26985e8d30409bf34ef35b983ae3adf95251c",
+        "bytes": 588160
+      }
+    },
+    "bos_4_02.png": {
+      "path": "assets/enemies/bosses/bos_4_02.png",
+      "gitBlobSha": "e47961e49512a879dd2e55285e6249601018f8ba",
+      "bytes": 708053,
+      "optimized": {
+        "path": "assets/enemies/bosses/optimized/bos_4_02.png.webp",
+        "gitBlobSha": "6332b06c00ecf6044b2072e150cb64bc75e7cb37",
+        "bytes": 440666
+      }
+    },
+    "bos_5_01.png": {
+      "path": "assets/enemies/bosses/bos_5_01.png",
+      "gitBlobSha": "0af5ac9a53fa1984f3a48342b33687ee37c9b4d7",
+      "bytes": 775687,
+      "optimized": {
+        "path": "assets/enemies/bosses/optimized/bos_5_01.png.webp",
+        "gitBlobSha": "2fc96d2e968fa9d391e65b2b56f1857ecb2d2cdd",
+        "bytes": 476740
+      }
+    },
+    "bos_5_02.png": {
+      "path": "assets/enemies/bosses/bos_5_02.png",
+      "gitBlobSha": "f0374b5d33abe6ff929874b7c7ab74a469a42247",
+      "bytes": 513807,
+      "optimized": {
+        "path": "assets/enemies/bosses/optimized/bos_5_02.png.webp",
+        "gitBlobSha": "09cf3454e16b4e9dd93124eba0032bc713401191",
+        "bytes": 296120
+      }
+    },
+    "bos_6_01.png": {
+      "path": "assets/enemies/bosses/bos_6_01.png",
+      "gitBlobSha": "87d489854a743d293bd572664e50278fc650968f",
+      "bytes": 981139,
+      "optimized": {
+        "path": "assets/enemies/bosses/optimized/bos_6_01.png.webp",
+        "gitBlobSha": "ac0f98e509b02bde384be0f7ce9094513f949172",
+        "bytes": 589178
+      }
+    },
+    "bos_6_02.png": {
+      "path": "assets/enemies/bosses/bos_6_02.png",
+      "gitBlobSha": "b38063672a1a0ce31be6b50d78a282d42c3cb135",
+      "bytes": 933434,
+      "optimized": {
+        "path": "assets/enemies/bosses/optimized/bos_6_02.png.webp",
+        "gitBlobSha": "37b9e9c105b1866a83dbf6218c341658f4a6fcb4",
+        "bytes": 582424
+      }
+    },
+    "bos_7_01.png": {
+      "path": "assets/enemies/bosses/bos_7_01.png",
+      "gitBlobSha": "8559c7a79b7398151ce69df702bdeff55ca8bfdc",
+      "bytes": 766268,
+      "optimized": {
+        "path": "assets/enemies/bosses/optimized/bos_7_01.png.webp",
+        "gitBlobSha": "70e8531cd8848f75ad71a59ad59c6b84a3938899",
+        "bytes": 459716
+      }
+    },
+    "bos_7_02.png": {
+      "path": "assets/enemies/bosses/bos_7_02.png",
+      "gitBlobSha": "a01266d1da8159bc4042c1ec773a551d31bf64b8",
+      "bytes": 700201,
+      "optimized": {
+        "path": "assets/enemies/bosses/optimized/bos_7_02.png.webp",
+        "gitBlobSha": "f8471a73c61dad4f8c6e1cda960e87d33d391f50",
+        "bytes": 440688
+      }
+    },
+    "bos_8_01.png": {
+      "path": "assets/enemies/bosses/bos_8_01.png",
+      "gitBlobSha": "71026d4398eb4c3b5fc7211a701c560dde403308",
+      "bytes": 969906,
+      "optimized": {
+        "path": "assets/enemies/bosses/optimized/bos_8_01.png.webp",
+        "gitBlobSha": "20eb497a649dcc64f1fbf5021e1e225624cb100c",
+        "bytes": 606890
+      }
+    },
+    "bos_8_02.png": {
+      "path": "assets/enemies/bosses/bos_8_02.png",
+      "gitBlobSha": "cba43a2f4a34ea0e10103b62c4d9e78847f3111d",
+      "bytes": 1054410,
+      "optimized": {
+        "path": "assets/enemies/bosses/optimized/bos_8_02.png.webp",
+        "gitBlobSha": "fbb758f65f6e9710705d648f467ea71bc279bb71",
+        "bytes": 707998
+      }
+    },
+    "bos_9_01.png": {
+      "path": "assets/enemies/bosses/bos_9_01.png",
+      "gitBlobSha": "6e2504747074455e0e110ec5561b4fa88000c72d",
+      "bytes": 827070,
+      "optimized": {
+        "path": "assets/enemies/bosses/optimized/bos_9_01.png.webp",
+        "gitBlobSha": "9d06045a0950d5de69ec97f5461dedd8b05a3795",
+        "bytes": 488116
+      }
+    },
+    "bos_9_02.png": {
+      "path": "assets/enemies/bosses/bos_9_02.png",
+      "gitBlobSha": "4b3c0126a1b6f4fcb1491d2d5d5e3645c9ce502e",
+      "bytes": 1238899,
+      "optimized": {
+        "path": "assets/enemies/bosses/optimized/bos_9_02.png.webp",
+        "gitBlobSha": "7a7a613782b4f290a86cb1ea6b9dd6496f8e2a99",
+        "bytes": 765252
+      }
+    },
+    "boss_reading_1-1.png": {
+      "path": "assets/enemies/bosses/boss_reading_1-1.png",
+      "gitBlobSha": "008c2624cb3583760757ad6694ab41bcf7a97f51",
+      "bytes": 2621472,
+      "optimized": {
+        "path": "assets/enemies/bosses/optimized/boss_reading_1-1.png.webp",
+        "gitBlobSha": "7d6151dd18d5c4592d765860d20e85414cad914b",
+        "bytes": 1397884
+      }
+    },
+    "boss_reading_3-1.png": {
+      "path": "assets/enemies/bosses/boss_reading_3-1.png",
+      "gitBlobSha": "a6c8515388d29df14e98059f4ef52a21c5dd7577",
+      "bytes": 1786792,
+      "optimized": {
+        "path": "assets/enemies/bosses/optimized/boss_reading_3-1.png.webp",
+        "gitBlobSha": "0918e3ba138c5b177c82469adfa562bb68b3cbac",
+        "bytes": 1048682
+      }
+    },
+    "boss_reading_5-1.png": {
+      "path": "assets/enemies/bosses/boss_reading_5-1.png",
+      "gitBlobSha": "69759413269f5578bbdc2f5e10a512b6a27aa3d9",
+      "bytes": 1685824,
+      "optimized": {
+        "path": "assets/enemies/bosses/optimized/boss_reading_5-1.png.webp",
+        "gitBlobSha": "e398ef08c68e51bed442ac57d8e3af128da6fc17",
+        "bytes": 898880
+      }
+    },
+    "boss_reading_7-1.png": {
+      "path": "assets/enemies/bosses/boss_reading_7-1.png",
+      "gitBlobSha": "dae5238426aeb80bab31516407f3739018d0dcc1",
+      "bytes": 3851787,
+      "optimized": {
+        "path": "assets/enemies/bosses/optimized/boss_reading_7-1.png.webp",
+        "gitBlobSha": "4989b441e7ea02ee58c12d632424168f5ee2fe6b",
+        "bytes": 2388588
+      }
+    },
+    "eli_10_01.png": {
+      "path": "assets/enemies/elites/eli_10_01.png",
+      "gitBlobSha": "4e742a54b18f3b612532680430df4010460f8ff3",
+      "bytes": 783343,
+      "optimized": {
+        "path": "assets/enemies/elites/optimized/eli_10_01.png.webp",
+        "gitBlobSha": "def5c6931e4cfd508a16eb551872c2ddbc8edf28",
+        "bytes": 473006
+      }
+    },
+    "eli_10_02.png": {
+      "path": "assets/enemies/elites/eli_10_02.png",
+      "gitBlobSha": "304d6a97b8aa31c22052f1d9b160b3914cbf516d",
+      "bytes": 973234,
+      "optimized": {
+        "path": "assets/enemies/elites/optimized/eli_10_02.png.webp",
+        "gitBlobSha": "557a23ec41c08542b3a15204c8b35a442539756f",
+        "bytes": 598658
+      }
+    },
+    "eli_10_03.png": {
+      "path": "assets/enemies/elites/eli_10_03.png",
+      "gitBlobSha": "fffe0624a54b0a899607eb5c454c10a1d2286246",
+      "bytes": 882386,
+      "optimized": {
+        "path": "assets/enemies/elites/optimized/eli_10_03.png.webp",
+        "gitBlobSha": "8d6713142e9000455cef8ea3efa820d561226bba",
+        "bytes": 548524
+      }
+    },
+    "eli_1_01.png": {
+      "path": "assets/enemies/elites/eli_1_01.png",
+      "gitBlobSha": "43ca17f95fda32a274c86232b9a0b5150524226f",
+      "bytes": 713111,
+      "optimized": {
+        "path": "assets/enemies/elites/optimized/eli_1_01.png.webp",
+        "gitBlobSha": "0792efbc66e1c78c62694143e7d203eb3f77a00f",
+        "bytes": 436922
+      }
+    },
+    "eli_1_02.png": {
+      "path": "assets/enemies/elites/eli_1_02.png",
+      "gitBlobSha": "1e970fed4d30d63ff2e028505b4df9dbc0728001",
+      "bytes": 495119,
+      "optimized": {
+        "path": "assets/enemies/elites/optimized/eli_1_02.png.webp",
+        "gitBlobSha": "61d6dd76ca30d40ef7144b4300ff9498d85ecfed",
+        "bytes": 301750
+      }
+    },
+    "eli_1_03.png": {
+      "path": "assets/enemies/elites/eli_1_03.png",
+      "gitBlobSha": "c8da4569f1f129be1f404d268d9d601b1fb70792",
+      "bytes": 538296,
+      "optimized": {
+        "path": "assets/enemies/elites/optimized/eli_1_03.png.webp",
+        "gitBlobSha": "9e7e391f8f2654d0cd9607d29593694f7f3e3984",
+        "bytes": 330450
+      }
+    },
+    "eli_2_01.png": {
+      "path": "assets/enemies/elites/eli_2_01.png",
+      "gitBlobSha": "ce0b356d146ac811f0cd3a2eebc9c2f86160e4a4",
+      "bytes": 535892,
+      "optimized": {
+        "path": "assets/enemies/elites/optimized/eli_2_01.png.webp",
+        "gitBlobSha": "40b8d9bea2c9485b04293eb67d8eccedf7c87621",
+        "bytes": 312786
+      }
+    },
+    "eli_2_02.png": {
+      "path": "assets/enemies/elites/eli_2_02.png",
+      "gitBlobSha": "06f0be745ba4d93a1dc7159149889fc541370285",
+      "bytes": 502125,
+      "optimized": {
+        "path": "assets/enemies/elites/optimized/eli_2_02.png.webp",
+        "gitBlobSha": "f2e50eff830e37e8ffb0df2632854d3e572c4a53",
+        "bytes": 290282
+      }
+    },
+    "eli_2_03.png": {
+      "path": "assets/enemies/elites/eli_2_03.png",
+      "gitBlobSha": "f309a7f500a642055507294896269e3ac1aabfa0",
+      "bytes": 683734,
+      "optimized": {
+        "path": "assets/enemies/elites/optimized/eli_2_03.png.webp",
+        "gitBlobSha": "fbf4589c4cae0e14f8a0d269d0a829e6a6cd7bce",
+        "bytes": 404926
+      }
+    },
+    "eli_3_01.png": {
+      "path": "assets/enemies/elites/eli_3_01.png",
+      "gitBlobSha": "05c3ee5c913ed224e4830adb82b60563b599b485",
+      "bytes": 605303,
+      "optimized": {
+        "path": "assets/enemies/elites/optimized/eli_3_01.png.webp",
+        "gitBlobSha": "efd546cd14b980d5dc8af2d994a4f56420ee33eb",
+        "bytes": 369826
+      }
+    },
+    "eli_3_02.png": {
+      "path": "assets/enemies/elites/eli_3_02.png",
+      "gitBlobSha": "0e377e926555ffe3bf39c40702f22bafd3be2d0c",
+      "bytes": 623637,
+      "optimized": {
+        "path": "assets/enemies/elites/optimized/eli_3_02.png.webp",
+        "gitBlobSha": "343da6ac14d27637fe303196e1f586266a57ec98",
+        "bytes": 382356
+      }
+    },
+    "eli_3_03.png": {
+      "path": "assets/enemies/elites/eli_3_03.png",
+      "gitBlobSha": "f4ed52dce9a7aa97679dfa062b8563d6f80cc7f8",
+      "bytes": 702696,
+      "optimized": {
+        "path": "assets/enemies/elites/optimized/eli_3_03.png.webp",
+        "gitBlobSha": "f82e6aca5d4b548dc4350dee6e00e375560f520b",
+        "bytes": 430014
+      }
+    },
+    "eli_4_01.png": {
+      "path": "assets/enemies/elites/eli_4_01.png",
+      "gitBlobSha": "0046c65ec68026dd4f1dab882e0c74e0fb9e537f",
+      "bytes": 605611,
+      "optimized": {
+        "path": "assets/enemies/elites/optimized/eli_4_01.png.webp",
+        "gitBlobSha": "917e69a574d31841d498a4c4dbacff47e171bb7f",
+        "bytes": 381556
+      }
+    },
+    "eli_4_02.png": {
+      "path": "assets/enemies/elites/eli_4_02.png",
+      "gitBlobSha": "551048962cc02c618d9c312dfe5f5eb73dfeb2b9",
+      "bytes": 751520,
+      "optimized": {
+        "path": "assets/enemies/elites/optimized/eli_4_02.png.webp",
+        "gitBlobSha": "bce2f4647019720aa05a7349aba717ed3a8e8024",
+        "bytes": 471062
+      }
+    },
+    "eli_4_03.png": {
+      "path": "assets/enemies/elites/eli_4_03.png",
+      "gitBlobSha": "30bbc1b85a62a33b3d0c52c0beb8e98600903069",
+      "bytes": 629257,
+      "optimized": {
+        "path": "assets/enemies/elites/optimized/eli_4_03.png.webp",
+        "gitBlobSha": "8702a87e8a49af6c0b4be7de623c4732639ed633",
+        "bytes": 381572
+      }
+    },
+    "eli_5_01.png": {
+      "path": "assets/enemies/elites/eli_5_01.png",
+      "gitBlobSha": "7872f5f4f4ce5409d37dd938d5b5f2a62edcc6cf",
+      "bytes": 515311,
+      "optimized": {
+        "path": "assets/enemies/elites/optimized/eli_5_01.png.webp",
+        "gitBlobSha": "d83c2698e526f5c9d01cc1d20c1b022dd4006e95",
+        "bytes": 290796
+      }
+    },
+    "eli_5_02.png": {
+      "path": "assets/enemies/elites/eli_5_02.png",
+      "gitBlobSha": "0fad5bfb70d3fc5421f2d7dbd2c51f26a6d60b0a",
+      "bytes": 646403,
+      "optimized": {
+        "path": "assets/enemies/elites/optimized/eli_5_02.png.webp",
+        "gitBlobSha": "a868c7f3cd2e1cc5e5b6bd3dc0441880b0dae482",
+        "bytes": 392430
+      }
+    },
+    "eli_5_03.png": {
+      "path": "assets/enemies/elites/eli_5_03.png",
+      "gitBlobSha": "b03c0ae53a09b22c4b51b60502bb192d4f3eef21",
+      "bytes": 638172,
+      "optimized": {
+        "path": "assets/enemies/elites/optimized/eli_5_03.png.webp",
+        "gitBlobSha": "4f394b9dc5ca2fac2dfc0dc9be73fb66c5885acb",
+        "bytes": 380014
+      }
+    },
+    "eli_6_01.png": {
+      "path": "assets/enemies/elites/eli_6_01.png",
+      "gitBlobSha": "c7b98a0e5dade5378719f74bb4a4b25d9bf24e99",
+      "bytes": 644853,
+      "optimized": {
+        "path": "assets/enemies/elites/optimized/eli_6_01.png.webp",
+        "gitBlobSha": "1f507aca7d154edaa8cfda50bf903174a9fba230",
+        "bytes": 416816
+      }
+    },
+    "eli_6_02.png": {
+      "path": "assets/enemies/elites/eli_6_02.png",
+      "gitBlobSha": "9b398bbe7b1419b1d268fe3e903cd96cc4a3f951",
+      "bytes": 903132,
+      "optimized": {
+        "path": "assets/enemies/elites/optimized/eli_6_02.png.webp",
+        "gitBlobSha": "ac0cddd6e0068ce2df7d176f2d7135168f1dbc2d",
+        "bytes": 567832
+      }
+    },
+    "eli_6_03.png": {
+      "path": "assets/enemies/elites/eli_6_03.png",
+      "gitBlobSha": "481bd05c9d0d0f7cbc67df8400478cedf4aa8041",
+      "bytes": 768388,
+      "optimized": {
+        "path": "assets/enemies/elites/optimized/eli_6_03.png.webp",
+        "gitBlobSha": "6ebbc71ea80086cacd27d42e2dffc185153e20bc",
+        "bytes": 459768
+      }
+    },
+    "eli_7_01.png": {
+      "path": "assets/enemies/elites/eli_7_01.png",
+      "gitBlobSha": "fd20dc9733d59a72d58091936cced2733be395bf",
+      "bytes": 759400,
+      "optimized": {
+        "path": "assets/enemies/elites/optimized/eli_7_01.png.webp",
+        "gitBlobSha": "7beba7bb2786a5a17e47c8d2117f008eac9f4b0c",
+        "bytes": 469216
+      }
+    },
+    "eli_7_02.png": {
+      "path": "assets/enemies/elites/eli_7_02.png",
+      "gitBlobSha": "3684d3c36dcafd894f07de572ff39c298ee1112c",
+      "bytes": 1042028,
+      "optimized": {
+        "path": "assets/enemies/elites/optimized/eli_7_02.png.webp",
+        "gitBlobSha": "9fe45f166fe479bdd4fed169803512c9e86c3abb",
+        "bytes": 647084
+      }
+    },
+    "eli_7_03.png": {
+      "path": "assets/enemies/elites/eli_7_03.png",
+      "gitBlobSha": "5ba0f200cad7637edb9030da805249e0f738e099",
+      "bytes": 859241,
+      "optimized": {
+        "path": "assets/enemies/elites/optimized/eli_7_03.png.webp",
+        "gitBlobSha": "2b7fcc399883cec617e012736225b36e20f959b8",
+        "bytes": 532388
+      }
+    },
+    "eli_8_01.png": {
+      "path": "assets/enemies/elites/eli_8_01.png",
+      "gitBlobSha": "76d21a8758aab232aec1ff3d86dbe40330b4153a",
+      "bytes": 762944,
+      "optimized": {
+        "path": "assets/enemies/elites/optimized/eli_8_01.png.webp",
+        "gitBlobSha": "1883388d7208e2eb3589dcb1464c6255ffd7b34b",
+        "bytes": 463732
+      }
+    },
+    "eli_8_02.png": {
+      "path": "assets/enemies/elites/eli_8_02.png",
+      "gitBlobSha": "43379d453f9c9dd57f79593426ac2721501c857b",
+      "bytes": 915651,
+      "optimized": {
+        "path": "assets/enemies/elites/optimized/eli_8_02.png.webp",
+        "gitBlobSha": "c28fc8d4f28a6152b863759c48402668c883806d",
+        "bytes": 590156
+      }
+    },
+    "eli_8_03.png": {
+      "path": "assets/enemies/elites/eli_8_03.png",
+      "gitBlobSha": "2cd50d345f9a713451fc158edb0830e44527a140",
+      "bytes": 771534,
+      "optimized": {
+        "path": "assets/enemies/elites/optimized/eli_8_03.png.webp",
+        "gitBlobSha": "39a3cfe4475865a15672b3f8ee8e51797ddf0fa2",
+        "bytes": 474178
+      }
+    },
+    "eli_9_01.png": {
+      "path": "assets/enemies/elites/eli_9_01.png",
+      "gitBlobSha": "baaf90d9d42a7733b26eaede8946db7f847aa79e",
+      "bytes": 999908,
+      "optimized": {
+        "path": "assets/enemies/elites/optimized/eli_9_01.png.webp",
+        "gitBlobSha": "e8536d37f6ab73e8d95a01d0d45af8b2c7c5fbee",
+        "bytes": 594572
+      }
+    },
+    "eli_9_02.png": {
+      "path": "assets/enemies/elites/eli_9_02.png",
+      "gitBlobSha": "1b9119eb29dd6103e4c14ca0f1328c3bd58e3de9",
+      "bytes": 1126532,
+      "optimized": {
+        "path": "assets/enemies/elites/optimized/eli_9_02.png.webp",
+        "gitBlobSha": "5c141b7fb03e673205111c771b8660b0ba079936",
+        "bytes": 686472
+      }
+    },
+    "eli_9_03.png": {
+      "path": "assets/enemies/elites/eli_9_03.png",
+      "gitBlobSha": "0d456a61298b196f9930cc48679477d780a3a261",
+      "bytes": 1014174,
+      "optimized": {
+        "path": "assets/enemies/elites/optimized/eli_9_03.png.webp",
+        "gitBlobSha": "2a9ad557153f24f9bc5e41071eaefc38054ad7d3",
+        "bytes": 629506
+      }
+    },
+    "enemy_fullplatekinght01.png": {
+      "path": "assets/enemies/other/enemy_fullplatekinght01.png",
+      "gitBlobSha": "373dae47817b1c787b9b41c944646387c1622de9",
+      "bytes": 585431,
+      "optimized": {
+        "path": "assets/enemies/other/optimized/enemy_fullplatekinght01.png.webp",
+        "gitBlobSha": "08fe7ab1c7249d2e9c4097ed4f74f89d8b1ebcd3",
+        "bytes": 320264
+      }
+    },
+    "enemy_zombie01.png": {
+      "path": "assets/enemies/other/enemy_zombie01.png",
+      "gitBlobSha": "08158bd1f8d70c6c7c36297a6712c5f92ef17cf5",
+      "bytes": 484381,
+      "optimized": {
+        "path": "assets/enemies/other/optimized/enemy_zombie01.png.webp",
+        "gitBlobSha": "5992ced6886d07e69e6792f38dacf013e15119ae",
+        "bytes": 273930
+      }
+    },
+    "forest_wishpool.jpg": {
+      "path": "assets/ui/summon/forest_wishpool.jpg",
+      "gitBlobSha": "5189bc549edab8d778d12bc50626f527147ae17f",
+      "bytes": 259885,
+      "optimized": {
+        "path": "assets/ui/summon/optimized/forest_wishpool.jpg.webp",
+        "gitBlobSha": "0a009f8653a1c4733c01d07068f70e77edab15de",
+        "bytes": 243466
+      }
+    },
+    "gacha_N_01.png": {
+      "path": "assets/ui/banners/gacha_N_01.png",
+      "gitBlobSha": "777fa85f6ec9a126efa73f03448d58a7c374051e",
+      "bytes": 1214067,
+      "optimized": {
+        "path": "assets/ui/banners/optimized/gacha_N_01.png.webp",
+        "gitBlobSha": "ad781778c7383bc2bc3780f73c86ff9ce3f3ef93",
+        "bytes": 736316
+      }
+    },
+    "gacha_N_02.png": {
+      "path": "assets/ui/banners/gacha_N_02.png",
+      "gitBlobSha": "f5932857836280ad3306357b956dae368fdd51c5",
+      "bytes": 1276968,
+      "optimized": {
+        "path": "assets/ui/banners/optimized/gacha_N_02.png.webp",
+        "gitBlobSha": "e6b62a3fe333b1f9839d9bdd76f4424c41aa965c",
+        "bytes": 779256
+      }
+    },
+    "gacha_N_03.png": {
+      "path": "assets/ui/banners/gacha_N_03.png",
+      "gitBlobSha": "d231cc8ee0920048a3513eeed379473837680bda",
+      "bytes": 1274833,
+      "optimized": {
+        "path": "assets/ui/banners/optimized/gacha_N_03.png.webp",
+        "gitBlobSha": "2f0041e599758071cdfa9f5bc243ac1bfe3d4c91",
+        "bytes": 777160
+      }
+    },
+    "gacha_S_01.png": {
+      "path": "assets/ui/banners/gacha_S_01.png",
+      "gitBlobSha": "778526835a8709be0b3b823ab48cfc8bf6c7950f",
+      "bytes": 1326803,
+      "optimized": {
+        "path": "assets/ui/banners/optimized/gacha_S_01.png.webp",
+        "gitBlobSha": "f081d7230396ba83731a62f0d3557845df088653",
+        "bytes": 823718
+      }
+    },
+    "gacha_S_02.png": {
+      "path": "assets/ui/banners/gacha_S_02.png",
+      "gitBlobSha": "f38fa8bf871bb6f68105fa2afcb11ab756aff6ba",
+      "bytes": 1333623,
+      "optimized": {
+        "path": "assets/ui/banners/optimized/gacha_S_02.png.webp",
+        "gitBlobSha": "093a58a0d81fc0c3c000d8af1c6f61262328ea73",
+        "bytes": 839472
+      }
+    },
+    "gacha_S_03.png": {
+      "path": "assets/ui/banners/gacha_S_03.png",
+      "gitBlobSha": "d1f10ed199bde3cd8d44b825c3cbba552f401ffb",
+      "bytes": 1478167,
+      "optimized": {
+        "path": "assets/ui/banners/optimized/gacha_S_03.png.webp",
+        "gitBlobSha": "04ecd99b3a5d747fcd33c81f8dbbf23837b1a317",
+        "bytes": 936510
+      }
+    },
+    "gacha_comet_01.jpg": {
+      "path": "assets/ui/banners/gacha_comet_01.jpg",
+      "gitBlobSha": "70a487c6aa447868adfedda201cb8d276d165737",
+      "bytes": 567170,
+      "optimized": {
+        "path": "assets/ui/banners/optimized/gacha_comet_01.jpg.webp",
+        "gitBlobSha": "681ac431c85f8709dc3d74e8f18d5216c99a88c4",
+        "bytes": 485148
+      }
+    },
+    "gacha_comet_02.jpg": {
+      "path": "assets/ui/banners/gacha_comet_02.jpg",
+      "gitBlobSha": "56570ef03856da73428dff5abdd38444c31ef0f3",
+      "bytes": 529725,
+      "optimized": {
+        "path": "assets/ui/banners/optimized/gacha_comet_02.jpg.webp",
+        "gitBlobSha": "8a754cacbaa778d39b3aa204205ea184b4d7917f",
+        "bytes": 439716
+      }
+    },
+    "gacha_comet_03.jpg": {
+      "path": "assets/ui/banners/gacha_comet_03.jpg",
+      "gitBlobSha": "7a016a2bf4b0ed600cf9699f5e6a52bcb1d25598",
+      "bytes": 408688,
+      "optimized": {
+        "path": "assets/ui/banners/optimized/gacha_comet_03.jpg.webp",
+        "gitBlobSha": "dbf3cd51ca9003234a4e3237e1b4a9df5dc2ef60",
+        "bytes": 302306
+      }
+    },
+    "hero_01_avatar.png.png": {
+      "path": "assets/characters/avatars/hero_01_avatar.png.png",
+      "gitBlobSha": "1bd41ae26da9eeb6a7b734d6b4ddef356002a7ab",
+      "bytes": 26850,
+      "optimized": {
+        "path": "assets/characters/avatars/optimized/hero_01_avatar.png.png.webp",
+        "gitBlobSha": "9efa8598310eaffd479ed1c0d35c972347f45906",
+        "bytes": 17492
+      }
+    },
+    "hero_01_card.png.png": {
+      "path": "assets/characters/cards/hero_01_card.png.png",
+      "gitBlobSha": "672d996ae111281169b99f6d126e0a3bfa63ea80",
+      "bytes": 222529,
+      "optimized": {
+        "path": "assets/characters/cards/optimized/hero_01_card.png.png.webp",
+        "gitBlobSha": "0962ffe00891c6cfacb056e001f8fadc53de27d0",
+        "bytes": 138882
+      }
+    },
+    "lb_Tavern.jpg": {
+      "path": "assets/backgrounds/lobby/lb_Tavern.jpg",
+      "gitBlobSha": "7370cb0624295b37f01c187e7877b1f4d54cd0ba",
+      "bytes": 184312,
+      "optimized": {
+        "path": "assets/backgrounds/lobby/optimized/lb_Tavern.jpg.webp",
+        "gitBlobSha": "05401b34c5eb05a0430737da15945eb0dd34896d",
+        "bytes": 115562
+      }
+    },
+    "lb_battlefield.jpg": {
+      "path": "assets/backgrounds/lobby/lb_battlefield.jpg",
+      "gitBlobSha": "00aa1558cd9ecf6a239dddea83dd8fdb8ad938a0",
+      "bytes": 189057,
+      "optimized": {
+        "path": "assets/backgrounds/lobby/optimized/lb_battlefield.jpg.webp",
+        "gitBlobSha": "debb663ef214a5cda40eaee3c995628ab2221f9a",
+        "bytes": 71316
+      }
+    },
+    "lb_beach.jpg": {
+      "path": "assets/backgrounds/lobby/lb_beach.jpg",
+      "gitBlobSha": "57a4439056a18e3babdc9856e99de65fd65cac49",
+      "bytes": 173305,
+      "optimized": {
+        "path": "assets/backgrounds/lobby/optimized/lb_beach.jpg.webp",
+        "gitBlobSha": "c5dd46501581c2d40a1f22def93650f5857b836c",
+        "bytes": 82384
+      }
+    },
+    "lb_forest.png": {
+      "path": "assets/backgrounds/lobby/lb_forest.png",
+      "gitBlobSha": "ce8365829da71a49928c457f8023b19e86e571ad",
+      "bytes": 6044646,
+      "optimized": {
+        "path": "assets/backgrounds/lobby/optimized/lb_forest.png.webp",
+        "gitBlobSha": "afe013fcec2f84cd029f578af8e7b38d584d56d3",
+        "bytes": 3010514
+      }
+    },
+    "lb_fortress.jpg": {
+      "path": "assets/backgrounds/lobby/lb_fortress.jpg",
+      "gitBlobSha": "d913130604339125bad0893a517ae7241ca428ba",
+      "bytes": 175570,
+      "optimized": {
+        "path": "assets/backgrounds/lobby/optimized/lb_fortress.jpg.webp",
+        "gitBlobSha": "d497b212087e696f6770336a3bfc7e2988c81f22",
+        "bytes": 71774
+      }
+    },
+    "lb_meadow.jpg": {
+      "path": "assets/backgrounds/lobby/lb_meadow.jpg",
+      "gitBlobSha": "abc5087a384adddb06af6a177d8cf26795b11910",
+      "bytes": 147460,
+      "optimized": {
+        "path": "assets/backgrounds/lobby/optimized/lb_meadow.jpg.webp",
+        "gitBlobSha": "65c17d59204488e3c5b3ede0bd68c5acfa589d30",
+        "bytes": 97960
+      }
+    },
+    "lb_underdark.jpg": {
+      "path": "assets/backgrounds/lobby/lb_underdark.jpg",
+      "gitBlobSha": "3641eb297e56ac634883fc57aba6b2c8b6c6508d",
+      "bytes": 261470,
+      "optimized": {
+        "path": "assets/backgrounds/lobby/optimized/lb_underdark.jpg.webp",
+        "gitBlobSha": "d1dfa371cbb8e641834ec3796a9edccfb9552371",
+        "bytes": 82530
+      }
+    },
+    "lb_village.jpg": {
+      "path": "assets/backgrounds/lobby/lb_village.jpg",
+      "gitBlobSha": "07b483c9f395e8d60cdebe91ebd6e246a89f92b2",
+      "bytes": 162147,
+      "optimized": {
+        "path": "assets/backgrounds/lobby/optimized/lb_village.jpg.webp",
+        "gitBlobSha": "de921ec2ef6e8cc694991918c6665f7695a9aacd",
+        "bytes": 89628
+      }
+    },
+    "lb_whalecave.jpg": {
+      "path": "assets/backgrounds/lobby/lb_whalecave.jpg",
+      "gitBlobSha": "f9e58f05738036535a14717db32bf9470826e73e",
+      "bytes": 151822,
+      "optimized": {
+        "path": "assets/backgrounds/lobby/optimized/lb_whalecave.jpg.webp",
+        "gitBlobSha": "591341a377d52e1d6421db91dc464147f5367f42",
+        "bytes": 80518
+      }
+    },
+    "lb_wyvernvalley.jpg": {
+      "path": "assets/backgrounds/lobby/lb_wyvernvalley.jpg",
+      "gitBlobSha": "eeac6573039fd9e24f7e9de08832c31e57d21939",
+      "bytes": 218733,
+      "optimized": {
+        "path": "assets/backgrounds/lobby/optimized/lb_wyvernvalley.jpg.webp",
+        "gitBlobSha": "4aad2aecdfaefcd131c2f694e7d9116bfef7ad36",
+        "bytes": 68414
+      }
+    },
+    "lb_yharnamdugeon.jpg": {
+      "path": "assets/backgrounds/lobby/lb_yharnamdugeon.jpg",
+      "gitBlobSha": "01b282d8c110ca53b3e74ecaf00c4e79b3c46ef5",
+      "bytes": 354247,
+      "optimized": {
+        "path": "assets/backgrounds/lobby/optimized/lb_yharnamdugeon.jpg.webp",
+        "gitBlobSha": "bec91bc8b3779a63f30ae38c66639464b87e24e4",
+        "bytes": 130370
+      }
+    },
+    "login.png": {
+      "path": "assets/ui/general/login.png",
+      "gitBlobSha": "4843dee64631278670442025740560955dbb6d9c",
+      "bytes": 1111429,
+      "optimized": {
+        "path": "assets/ui/general/optimized/login.png.webp",
+        "gitBlobSha": "da67dbb173ef348a5a81ce842ee732801ea76729",
+        "bytes": 658162
+      }
+    },
+    "mob_10_01.png": {
+      "path": "assets/enemies/mobs/mob_10_01.png",
+      "gitBlobSha": "cb5aa2b95235c9ddb6246456cd5e73d0ea4d51da",
+      "bytes": 748611,
+      "optimized": {
+        "path": "assets/enemies/mobs/optimized/mob_10_01.png.webp",
+        "gitBlobSha": "b66d5c7707400f5091651422e26d1da2c0c22799",
+        "bytes": 456970
+      }
+    },
+    "mob_10_02.png": {
+      "path": "assets/enemies/mobs/mob_10_02.png",
+      "gitBlobSha": "b047cba1148222439749f47fba5c415cb9f7ce65",
+      "bytes": 683937,
+      "optimized": {
+        "path": "assets/enemies/mobs/optimized/mob_10_02.png.webp",
+        "gitBlobSha": "f5b4c5ba434297f4d2cadd5d68fb51e053935ae4",
+        "bytes": 425118
+      }
+    },
+    "mob_10_03.png": {
+      "path": "assets/enemies/mobs/mob_10_03.png",
+      "gitBlobSha": "ebf32f2d30c99de2984d73e65edc28c044e3dd07",
+      "bytes": 762139,
+      "optimized": {
+        "path": "assets/enemies/mobs/optimized/mob_10_03.png.webp",
+        "gitBlobSha": "402c017905327f68dd2d807ec4d8fdece43c88e0",
+        "bytes": 469442
+      }
+    },
+    "mob_10_04.png": {
+      "path": "assets/enemies/mobs/mob_10_04.png",
+      "gitBlobSha": "3f06bb3079d822f18ed13f118a7cb6bc1627055e",
+      "bytes": 870838,
+      "optimized": {
+        "path": "assets/enemies/mobs/optimized/mob_10_04.png.webp",
+        "gitBlobSha": "b3d9d283f42da4b34e1086d20123352f2c650ac5",
+        "bytes": 531756
+      }
+    },
+    "mob_10_05.png": {
+      "path": "assets/enemies/mobs/mob_10_05.png",
+      "gitBlobSha": "1eb78d18028431cbbdb26ac213718aa7bc61c06d",
+      "bytes": 842977,
+      "optimized": {
+        "path": "assets/enemies/mobs/optimized/mob_10_05.png.webp",
+        "gitBlobSha": "abe6a2dc50d9b6e24054cf1a09c9da0daa21ca35",
+        "bytes": 502040
+      }
+    },
+    "mob_10_06.png": {
+      "path": "assets/enemies/mobs/mob_10_06.png",
+      "gitBlobSha": "1c56e16c711fc6d141c9eaddbc78478fc611491e",
+      "bytes": 630667,
+      "optimized": {
+        "path": "assets/enemies/mobs/optimized/mob_10_06.png.webp",
+        "gitBlobSha": "3c5a74d38bb14cdb840eb5f75550d88057f8a32e",
+        "bytes": 393974
+      }
+    },
+    "mob_10_07.png": {
+      "path": "assets/enemies/mobs/mob_10_07.png",
+      "gitBlobSha": "132ee8618acf5f484f55511e0e05c1599bb9ca57",
+      "bytes": 925558,
+      "optimized": {
+        "path": "assets/enemies/mobs/optimized/mob_10_07.png.webp",
+        "gitBlobSha": "f0f66130b703bac82f3120021adb00367657903a",
+        "bytes": 574894
+      }
+    },
+    "mob_1_01.png": {
+      "path": "assets/enemies/mobs/mob_1_01.png",
+      "gitBlobSha": "ab1eca3a31be99bb883b4ea5ce5e8a49d314ec6c",
+      "bytes": 366472,
+      "optimized": {
+        "path": "assets/enemies/mobs/optimized/mob_1_01.png.webp",
+        "gitBlobSha": "77fd58213f9de41fbca91a731088ac0e66aab7ca",
+        "bytes": 198500
+      }
+    },
+    "mob_1_02.png": {
+      "path": "assets/enemies/mobs/mob_1_02.png",
+      "gitBlobSha": "4b65bad9dea719fd906427ac144d7191bbb27dfd",
+      "bytes": 395877,
+      "optimized": {
+        "path": "assets/enemies/mobs/optimized/mob_1_02.png.webp",
+        "gitBlobSha": "1a4c1936d0b53f2982441a794e6fa93f818363c6",
+        "bytes": 230082
+      }
+    },
+    "mob_1_03.png": {
+      "path": "assets/enemies/mobs/mob_1_03.png",
+      "gitBlobSha": "b927fd0c75aa1a582e59b06deafe94b78a123894",
+      "bytes": 512540,
+      "optimized": {
+        "path": "assets/enemies/mobs/optimized/mob_1_03.png.webp",
+        "gitBlobSha": "2a5a618cef4f53dc8e328d120b976462316d63ad",
+        "bytes": 299158
+      }
+    },
+    "mob_1_04.png": {
+      "path": "assets/enemies/mobs/mob_1_04.png",
+      "gitBlobSha": "c7c6bdbd3a6da9edf4e863b43f1b0b50bfc03e0d",
+      "bytes": 704546,
+      "optimized": {
+        "path": "assets/enemies/mobs/optimized/mob_1_04.png.webp",
+        "gitBlobSha": "c9c4f79d48e02313ccfaadd115dbe897346e5202",
+        "bytes": 445444
+      }
+    },
+    "mob_1_05.png": {
+      "path": "assets/enemies/mobs/mob_1_05.png",
+      "gitBlobSha": "b2bfb76f31cf798dc97617e9f49092fca2544a4e",
+      "bytes": 632306,
+      "optimized": {
+        "path": "assets/enemies/mobs/optimized/mob_1_05.png.webp",
+        "gitBlobSha": "eddc4b390cea37825797ba680119a48dc74e6880",
+        "bytes": 384694
+      }
+    },
+    "mob_1_06.png": {
+      "path": "assets/enemies/mobs/mob_1_06.png",
+      "gitBlobSha": "900052a740d31c433c48090c4fae2e1e7cb746a2",
+      "bytes": 642069,
+      "optimized": {
+        "path": "assets/enemies/mobs/optimized/mob_1_06.png.webp",
+        "gitBlobSha": "185006ccdedbdcb0031e9e9b3f39a54cd3705ffd",
+        "bytes": 381114
+      }
+    },
+    "mob_1_07.png": {
+      "path": "assets/enemies/mobs/mob_1_07.png",
+      "gitBlobSha": "eec64fb7eba12708e0092ccb5fe79f61c83cb2d5",
+      "bytes": 545341,
+      "optimized": {
+        "path": "assets/enemies/mobs/optimized/mob_1_07.png.webp",
+        "gitBlobSha": "db7e7ff14be783766a4f0f0699ffe37a75ae8d0e",
+        "bytes": 314314
+      }
+    },
+    "mob_2_01.png": {
+      "path": "assets/enemies/mobs/mob_2_01.png",
+      "gitBlobSha": "21940dd95f8cb143940086f5d285a5e0ab45fa51",
+      "bytes": 547371,
+      "optimized": {
+        "path": "assets/enemies/mobs/optimized/mob_2_01.png.webp",
+        "gitBlobSha": "5031c8357883d2715faf59469e26acf147129285",
+        "bytes": 313714
+      }
+    },
+    "mob_2_02.png": {
+      "path": "assets/enemies/mobs/mob_2_02.png",
+      "gitBlobSha": "b37f8f5a5768549448af292f4d4786a267bc58bc",
+      "bytes": 629250,
+      "optimized": {
+        "path": "assets/enemies/mobs/optimized/mob_2_02.png.webp",
+        "gitBlobSha": "e7890798d5570ab051ea82450651c93543b7861b",
+        "bytes": 380232
+      }
+    },
+    "mob_2_03.png": {
+      "path": "assets/enemies/mobs/mob_2_03.png",
+      "gitBlobSha": "5dfb2c4fc1d5be026dc9fb996f7c929da0a995fd",
+      "bytes": 664829,
+      "optimized": {
+        "path": "assets/enemies/mobs/optimized/mob_2_03.png.webp",
+        "gitBlobSha": "5b75bae02dc1b83b6174302c32def316bd1657c8",
+        "bytes": 402384
+      }
+    },
+    "mob_2_04.png": {
+      "path": "assets/enemies/mobs/mob_2_04.png",
+      "gitBlobSha": "9fcd01f7cd01933c78453d2142ec2eba6ffb90dc",
+      "bytes": 572746,
+      "optimized": {
+        "path": "assets/enemies/mobs/optimized/mob_2_04.png.webp",
+        "gitBlobSha": "ccb8974fec59aadbc4adad37425bd25d90459d5d",
+        "bytes": 340448
+      }
+    },
+    "mob_2_05.png": {
+      "path": "assets/enemies/mobs/mob_2_05.png",
+      "gitBlobSha": "322f8ea16573472f27771bfafbbfe9ba1fce5742",
+      "bytes": 585143,
+      "optimized": {
+        "path": "assets/enemies/mobs/optimized/mob_2_05.png.webp",
+        "gitBlobSha": "31f2c4ee6b4086f8d388825168f37b7c1ac81dbc",
+        "bytes": 353482
+      }
+    },
+    "mob_2_06.png": {
+      "path": "assets/enemies/mobs/mob_2_06.png",
+      "gitBlobSha": "b85a927cfa7943ee64565b6bcbff26baabc9e8bd",
+      "bytes": 630373,
+      "optimized": {
+        "path": "assets/enemies/mobs/optimized/mob_2_06.png.webp",
+        "gitBlobSha": "a8c3e645eac3c6ad2f5035770fa4e1954c139b71",
+        "bytes": 394196
+      }
+    },
+    "mob_2_07.png": {
+      "path": "assets/enemies/mobs/mob_2_07.png",
+      "gitBlobSha": "b2103d3ce4418b51dae5eea7aa0776dde7801871",
+      "bytes": 487895,
+      "optimized": {
+        "path": "assets/enemies/mobs/optimized/mob_2_07.png.webp",
+        "gitBlobSha": "408c38b08e6aab40fd2e3ab3051dbcd1f9f1bd7f",
+        "bytes": 298234
+      }
+    },
+    "mob_3_01.png": {
+      "path": "assets/enemies/mobs/mob_3_01.png",
+      "gitBlobSha": "4e6e2fbe0b39bed46a0e967057b53a694bf2a39e",
+      "bytes": 587385,
+      "optimized": {
+        "path": "assets/enemies/mobs/optimized/mob_3_01.png.webp",
+        "gitBlobSha": "384aa5609fdc3c1a1742258a627fa20e091b8e72",
+        "bytes": 356394
+      }
+    },
+    "mob_3_02.png": {
+      "path": "assets/enemies/mobs/mob_3_02.png",
+      "gitBlobSha": "4219a216e5d524910ca50d0fd33d63369300b4fd",
+      "bytes": 511858,
+      "optimized": {
+        "path": "assets/enemies/mobs/optimized/mob_3_02.png.webp",
+        "gitBlobSha": "0acff2c48928692b8c0bc283ae1979a2f4a74884",
+        "bytes": 302860
+      }
+    },
+    "mob_3_03.png": {
+      "path": "assets/enemies/mobs/mob_3_03.png",
+      "gitBlobSha": "7c0c6d1bc469cdc1edadfd7e20ddc1fccd4d61fc",
+      "bytes": 657711,
+      "optimized": {
+        "path": "assets/enemies/mobs/optimized/mob_3_03.png.webp",
+        "gitBlobSha": "4168e86f47782c231558d47bf1eb691492cb8fcb",
+        "bytes": 397078
+      }
+    },
+    "mob_3_04.png": {
+      "path": "assets/enemies/mobs/mob_3_04.png",
+      "gitBlobSha": "6e2f91ea08cd961ae689e181f88d2852f299e97e",
+      "bytes": 599690,
+      "optimized": {
+        "path": "assets/enemies/mobs/optimized/mob_3_04.png.webp",
+        "gitBlobSha": "fb3bf2155df9ff79b2c01a39fbff634ff417310f",
+        "bytes": 376058
+      }
+    },
+    "mob_3_05.png": {
+      "path": "assets/enemies/mobs/mob_3_05.png",
+      "gitBlobSha": "71ce667b3dabf18dab6cddfa26393d539104a670",
+      "bytes": 649199,
+      "optimized": {
+        "path": "assets/enemies/mobs/optimized/mob_3_05.png.webp",
+        "gitBlobSha": "a2608f9e467edf4809d434643abdcb84c66a9e3c",
+        "bytes": 409176
+      }
+    },
+    "mob_3_06.png": {
+      "path": "assets/enemies/mobs/mob_3_06.png",
+      "gitBlobSha": "e2f065f116fa00a99ebbd7b458a95ec295651e2a",
+      "bytes": 616780,
+      "optimized": {
+        "path": "assets/enemies/mobs/optimized/mob_3_06.png.webp",
+        "gitBlobSha": "00e415b41ba8a8c4bcbb3f8b2993a10f42b474db",
+        "bytes": 396888
+      }
+    },
+    "mob_3_07.png": {
+      "path": "assets/enemies/mobs/mob_3_07.png",
+      "gitBlobSha": "ffb28ebb57ecd259e7ad51ad51e33f28adeee83e",
+      "bytes": 841809,
+      "optimized": {
+        "path": "assets/enemies/mobs/optimized/mob_3_07.png.webp",
+        "gitBlobSha": "f5d2a8571fa21badd7ffb22f5eccf54342cbc0f6",
+        "bytes": 484832
+      }
+    },
+    "mob_4_01.png": {
+      "path": "assets/enemies/mobs/mob_4_01.png",
+      "gitBlobSha": "2ec3be81c8c364a4130be389d1b3f32dc5939b4f",
+      "bytes": 558346,
+      "optimized": {
+        "path": "assets/enemies/mobs/optimized/mob_4_01.png.webp",
+        "gitBlobSha": "94941b55e3d24cbddbd6f6b63cbd9aa44efbbf62",
+        "bytes": 330364
+      }
+    },
+    "mob_4_02.png": {
+      "path": "assets/enemies/mobs/mob_4_02.png",
+      "gitBlobSha": "20cc356d0023c42cba75cd352efc63622be6e844",
+      "bytes": 629773,
+      "optimized": {
+        "path": "assets/enemies/mobs/optimized/mob_4_02.png.webp",
+        "gitBlobSha": "5f41f16101279dcf3d292d31c814b186e76d6513",
+        "bytes": 391976
+      }
+    },
+    "mob_4_03.png": {
+      "path": "assets/enemies/mobs/mob_4_03.png",
+      "gitBlobSha": "440ae1ed4bc97ade6d8666973614b64a0c0b2584",
+      "bytes": 573947,
+      "optimized": {
+        "path": "assets/enemies/mobs/optimized/mob_4_03.png.webp",
+        "gitBlobSha": "706fd2f83ae750900b631a31d7df46bf1aeeb5d4",
+        "bytes": 361092
+      }
+    },
+    "mob_4_04.png": {
+      "path": "assets/enemies/mobs/mob_4_04.png",
+      "gitBlobSha": "02e591470ffaee1ce80a46b847df7ce06387aebf",
+      "bytes": 465272,
+      "optimized": {
+        "path": "assets/enemies/mobs/optimized/mob_4_04.png.webp",
+        "gitBlobSha": "58fb10759a140511a212d653b9c6b99b9ee9ad38",
+        "bytes": 265838
+      }
+    },
+    "mob_4_05.png": {
+      "path": "assets/enemies/mobs/mob_4_05.png",
+      "gitBlobSha": "c2d9d7ae624518201f3dc6b40aef293902114f8b",
+      "bytes": 712853,
+      "optimized": {
+        "path": "assets/enemies/mobs/optimized/mob_4_05.png.webp",
+        "gitBlobSha": "4bf6b1612467316dc13dbfa7a479cdbeac4152c6",
+        "bytes": 438082
+      }
+    },
+    "mob_4_06.png": {
+      "path": "assets/enemies/mobs/mob_4_06.png",
+      "gitBlobSha": "a10b027f83524fa82520edb7427349437144b7d6",
+      "bytes": 801545,
+      "optimized": {
+        "path": "assets/enemies/mobs/optimized/mob_4_06.png.webp",
+        "gitBlobSha": "8d47dc591471e0f9ce8b20a92fb25883e482bad2",
+        "bytes": 500690
+      }
+    },
+    "mob_4_07.png": {
+      "path": "assets/enemies/mobs/mob_4_07.png",
+      "gitBlobSha": "3e56b2a305cb3f8e82517c09a3504c9b48c73b44",
+      "bytes": 575990,
+      "optimized": {
+        "path": "assets/enemies/mobs/optimized/mob_4_07.png.webp",
+        "gitBlobSha": "550fb63090b9da19460b5413c23ad46125627475",
+        "bytes": 355404
+      }
+    },
+    "mob_5_01.png": {
+      "path": "assets/enemies/mobs/mob_5_01.png",
+      "gitBlobSha": "d5ce096eec758d8836d68b2d6940c4c1b1957b43",
+      "bytes": 542717,
+      "optimized": {
+        "path": "assets/enemies/mobs/optimized/mob_5_01.png.webp",
+        "gitBlobSha": "70e70d523464d9a4cbe77917d7a975c1a7ffb37c",
+        "bytes": 315288
+      }
+    },
+    "mob_5_02.png": {
+      "path": "assets/enemies/mobs/mob_5_02.png",
+      "gitBlobSha": "c600711d128500d8ffc2a5259bb59318d50f0229",
+      "bytes": 408537,
+      "optimized": {
+        "path": "assets/enemies/mobs/optimized/mob_5_02.png.webp",
+        "gitBlobSha": "aec2369fac2bb1e968bd7aa2fc4a9bd08651aaf9",
+        "bytes": 239358
+      }
+    },
+    "mob_5_03.png": {
+      "path": "assets/enemies/mobs/mob_5_03.png",
+      "gitBlobSha": "0930e68eb3a9bde48ed9f13fddc5713010ff48c7",
+      "bytes": 635443,
+      "optimized": {
+        "path": "assets/enemies/mobs/optimized/mob_5_03.png.webp",
+        "gitBlobSha": "7d5e6e85f21f0a20ab2a1982e243ff116d1a05df",
+        "bytes": 370484
+      }
+    },
+    "mob_5_04.png": {
+      "path": "assets/enemies/mobs/mob_5_04.png",
+      "gitBlobSha": "154d06c9923aa08baeadf80b3b56a3a3ba28e394",
+      "bytes": 634674,
+      "optimized": {
+        "path": "assets/enemies/mobs/optimized/mob_5_04.png.webp",
+        "gitBlobSha": "3842b091ed2b185472da3cc24dad5ae82f7d0cb0",
+        "bytes": 392768
+      }
+    },
+    "mob_5_05.png": {
+      "path": "assets/enemies/mobs/mob_5_05.png",
+      "gitBlobSha": "1d3e480823373e9219998ffa258882841df1c8ce",
+      "bytes": 665901,
+      "optimized": {
+        "path": "assets/enemies/mobs/optimized/mob_5_05.png.webp",
+        "gitBlobSha": "d34fe8e92f07378c3d522c87f02a2779a6cfe2c4",
+        "bytes": 400388
+      }
+    },
+    "mob_5_06.png": {
+      "path": "assets/enemies/mobs/mob_5_06.png",
+      "gitBlobSha": "8ea43c17743e17cecd9c63189a1d17f54e8184b7",
+      "bytes": 588703,
+      "optimized": {
+        "path": "assets/enemies/mobs/optimized/mob_5_06.png.webp",
+        "gitBlobSha": "cdd124ac2be556f6ea783602999e0ad9459d2629",
+        "bytes": 368144
+      }
+    },
+    "mob_5_07.png": {
+      "path": "assets/enemies/mobs/mob_5_07.png",
+      "gitBlobSha": "cdc485d4fbd1ebb00c5b701ea4c0a0cb204ec0bc",
+      "bytes": 701640,
+      "optimized": {
+        "path": "assets/enemies/mobs/optimized/mob_5_07.png.webp",
+        "gitBlobSha": "97bdd158e37df41a64734f898fffd095e7556b7a",
+        "bytes": 419138
+      }
+    },
+    "mob_6_01.png": {
+      "path": "assets/enemies/mobs/mob_6_01.png",
+      "gitBlobSha": "aa41de6eb1552297fbd0e1e4a1503c60afd54890",
+      "bytes": 499717,
+      "optimized": {
+        "path": "assets/enemies/mobs/optimized/mob_6_01.png.webp",
+        "gitBlobSha": "d8485ed35ddc9b7cb93b4629360a181a4d812303",
+        "bytes": 292878
+      }
+    },
+    "mob_6_02.png": {
+      "path": "assets/enemies/mobs/mob_6_02.png",
+      "gitBlobSha": "726a1ce3ee36bf7ced54fd2e3b3cedc88f67481a",
+      "bytes": 764681,
+      "optimized": {
+        "path": "assets/enemies/mobs/optimized/mob_6_02.png.webp",
+        "gitBlobSha": "e367b039b1d264279b459d2080796c2e7744fd12",
+        "bytes": 478834
+      }
+    },
+    "mob_6_03.png": {
+      "path": "assets/enemies/mobs/mob_6_03.png",
+      "gitBlobSha": "33f7ecb3b4b232bbb8b99f11662fcf2c73c67aee",
+      "bytes": 770587,
+      "optimized": {
+        "path": "assets/enemies/mobs/optimized/mob_6_03.png.webp",
+        "gitBlobSha": "aee9637265fe0b16d199a24ea23315e0c69d4924",
+        "bytes": 451426
+      }
+    },
+    "mob_6_04.png": {
+      "path": "assets/enemies/mobs/mob_6_04.png",
+      "gitBlobSha": "a282a6740c5612559cd2cccc5a1cadf9ea03a28f",
+      "bytes": 576877,
+      "optimized": {
+        "path": "assets/enemies/mobs/optimized/mob_6_04.png.webp",
+        "gitBlobSha": "8b160c6d9a4a4ee729e7860138816da9153ab258",
+        "bytes": 353428
+      }
+    },
+    "mob_6_05.png": {
+      "path": "assets/enemies/mobs/mob_6_05.png",
+      "gitBlobSha": "8d151afc6ef8920edd4e9fb92c058f801591952d",
+      "bytes": 787456,
+      "optimized": {
+        "path": "assets/enemies/mobs/optimized/mob_6_05.png.webp",
+        "gitBlobSha": "cdfa724001506ab9f08dc312f7bd299cf863a2f4",
+        "bytes": 486908
+      }
+    },
+    "mob_6_06.png": {
+      "path": "assets/enemies/mobs/mob_6_06.png",
+      "gitBlobSha": "7f49bbc55747252080c935c66a1b919a033d91ca",
+      "bytes": 716975,
+      "optimized": {
+        "path": "assets/enemies/mobs/optimized/mob_6_06.png.webp",
+        "gitBlobSha": "57cdfd99497050acb4515d73fbc08e8c7a9489d3",
+        "bytes": 422430
+      }
+    },
+    "mob_6_07.png": {
+      "path": "assets/enemies/mobs/mob_6_07.png",
+      "gitBlobSha": "c86968b54a0ba68e4c5c10777ce71673566f367d",
+      "bytes": 535206,
+      "optimized": {
+        "path": "assets/enemies/mobs/optimized/mob_6_07.png.webp",
+        "gitBlobSha": "d89ed69cedc0cb479f354b29ca9d6cd0e94f029a",
+        "bytes": 323554
+      }
+    },
+    "mob_7_01.png": {
+      "path": "assets/enemies/mobs/mob_7_01.png",
+      "gitBlobSha": "e5bc52953b93c653b1a6e9dedb6d314509438b26",
+      "bytes": 581206,
+      "optimized": {
+        "path": "assets/enemies/mobs/optimized/mob_7_01.png.webp",
+        "gitBlobSha": "32362a6946bd10042fb2c67769625ad6bdfb5d4a",
+        "bytes": 343270
+      }
+    },
+    "mob_7_02.png": {
+      "path": "assets/enemies/mobs/mob_7_02.png",
+      "gitBlobSha": "5c35e2c5820a433cc46050a4a797ac0945b6232c",
+      "bytes": 556435,
+      "optimized": {
+        "path": "assets/enemies/mobs/optimized/mob_7_02.png.webp",
+        "gitBlobSha": "882de066efced1762c81b3b5527804fbdbc3ddb6",
+        "bytes": 349290
+      }
+    },
+    "mob_7_03.png": {
+      "path": "assets/enemies/mobs/mob_7_03.png",
+      "gitBlobSha": "e2ad9588acea5269ad77a438585d36b48f8f2b34",
+      "bytes": 661701,
+      "optimized": {
+        "path": "assets/enemies/mobs/optimized/mob_7_03.png.webp",
+        "gitBlobSha": "68960f913bf2b4e96fb2b8e62dd35447915994f8",
+        "bytes": 383264
+      }
+    },
+    "mob_7_04.png": {
+      "path": "assets/enemies/mobs/mob_7_04.png",
+      "gitBlobSha": "a82d83a1a43f7241ae5e91ab93772a9ec910bc0d",
+      "bytes": 760332,
+      "optimized": {
+        "path": "assets/enemies/mobs/optimized/mob_7_04.png.webp",
+        "gitBlobSha": "76cecc0edcaed692206086abd45cde3e185460ce",
+        "bytes": 489664
+      }
+    },
+    "mob_7_05.png": {
+      "path": "assets/enemies/mobs/mob_7_05.png",
+      "gitBlobSha": "0b1e5f18bc9350543f09585be11d306572986dc4",
+      "bytes": 784380,
+      "optimized": {
+        "path": "assets/enemies/mobs/optimized/mob_7_05.png.webp",
+        "gitBlobSha": "07757e1f3997ab4c8bd2ed01ac3757511949930e",
+        "bytes": 492496
+      }
+    },
+    "mob_7_06.png": {
+      "path": "assets/enemies/mobs/mob_7_06.png",
+      "gitBlobSha": "cc8567fa52daedfdf3ffd807a56256f6b418e6bf",
+      "bytes": 556717,
+      "optimized": {
+        "path": "assets/enemies/mobs/optimized/mob_7_06.png.webp",
+        "gitBlobSha": "5468d029da6aadafbe7cacad032849af5028b1e2",
+        "bytes": 333972
+      }
+    },
+    "mob_7_07.png": {
+      "path": "assets/enemies/mobs/mob_7_07.png",
+      "gitBlobSha": "0518d66e31b8ae302a956b9523fa2fa1c75176d7",
+      "bytes": 418311,
+      "optimized": {
+        "path": "assets/enemies/mobs/optimized/mob_7_07.png.webp",
+        "gitBlobSha": "c103381a7ef6b2a9be4ea45bca214b13f07116cb",
+        "bytes": 248728
+      }
+    },
+    "mob_8_01.png": {
+      "path": "assets/enemies/mobs/mob_8_01.png",
+      "gitBlobSha": "701878d4b5e6145b737d2c91efa85814fc756788",
+      "bytes": 580373,
+      "optimized": {
+        "path": "assets/enemies/mobs/optimized/mob_8_01.png.webp",
+        "gitBlobSha": "cb13ddd33e3b2ddf9a37e59d99a4fc92f9b5732c",
+        "bytes": 383602
+      }
+    },
+    "mob_8_02.png": {
+      "path": "assets/enemies/mobs/mob_8_02.png",
+      "gitBlobSha": "d33d1478b7eaea364b14ab2bec2369c201c59ac1",
+      "bytes": 698373,
+      "optimized": {
+        "path": "assets/enemies/mobs/optimized/mob_8_02.png.webp",
+        "gitBlobSha": "eb68a9a4463fbf2d884f74814b7176673627783b",
+        "bytes": 422838
+      }
+    },
+    "mob_8_03.png": {
+      "path": "assets/enemies/mobs/mob_8_03.png",
+      "gitBlobSha": "72ced236c7d995826d09093d5da6c018b6f3d49f",
+      "bytes": 846114,
+      "optimized": {
+        "path": "assets/enemies/mobs/optimized/mob_8_03.png.webp",
+        "gitBlobSha": "74be3899d12b29f563dcf5c59a583509477ef37a",
+        "bytes": 543026
+      }
+    },
+    "mob_8_04.png": {
+      "path": "assets/enemies/mobs/mob_8_04.png",
+      "gitBlobSha": "394a48ca609b7e8099ec053e7835a99defc408c9",
+      "bytes": 643700,
+      "optimized": {
+        "path": "assets/enemies/mobs/optimized/mob_8_04.png.webp",
+        "gitBlobSha": "85a29e8f42980953828789c8660879b47e9f9bbd",
+        "bytes": 400608
+      }
+    },
+    "mob_8_05.png": {
+      "path": "assets/enemies/mobs/mob_8_05.png",
+      "gitBlobSha": "49865990f7d34fc7a2f4ab5bb3975140f080d64e",
+      "bytes": 1135105,
+      "optimized": {
+        "path": "assets/enemies/mobs/optimized/mob_8_05.png.webp",
+        "gitBlobSha": "183c9e75ab3405223400d812ee761bd60b83dded",
+        "bytes": 747924
+      }
+    },
+    "mob_8_06.png": {
+      "path": "assets/enemies/mobs/mob_8_06.png",
+      "gitBlobSha": "8066e31d7cc3d11bc1df35f1f4c27a560793afb2",
+      "bytes": 995982,
+      "optimized": {
+        "path": "assets/enemies/mobs/optimized/mob_8_06.png.webp",
+        "gitBlobSha": "997d1c26c4330f295947996e7f5e555ed9bd3057",
+        "bytes": 632164
+      }
+    },
+    "mob_8_07.png": {
+      "path": "assets/enemies/mobs/mob_8_07.png",
+      "gitBlobSha": "2554ee6538378d4ed2a53b088a70a28549944a98",
+      "bytes": 1152108,
+      "optimized": {
+        "path": "assets/enemies/mobs/optimized/mob_8_07.png.webp",
+        "gitBlobSha": "5cfb0af6a682ffc74e3da6db11afb5a35812391d",
+        "bytes": 718718
+      }
+    },
+    "mob_9_01.png": {
+      "path": "assets/enemies/mobs/mob_9_01.png",
+      "gitBlobSha": "fa1cf34654e421c79a81543952a195eac99ec62e",
+      "bytes": 579750,
+      "optimized": {
+        "path": "assets/enemies/mobs/optimized/mob_9_01.png.webp",
+        "gitBlobSha": "6b194a4274070e136e0c7f69f71c662804ec2207",
+        "bytes": 333922
+      }
+    },
+    "mob_9_02.png": {
+      "path": "assets/enemies/mobs/mob_9_02.png",
+      "gitBlobSha": "fb201b0adcda15d4a020c3512def8c82c16a9e84",
+      "bytes": 916601,
+      "optimized": {
+        "path": "assets/enemies/mobs/optimized/mob_9_02.png.webp",
+        "gitBlobSha": "15a1b39e764004080727d39d8b65bc67186e1515",
+        "bytes": 565546
+      }
+    },
+    "mob_9_03.png": {
+      "path": "assets/enemies/mobs/mob_9_03.png",
+      "gitBlobSha": "a88b9d72bfb55ac8ff5b6d89031e671263630f46",
+      "bytes": 950716,
+      "optimized": {
+        "path": "assets/enemies/mobs/optimized/mob_9_03.png.webp",
+        "gitBlobSha": "76d98e983e97489f28b6ed5a94929761bd59454b",
+        "bytes": 587272
+      }
+    },
+    "mob_9_04.png": {
+      "path": "assets/enemies/mobs/mob_9_04.png",
+      "gitBlobSha": "0f920f18f66813500c50583006dd5ed5caaf8991",
+      "bytes": 735269,
+      "optimized": {
+        "path": "assets/enemies/mobs/optimized/mob_9_04.png.webp",
+        "gitBlobSha": "61c72b9618b69f4e867f05e60e99dd5149242d8f",
+        "bytes": 460530
+      }
+    },
+    "mob_9_05.png": {
+      "path": "assets/enemies/mobs/mob_9_05.png",
+      "gitBlobSha": "877411628474122b6f7f78bac6ff53910cb81504",
+      "bytes": 910406,
+      "optimized": {
+        "path": "assets/enemies/mobs/optimized/mob_9_05.png.webp",
+        "gitBlobSha": "b0e479e5a50484f1997b6ba5ac65457de29caafc",
+        "bytes": 592472
+      }
+    },
+    "mob_9_06.png": {
+      "path": "assets/enemies/mobs/mob_9_06.png",
+      "gitBlobSha": "71ec00323e2515d4f3852540be6640d3c03a21bb",
+      "bytes": 893780,
+      "optimized": {
+        "path": "assets/enemies/mobs/optimized/mob_9_06.png.webp",
+        "gitBlobSha": "38fe6cf8caeef73a8b17a0d0a74957426f4ddce7",
+        "bytes": 569360
+      }
+    },
+    "mob_9_07.png": {
+      "path": "assets/enemies/mobs/mob_9_07.png",
+      "gitBlobSha": "3252f11cced7a39f0c03791572e9b5fc1d80a5f6",
+      "bytes": 679426,
+      "optimized": {
+        "path": "assets/enemies/mobs/optimized/mob_9_07.png.webp",
+        "gitBlobSha": "358f14b28e40b02872aa1b27a06d9ef0d17c0dc6",
+        "bytes": 399348
+      }
+    },
+    "mob_reading_1-1.png": {
+      "path": "assets/enemies/mobs/mob_reading_1-1.png",
+      "gitBlobSha": "57ea01c4e5087cab640fd18a3d5e638c36d704d7",
+      "bytes": 1477084,
+      "optimized": {
+        "path": "assets/enemies/mobs/optimized/mob_reading_1-1.png.webp",
+        "gitBlobSha": "318b1b01c93a2bc6fd4a1bd8a1f517cfa4ef783e",
+        "bytes": 726556
+      }
+    },
+    "mob_reading_1-2.png": {
+      "path": "assets/enemies/mobs/mob_reading_1-2.png",
+      "gitBlobSha": "da77b1c9addcbb0e4cb346b633cc6fcc84822a3f",
+      "bytes": 1761012,
+      "optimized": {
+        "path": "assets/enemies/mobs/optimized/mob_reading_1-2.png.webp",
+        "gitBlobSha": "e676f4a91a5a8f7532d46cda7834737427df73c5",
+        "bytes": 925176
+      }
+    },
+    "mob_reading_1-3.png": {
+      "path": "assets/enemies/mobs/mob_reading_1-3.png",
+      "gitBlobSha": "b5a54539c4c2c667679544bc14065c732942bd41",
+      "bytes": 2588733,
+      "optimized": {
+        "path": "assets/enemies/mobs/optimized/mob_reading_1-3.png.webp",
+        "gitBlobSha": "37b3ddca7382732ce663c12da57a085f2d4c9a0d",
+        "bytes": 1428466
+      }
+    },
+    "mob_reading_3-1.png": {
+      "path": "assets/enemies/mobs/mob_reading_3-1.png",
+      "gitBlobSha": "316f0ed9b2c79dcc5ab8e998d5eae5eecf36dc03",
+      "bytes": 1848239,
+      "optimized": {
+        "path": "assets/enemies/mobs/optimized/mob_reading_3-1.png.webp",
+        "gitBlobSha": "dbe6a50cf475fba3cae3a75555b636b749ce2d9d",
+        "bytes": 955476
+      }
+    },
+    "mob_reading_3-2.png": {
+      "path": "assets/enemies/mobs/mob_reading_3-2.png",
+      "gitBlobSha": "1627c7857e071653abfd51667454003199310a13",
+      "bytes": 1496954,
+      "optimized": {
+        "path": "assets/enemies/mobs/optimized/mob_reading_3-2.png.webp",
+        "gitBlobSha": "16a8522012229c45853e399cad42e00a3fc0ab99",
+        "bytes": 824278
+      }
+    },
+    "mob_reading_3-3.png": {
+      "path": "assets/enemies/mobs/mob_reading_3-3.png",
+      "gitBlobSha": "a0a03777b999b0d76a200712a46136bb30e9ea54",
+      "bytes": 2035884,
+      "optimized": {
+        "path": "assets/enemies/mobs/optimized/mob_reading_3-3.png.webp",
+        "gitBlobSha": "57bbb77f2668fa9f14e141cc9e7bbde120188ca4",
+        "bytes": 1117818
+      }
+    },
+    "mob_reading_5-1.png": {
+      "path": "assets/enemies/mobs/mob_reading_5-1.png",
+      "gitBlobSha": "5ecb5b5b62f73e857a34c05ce2f1a8f03e7e7d9f",
+      "bytes": 2467844,
+      "optimized": {
+        "path": "assets/enemies/mobs/optimized/mob_reading_5-1.png.webp",
+        "gitBlobSha": "93da4bba040c09b42e3cd9a507d71a13a26df920",
+        "bytes": 1309900
+      }
+    },
+    "mob_reading_5-2.png": {
+      "path": "assets/enemies/mobs/mob_reading_5-2.png",
+      "gitBlobSha": "1f499cbc7ac62e877f81dc8b0e8e41e207f9702f",
+      "bytes": 2422952,
+      "optimized": {
+        "path": "assets/enemies/mobs/optimized/mob_reading_5-2.png.webp",
+        "gitBlobSha": "e04080128daa9fb8bd44d0c84115dc35cb2a6cb9",
+        "bytes": 1306138
+      }
+    },
+    "mob_reading_5-3.png": {
+      "path": "assets/enemies/mobs/mob_reading_5-3.png",
+      "gitBlobSha": "bed583712b7d05d61a2adf4a3aac3222d811d4b2",
+      "bytes": 2511747,
+      "optimized": {
+        "path": "assets/enemies/mobs/optimized/mob_reading_5-3.png.webp",
+        "gitBlobSha": "cf37b32706d565a0662ea8fb85993d886b3b9626",
+        "bytes": 1475216
+      }
+    },
+    "mob_reading_7-1.png": {
+      "path": "assets/enemies/mobs/mob_reading_7-1.png",
+      "gitBlobSha": "79539917ca6f79a3390598a540761dd81577ba12",
+      "bytes": 2019471,
+      "optimized": {
+        "path": "assets/enemies/mobs/optimized/mob_reading_7-1.png.webp",
+        "gitBlobSha": "a16f8e99850cebb7e12a3d9bba01188fb17be421",
+        "bytes": 1097536
+      }
+    },
+    "openwarning.png": {
+      "path": "assets/ui/general/openwarning.png",
+      "gitBlobSha": "2f0f510130c2bcaae3be255c42357c93b6899bfd",
+      "bytes": 1275024,
+      "optimized": {
+        "path": "assets/ui/general/optimized/openwarning.png.webp",
+        "gitBlobSha": "99ddf3a184c163e9cc3f08c77c817b9eb993f0ae",
+        "bytes": 782470
+      }
+    },
+    "starfall_01.jpg": {
+      "path": "assets/ui/summon/starfall_01.jpg",
+      "gitBlobSha": "762060d7d048bc6a47a395dfb5f3c86dd40f8cc1",
+      "bytes": 148230,
+      "optimized": {
+        "path": "assets/ui/summon/optimized/starfall_01.jpg.webp",
+        "gitBlobSha": "805646709285e6c8d47707fbb2bb277149cfd312",
+        "bytes": 90872
+      }
+    },
+    "summon_02.jpg": {
+      "path": "assets/ui/summon/summon_02.jpg",
+      "gitBlobSha": "9573078b2bb53f7173f875a158ed34ff483c7b27",
+      "bytes": 182118,
+      "optimized": {
+        "path": "assets/ui/summon/optimized/summon_02.jpg.webp",
+        "gitBlobSha": "e8232a901c9234168d81113739ffe8f42b799b9b",
+        "bytes": 181716
+      }
+    },
+    "去背的Ｎ_05_sprite.png": {
+      "path": "assets/characters/sprites/去背的Ｎ_05_sprite.png",
+      "gitBlobSha": "b0464e967d1518bfadf852af409ddb19c58575f6",
+      "bytes": 3456479,
+      "optimized": {
+        "path": "assets/characters/sprites/optimized/去背的Ｎ_05_sprite.png.webp",
+        "gitBlobSha": "acb9324671aa5f422a48a83c4cfbe6b825e56f16",
+        "bytes": 1932678
+      }
+    },
+    "Ｎ_01_avatar.png": {
+      "path": "assets/characters/avatars/Ｎ_01_avatar.png",
+      "gitBlobSha": "f2201b71e8af6981925fa02aa7cae76eea61d558",
+      "bytes": 109155,
+      "optimized": {
+        "path": "assets/characters/avatars/optimized/Ｎ_01_avatar.png.webp",
+        "gitBlobSha": "2468771640aa46488343893ce5ea32cb280e0c9a",
+        "bytes": 56238
+      }
+    },
+    "Ｎ_01_card.jpg": {
+      "path": "assets/characters/cards/Ｎ_01_card.jpg",
+      "gitBlobSha": "94a7b3ccae515bab5a2882876a66fe2b80fc33fe",
+      "bytes": 248957
+    },
+    "Ｎ_02_avatar.png": {
+      "path": "assets/characters/avatars/Ｎ_02_avatar.png",
+      "gitBlobSha": "3ca94cd4ebac8e62706a94a91898b309ae3fe27c",
+      "bytes": 135298,
+      "optimized": {
+        "path": "assets/characters/avatars/optimized/Ｎ_02_avatar.png.webp",
+        "gitBlobSha": "c733ed31c53094cfbb40138a6ca35310963f86a6",
+        "bytes": 63554
+      }
+    },
+    "Ｎ_02_card.png": {
+      "path": "assets/characters/cards/Ｎ_02_card.png",
+      "gitBlobSha": "91a7a1b1deb5daf082cbc44ea38b43c62c5eb660",
+      "bytes": 1677303,
+      "optimized": {
+        "path": "assets/characters/cards/optimized/Ｎ_02_card.png.webp",
+        "gitBlobSha": "edaeee7fe16ec8e7e1d8b18e1415519f1a0bed7c",
+        "bytes": 244098
+      }
+    },
+    "Ｎ_02_sprite.png": {
+      "path": "assets/characters/sprites/Ｎ_02_sprite.png",
+      "gitBlobSha": "7d2f82d05999c370b63d671098e71f05400683e4",
+      "bytes": 1033808,
+      "optimized": {
+        "path": "assets/characters/sprites/optimized/Ｎ_02_sprite.png.webp",
+        "gitBlobSha": "a3f4ee59d33f6a36ea1fcfe2c4ef7ec96883bc65",
+        "bytes": 619608
+      }
+    },
+    "Ｎ_03_avatar.png": {
+      "path": "assets/characters/avatars/Ｎ_03_avatar.png",
+      "gitBlobSha": "5b58f2eccc230e422a6071f78f63cbc2eb03515e",
+      "bytes": 130361,
+      "optimized": {
+        "path": "assets/characters/avatars/optimized/Ｎ_03_avatar.png.webp",
+        "gitBlobSha": "9162baa94d2862f6c82ac72b1ffb180a3eeef19c",
+        "bytes": 61740
+      }
+    },
+    "Ｎ_03_card.png": {
+      "path": "assets/characters/cards/Ｎ_03_card.png",
+      "gitBlobSha": "908bc5378d9e7918e5ca1e48bd7d6a0a861e610e",
+      "bytes": 1769188,
+      "optimized": {
+        "path": "assets/characters/cards/optimized/Ｎ_03_card.png.webp",
+        "gitBlobSha": "a81fce674bb93648cc5d987febf718b7b1bb8d7d",
+        "bytes": 261480
+      }
+    },
+    "Ｎ_03_sprite.png": {
+      "path": "assets/characters/sprites/Ｎ_03_sprite.png",
+      "gitBlobSha": "175f65a99999c84ee0ba9b9c2feba13c380e2adc",
+      "bytes": 928208,
+      "optimized": {
+        "path": "assets/characters/sprites/optimized/Ｎ_03_sprite.png.webp",
+        "gitBlobSha": "955f432584119f0a9e9764917f824f34ed967dc7",
+        "bytes": 560770
+      }
+    },
+    "Ｎ_04_avatar.png": {
+      "path": "assets/characters/avatars/Ｎ_04_avatar.png",
+      "gitBlobSha": "a33d1ff6dad534e5070e12e218c0bed6f0e34f23",
+      "bytes": 149176,
+      "optimized": {
+        "path": "assets/characters/avatars/optimized/Ｎ_04_avatar.png.webp",
+        "gitBlobSha": "c891b2c983926db5c0b66af73f1b6d416736d160",
+        "bytes": 69876
+      }
+    },
+    "Ｎ_04_card.png": {
+      "path": "assets/characters/cards/Ｎ_04_card.png",
+      "gitBlobSha": "98aea7fc1fdc3f890f73e54ca9f81258c42a7998",
+      "bytes": 1647395,
+      "optimized": {
+        "path": "assets/characters/cards/optimized/Ｎ_04_card.png.webp",
+        "gitBlobSha": "a8f77daf24d60ab5916f577d0082e4cc80b8ab89",
+        "bytes": 219430
+      }
+    },
+    "Ｎ_04_sprite.png": {
+      "path": "assets/characters/sprites/Ｎ_04_sprite.png",
+      "gitBlobSha": "edcba2a1d8d18fc4c5fe659f209400972b9ddbdb",
+      "bytes": 934456,
+      "optimized": {
+        "path": "assets/characters/sprites/optimized/Ｎ_04_sprite.png.webp",
+        "gitBlobSha": "dea9f2de95735ad7ce9e896bf6d7bd26aedddcd4",
+        "bytes": 558132
+      }
+    },
+    "Ｎ_05_avatar.png": {
+      "path": "assets/characters/avatars/Ｎ_05_avatar.png",
+      "gitBlobSha": "2d938183a2b3bd0af072f265b90f7855ba2328e7",
+      "bytes": 163097,
+      "optimized": {
+        "path": "assets/characters/avatars/optimized/Ｎ_05_avatar.png.webp",
+        "gitBlobSha": "5906373c92a513adae91855716b5e6d2cd74a997",
+        "bytes": 77648
+      }
+    },
+    "Ｎ_05_card.png": {
+      "path": "assets/characters/cards/Ｎ_05_card.png",
+      "gitBlobSha": "72b36bc14944e94bce83fb183d11ea70fdde81e6",
+      "bytes": 347321,
+      "optimized": {
+        "path": "assets/characters/cards/optimized/Ｎ_05_card.png.webp",
+        "gitBlobSha": "4244a10918731ca9b14eefe92719937d11fc3e6d",
+        "bytes": 67870
+      }
+    },
+    "Ｎ_05_sprite.png": {
+      "path": "assets/characters/sprites/Ｎ_05_sprite.png",
+      "gitBlobSha": "b0464e967d1518bfadf852af409ddb19c58575f6",
+      "bytes": 3456479,
+      "optimized": {
+        "path": "assets/characters/sprites/optimized/Ｎ_05_sprite.png.webp",
+        "gitBlobSha": "acb9324671aa5f422a48a83c4cfbe6b825e56f16",
+        "bytes": 1932678
+      }
+    },
+    "Ｎ_06_avatar.png": {
+      "path": "assets/characters/avatars/Ｎ_06_avatar.png",
+      "gitBlobSha": "46cced86456a6cb1fe96afcf33d4a4c33cbbaa7f",
+      "bytes": 183421,
+      "optimized": {
+        "path": "assets/characters/avatars/optimized/Ｎ_06_avatar.png.webp",
+        "gitBlobSha": "86341b76449a0e75ca9fc46141ab6516f7f762d4",
+        "bytes": 90312
+      }
+    },
+    "Ｎ_06_card.png": {
+      "path": "assets/characters/cards/Ｎ_06_card.png",
+      "gitBlobSha": "6689d50df99e36eb5ef583d9e800e2e1cf65cf6f",
+      "bytes": 399895,
+      "optimized": {
+        "path": "assets/characters/cards/optimized/Ｎ_06_card.png.webp",
+        "gitBlobSha": "3ae20e3ec5017d464a9ecc3ff2d1ce510e57d0d0",
+        "bytes": 91618
+      }
+    },
+    "Ｎ_06_sprite.png": {
+      "path": "assets/characters/sprites/Ｎ_06_sprite.png",
+      "gitBlobSha": "be5b655b8e9f6ff0dc23a75cf040a2dc4f6869b9",
+      "bytes": 3127786,
+      "optimized": {
+        "path": "assets/characters/sprites/optimized/Ｎ_06_sprite.png.webp",
+        "gitBlobSha": "bef16f035bdab6da63a80feb01e02888f926ffb1",
+        "bytes": 1725080
+      }
+    },
+    "Ｎ_07_card.png": {
+      "path": "assets/characters/cards/Ｎ_07_card.png",
+      "gitBlobSha": "7d87296f5c4406a45c9149dc92cf27d6c74b3eaa",
+      "bytes": 1479414,
+      "optimized": {
+        "path": "assets/characters/cards/optimized/Ｎ_07_card.png.webp",
+        "gitBlobSha": "e3e929d6dc2a1f53a96cde26c0fdcfc29f237958",
+        "bytes": 882664
+      }
+    },
+    "Ｎ_07_sprite.png": {
+      "path": "assets/characters/sprites/Ｎ_07_sprite.png",
+      "gitBlobSha": "c6221f1cb7c5bc123dacfc1b8ccc3c33dc76ba63",
+      "bytes": 865910,
+      "optimized": {
+        "path": "assets/characters/sprites/optimized/Ｎ_07_sprite.png.webp",
+        "gitBlobSha": "a6e12743dc2d0fec755f9376e64bed2361045f8f",
+        "bytes": 520318
+      }
+    },
+    "Ｎ_08_card.png": {
+      "path": "assets/characters/cards/Ｎ_08_card.png",
+      "gitBlobSha": "c506ed807f970a73a728207056912b5808e12fed",
+      "bytes": 1560134,
+      "optimized": {
+        "path": "assets/characters/cards/optimized/Ｎ_08_card.png.webp",
+        "gitBlobSha": "847e88ae50a16372f3bd180895c96b4d563f3ac2",
+        "bytes": 953524
+      }
+    },
+    "Ｎ_08_sprite.png": {
+      "path": "assets/characters/sprites/Ｎ_08_sprite.png",
+      "gitBlobSha": "addea995857b920c832e2fcaf9f83ef3dfd87b71",
+      "bytes": 937704,
+      "optimized": {
+        "path": "assets/characters/sprites/optimized/Ｎ_08_sprite.png.webp",
+        "gitBlobSha": "44e84b258869e2566ce00e44c119c72773575a56",
+        "bytes": 644720
+      }
+    },
+    "Ｎ_09_card.png": {
+      "path": "assets/characters/cards/Ｎ_09_card.png",
+      "gitBlobSha": "8bb016858c1b8cad2b53b51107529109bea8262f",
+      "bytes": 1667982,
+      "optimized": {
+        "path": "assets/characters/cards/optimized/Ｎ_09_card.png.webp",
+        "gitBlobSha": "b21c5fb7fe1c202b8b012fa5d9d0df218e50585d",
+        "bytes": 1027608
+      }
+    },
+    "Ｎ_09_sprite.png": {
+      "path": "assets/characters/sprites/Ｎ_09_sprite.png",
+      "gitBlobSha": "25a3b93b240bb04a30bb9dbb3e2f7fa4a77f82aa",
+      "bytes": 1161047,
+      "optimized": {
+        "path": "assets/characters/sprites/optimized/Ｎ_09_sprite.png.webp",
+        "gitBlobSha": "4715bd01e0676f90ae4cca38efe8a5e0bf68ef81",
+        "bytes": 735324
+      }
+    },
+    "N_01_sprite_unified_v1.png": {
+      "path": "assets/characters/sprites/legacy/N_01_sprite_unified_v1.png",
+      "gitBlobSha": "0e68fa38008b003d60928832f9702f2cfe05a876",
+      "bytes": 851992,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/N_01_sprite_unified_v1.png.webp",
+        "gitBlobSha": "54d63354c9be0ec73c62226de85755e6875f8a75",
+        "bytes": 551248
+      }
+    },
+    "N_02_sprite_unified_v1.png": {
+      "path": "assets/characters/sprites/legacy/N_02_sprite_unified_v1.png",
+      "gitBlobSha": "1e6c992c3a166d369ab20ef0cfeca5ce05144289",
+      "bytes": 848993,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/N_02_sprite_unified_v1.png.webp",
+        "gitBlobSha": "8bd3eda4a04f26b45715f09b8aa4ed289c74818b",
+        "bytes": 573874
+      }
+    },
+    "N_03_sprite_unified_v1.png": {
+      "path": "assets/characters/sprites/legacy/N_03_sprite_unified_v1.png",
+      "gitBlobSha": "3e7c3f6f15e48f0a78953ff29ce21fc15a937459",
+      "bytes": 688713,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/N_03_sprite_unified_v1.png.webp",
+        "gitBlobSha": "4b00fabd3cae44fc2674c59e1d735525bdc565c2",
+        "bytes": 463844
+      }
+    },
+    "N_04_sprite_unified_v1.png": {
+      "path": "assets/characters/sprites/legacy/N_04_sprite_unified_v1.png",
+      "gitBlobSha": "16e87576d60d7763acfd3f4fe0aeb0797dd7e9fb",
+      "bytes": 737132,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/N_04_sprite_unified_v1.png.webp",
+        "gitBlobSha": "40e44e1cd46fca18a83f55d3ae709db5a95c6e02",
+        "bytes": 490916
+      }
+    },
+    "N_05_sprite_unified_v1.png": {
+      "path": "assets/characters/sprites/legacy/N_05_sprite_unified_v1.png",
+      "gitBlobSha": "87addaa4a439dc2bbd70287d68f16848cfe44d52",
+      "bytes": 761108,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/N_05_sprite_unified_v1.png.webp",
+        "gitBlobSha": "bcffdc9611944da1006fb29066588f16d8048c53",
+        "bytes": 531886
+      }
+    },
+    "N_06_sprite_unified_v1.png": {
+      "path": "assets/characters/sprites/legacy/N_06_sprite_unified_v1.png",
+      "gitBlobSha": "5606d1a0efafdbbc6894f565be628eb36ecf6430",
+      "bytes": 698270,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/N_06_sprite_unified_v1.png.webp",
+        "gitBlobSha": "d7f81767b6d1c12db3d7eac101f9ac3d56006d9d",
+        "bytes": 488732
+      }
+    },
+    "N_07_sprite_unified_v1.png": {
+      "path": "assets/characters/sprites/legacy/N_07_sprite_unified_v1.png",
+      "gitBlobSha": "a7b98b03fef7cbd81dcbaa70ff3d97902b063aee",
+      "bytes": 750436,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/N_07_sprite_unified_v1.png.webp",
+        "gitBlobSha": "e2c1c22606e19da4841a795f1cf1bd64b5113942",
+        "bytes": 538482
+      }
+    },
+    "N_08_sprite_unified_v1.png": {
+      "path": "assets/characters/sprites/legacy/N_08_sprite_unified_v1.png",
+      "gitBlobSha": "9e5299c619e775902f374ffc396b0ec2b5d252b3",
+      "bytes": 845507,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/N_08_sprite_unified_v1.png.webp",
+        "gitBlobSha": "3d69773c6e661820ff56ae0e202bbb9ff7eafe3b",
+        "bytes": 612264
+      }
+    },
+    "N_09_sprite_unified_v1.png": {
+      "path": "assets/characters/sprites/legacy/N_09_sprite_unified_v1.png",
+      "gitBlobSha": "601d9aeec9d81cc7c1b8606b6a337a50a11326ae",
+      "bytes": 960626,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/N_09_sprite_unified_v1.png.webp",
+        "gitBlobSha": "2b9400e75bc62561ff0453e97139e04579082027",
+        "bytes": 694204
+      }
+    },
+    "R_01_sprite_unified_v1.png": {
+      "path": "assets/characters/sprites/legacy/R_01_sprite_unified_v1.png",
+      "gitBlobSha": "061b36d76cc2a12a5ccd9e603b9937822dcf99ee",
+      "bytes": 816239,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/R_01_sprite_unified_v1.png.webp",
+        "gitBlobSha": "d6f16712f9fb1bc7fa8d51b04ad0f8722f700a74",
+        "bytes": 545728
+      }
+    },
+    "R_02_sprite_unified_v1.png": {
+      "path": "assets/characters/sprites/legacy/R_02_sprite_unified_v1.png",
+      "gitBlobSha": "e918823b4ba49a24afde1bc460ae1e85c2fccd7e",
+      "bytes": 825230,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/R_02_sprite_unified_v1.png.webp",
+        "gitBlobSha": "da54cf9548ae3ade46ebbe4f066a99c09056f166",
+        "bytes": 615670
+      }
+    },
+    "R_03_sprite_unified_v1.png": {
+      "path": "assets/characters/sprites/legacy/R_03_sprite_unified_v1.png",
+      "gitBlobSha": "82261ba90ece4158b2ccdee07d5c22ad08eb11b1",
+      "bytes": 773319,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/R_03_sprite_unified_v1.png.webp",
+        "gitBlobSha": "77d06ef8df2b32e99e3f56bbb58dd8df8165f611",
+        "bytes": 508048
+      }
+    },
+    "R_04_sprite_unified_v1.png": {
+      "path": "assets/characters/sprites/legacy/R_04_sprite_unified_v1.png",
+      "gitBlobSha": "d9f33027476b180f0bfe47d7d072967cfbc57bcf",
+      "bytes": 876949,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/R_04_sprite_unified_v1.png.webp",
+        "gitBlobSha": "406f4c517c9a597115987be26f5856cd696a2f5c",
+        "bytes": 568886
+      }
+    },
+    "R_05_sprite_unified_v1.png": {
+      "path": "assets/characters/sprites/legacy/R_05_sprite_unified_v1.png",
+      "gitBlobSha": "b6d6d2b93002f8c979936d9ed9ea7542fb16d513",
+      "bytes": 733982,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/R_05_sprite_unified_v1.png.webp",
+        "gitBlobSha": "c5b6756be037efc2f3a1994aac2a237f6a441fe8",
+        "bytes": 506846
+      }
+    },
+    "R_06_sprite_unified_v1.png": {
+      "path": "assets/characters/sprites/legacy/R_06_sprite_unified_v1.png",
+      "gitBlobSha": "19ea6876b307b6bf53bf3798fa65caa0eed59a4d",
+      "bytes": 822748,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/R_06_sprite_unified_v1.png.webp",
+        "gitBlobSha": "4f673d6aafdf62df443da47927bdb13b36c32a79",
+        "bytes": 555616
+      }
+    },
+    "R_07_sprite_unified_v1.png": {
+      "path": "assets/characters/sprites/legacy/R_07_sprite_unified_v1.png",
+      "gitBlobSha": "8228765739b70e331e8f973f2edbc58df25bbbb9",
+      "bytes": 856693,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/R_07_sprite_unified_v1.png.webp",
+        "gitBlobSha": "6e1bf24e28e4edc45d7b4546353c84956eaf1539",
+        "bytes": 578900
+      }
+    },
+    "R_08_sprite_unified_v1.png": {
+      "path": "assets/characters/sprites/legacy/R_08_sprite_unified_v1.png",
+      "gitBlobSha": "3760b0cd7560cc4406892bcececac0b27923d881",
+      "bytes": 784032,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/R_08_sprite_unified_v1.png.webp",
+        "gitBlobSha": "9015d616a79df029580b651b439789770ce3cbd3",
+        "bytes": 656042
+      }
+    },
+    "R_09_sprite_unified_v1.png": {
+      "path": "assets/characters/sprites/legacy/R_09_sprite_unified_v1.png",
+      "gitBlobSha": "2bcdc150a787106269c6925885327d34ac4e35da",
+      "bytes": 770534,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/R_09_sprite_unified_v1.png.webp",
+        "gitBlobSha": "4c779006765a74229a9fd3b6007a5969fe5d8163",
+        "bytes": 590812
+      }
+    },
+    "R_10_sprite_unified_v1.png": {
+      "path": "assets/characters/sprites/legacy/R_10_sprite_unified_v1.png",
+      "gitBlobSha": "37a8cde8602a427d5470c733bee60306f4c1a741",
+      "bytes": 826573,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/R_10_sprite_unified_v1.png.webp",
+        "gitBlobSha": "eda5a63a79c5a9ece58c9b3a8c1919df930b3287",
+        "bytes": 641244
+      }
+    },
+    "R_11_sprite_unified_v1.png": {
+      "path": "assets/characters/sprites/legacy/R_11_sprite_unified_v1.png",
+      "gitBlobSha": "426e7c23b7abdf635ce20460393d4ecf9bbf9a5c",
+      "bytes": 985648,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/R_11_sprite_unified_v1.png.webp",
+        "gitBlobSha": "0ccb30e8c2c50e7f3b2c680b84d560113e6e1dbd",
+        "bytes": 789696
+      }
+    },
+    "R_12_sprite_unified_v1.png": {
+      "path": "assets/characters/sprites/legacy/R_12_sprite_unified_v1.png",
+      "gitBlobSha": "4a159aecacab08fb5490d0d8912f3bf5609c59c5",
+      "bytes": 868282,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/R_12_sprite_unified_v1.png.webp",
+        "gitBlobSha": "8531eec34de2294f49ede7c64747ba1ec66647ac",
+        "bytes": 665602
+      }
+    },
+    "R_13_sprite_unified_v1.png": {
+      "path": "assets/characters/sprites/legacy/R_13_sprite_unified_v1.png",
+      "gitBlobSha": "b5210edcdad1a22b1a12074e35abedb832701567",
+      "bytes": 874566,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/R_13_sprite_unified_v1.png.webp",
+        "gitBlobSha": "8da3f54cff7071e609ed5e11796c92a9b19b8c0e",
+        "bytes": 626304
+      }
+    },
+    "SR_01_sprite_unified_v1.png": {
+      "path": "assets/characters/sprites/legacy/SR_01_sprite_unified_v1.png",
+      "gitBlobSha": "f5bb4072b35d18dd9f98ad8d0334575503cd653d",
+      "bytes": 820711,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/SR_01_sprite_unified_v1.png.webp",
+        "gitBlobSha": "37e9747928d2116a0cd9f6a5fcdaee020fd26bb5",
+        "bytes": 615730
+      }
+    },
+    "SR_02_sprite_unified_v1.png": {
+      "path": "assets/characters/sprites/legacy/SR_02_sprite_unified_v1.png",
+      "gitBlobSha": "fd066c954f9f2f52721bb8618d928c23889060cf",
+      "bytes": 726774,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/SR_02_sprite_unified_v1.png.webp",
+        "gitBlobSha": "0f929a4891970f4e1571d759faefd0c78ccc57e0",
+        "bytes": 542078
+      }
+    },
+    "SR_03_sprite_unified_v1.png": {
+      "path": "assets/characters/sprites/legacy/SR_03_sprite_unified_v1.png",
+      "gitBlobSha": "ddd510357e4edaa42177ed376d48e8ec48d51cc1",
+      "bytes": 971453,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/SR_03_sprite_unified_v1.png.webp",
+        "gitBlobSha": "94a5426e613c0817fc96fb673881ecbc68cfb178",
+        "bytes": 672384
+      }
+    },
+    "SR_04_sprite_unified_v1.png": {
+      "path": "assets/characters/sprites/legacy/SR_04_sprite_unified_v1.png",
+      "gitBlobSha": "bd77365ef8d5744ae590595ec9568bcc889059d5",
+      "bytes": 997415,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/SR_04_sprite_unified_v1.png.webp",
+        "gitBlobSha": "77c1037497107554f7f92e14473262ae38d1185f",
+        "bytes": 710300
+      }
+    },
+    "SR_05_sprite_unified_v1.png": {
+      "path": "assets/characters/sprites/legacy/SR_05_sprite_unified_v1.png",
+      "gitBlobSha": "440562e4380cf5a064b6ec87dea866a23861ed14",
+      "bytes": 812294,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/SR_05_sprite_unified_v1.png.webp",
+        "gitBlobSha": "0b41a0b21ee47ba8b65add6420d7bbcaccc246ee",
+        "bytes": 560780
+      }
+    },
+    "SR_06_sprite_unified_v1.png": {
+      "path": "assets/characters/sprites/legacy/SR_06_sprite_unified_v1.png",
+      "gitBlobSha": "379700c8add18a128e68fcf6d94f484c0c1ab32d",
+      "bytes": 717309,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/SR_06_sprite_unified_v1.png.webp",
+        "gitBlobSha": "8d267445f89428c8e1bdd9354964244f7c2e7b04",
+        "bytes": 540590
+      }
+    },
+    "SR_07_sprite_unified_v1.png": {
+      "path": "assets/characters/sprites/legacy/SR_07_sprite_unified_v1.png",
+      "gitBlobSha": "347ea9382685dc239ddcae91a3bb9d189e971011",
+      "bytes": 984280,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/SR_07_sprite_unified_v1.png.webp",
+        "gitBlobSha": "a9e46e4c1508031d6412a0bf207f78aa836901a5",
+        "bytes": 691386
+      }
+    },
+    "SR_08_sprite_unified_v1.png": {
+      "path": "assets/characters/sprites/legacy/SR_08_sprite_unified_v1.png",
+      "gitBlobSha": "9b489336b3ee0f9e0e68ea6d4ab7882c47b21d2d",
+      "bytes": 997594,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/SR_08_sprite_unified_v1.png.webp",
+        "gitBlobSha": "84af45ec55467e19b406952b6ea100ed54c95a0b",
+        "bytes": 752568
+      }
+    },
+    "SR_09_sprite_unified_v1.png": {
+      "path": "assets/characters/sprites/legacy/SR_09_sprite_unified_v1.png",
+      "gitBlobSha": "a7446ec25503973447a21768fa35175aef0791b5",
+      "bytes": 914400,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/SR_09_sprite_unified_v1.png.webp",
+        "gitBlobSha": "68b9dc7fd0bca19ded1e33916236a4a3b0e40b73",
+        "bytes": 714894
+      }
+    },
+    "SR_10_sprite_unified_v1.png": {
+      "path": "assets/characters/sprites/legacy/SR_10_sprite_unified_v1.png",
+      "gitBlobSha": "9b6fd75b69bce2a9f24ea3a85c73792ea6e2798e",
+      "bytes": 978440,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/SR_10_sprite_unified_v1.png.webp",
+        "gitBlobSha": "3a3612e3a7b4c5d3be80846d2bbe3c17f53d0dfe",
+        "bytes": 705002
+      }
+    },
+    "SR_11_sprite_unified_v1.png": {
+      "path": "assets/characters/sprites/legacy/SR_11_sprite_unified_v1.png",
+      "gitBlobSha": "c3ccb32e60889d1060a7c239a0dcc201164525cd",
+      "bytes": 931930,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/SR_11_sprite_unified_v1.png.webp",
+        "gitBlobSha": "654b2964bf1299145b83ad791a1297cd794b241f",
+        "bytes": 718100
+      }
+    },
+    "SR_12_sprite_unified_v1.png": {
+      "path": "assets/characters/sprites/legacy/SR_12_sprite_unified_v1.png",
+      "gitBlobSha": "9dab3eb6ea4e59f135acc28c3f7fb57505477b06",
+      "bytes": 970678,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/SR_12_sprite_unified_v1.png.webp",
+        "gitBlobSha": "47eaf617640e84a3494fe3102a71c7bddd4c5bd5",
+        "bytes": 705200
+      }
+    },
+    "SSR_01_sprite_unified_v1.png": {
+      "path": "assets/characters/sprites/legacy/SSR_01_sprite_unified_v1.png",
+      "gitBlobSha": "2f6f7ae29a437b274f7afe65002afc01cae6589f",
+      "bytes": 995597,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/SSR_01_sprite_unified_v1.png.webp",
+        "gitBlobSha": "5a8976567094b6d565c7f969a7dfaae96f3473ef",
+        "bytes": 732252
+      }
+    },
+    "SSR_02_sprite_unified_v1.png": {
+      "path": "assets/characters/sprites/legacy/SSR_02_sprite_unified_v1.png",
+      "gitBlobSha": "753f5702e2a30653f476e8f708433819b7c1d531",
+      "bytes": 985734,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/SSR_02_sprite_unified_v1.png.webp",
+        "gitBlobSha": "1f11c8f23b33900a9520bbcc21b19d77d1c3ee8f",
+        "bytes": 777828
+      }
+    },
+    "SSR_03_sprite_unified_v1.png": {
+      "path": "assets/characters/sprites/legacy/SSR_03_sprite_unified_v1.png",
+      "gitBlobSha": "3bf90c400e73764689327929d7f49e9e6e095c8a",
+      "bytes": 964420,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/SSR_03_sprite_unified_v1.png.webp",
+        "gitBlobSha": "8e49e6f59a4ca7c09660ddd60d7b78cf16e4ddaa",
+        "bytes": 731200
+      }
+    },
+    "SSR_04_sprite_unified_v1.png": {
+      "path": "assets/characters/sprites/legacy/SSR_04_sprite_unified_v1.png",
+      "gitBlobSha": "9cbfa6ac4ac94213c42f7819e57e7c8bcee7257a",
+      "bytes": 948600,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/SSR_04_sprite_unified_v1.png.webp",
+        "gitBlobSha": "ee0727c8340427050f6881b30d8e7cdc05db086b",
+        "bytes": 749640
+      }
+    },
+    "SSR_05_sprite_unified_v1.png": {
+      "path": "assets/characters/sprites/legacy/SSR_05_sprite_unified_v1.png",
+      "gitBlobSha": "7569913bcade54fccf0e6e6f58aa1703493e57a7",
+      "bytes": 888848,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/SSR_05_sprite_unified_v1.png.webp",
+        "gitBlobSha": "8e5915a1dbe07b519077e65c4a91af0345b3a0d4",
+        "bytes": 580546
+      }
+    },
+    "SSR_06_sprite_unified_v1.png": {
+      "path": "assets/characters/sprites/legacy/SSR_06_sprite_unified_v1.png",
+      "gitBlobSha": "4510ff4ad2cf8587e0ac7549397d749878cabbcb",
+      "bytes": 970219,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/SSR_06_sprite_unified_v1.png.webp",
+        "gitBlobSha": "1e4108445343856e626befc7b51ec29adb6e0202",
+        "bytes": 632002
+      }
+    },
+    "SSR_07_sprite_unified_v1.png": {
+      "path": "assets/characters/sprites/legacy/SSR_07_sprite_unified_v1.png",
+      "gitBlobSha": "6cc64a45eabe3d6f486e7db8304693c89a1795af",
+      "bytes": 879233,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/SSR_07_sprite_unified_v1.png.webp",
+        "gitBlobSha": "16a11f55ea2e5cd438014c3a30483ed4916ea8cc",
+        "bytes": 661692
+      }
+    },
+    "SSR_08_sprite_unified_v1.png": {
+      "path": "assets/characters/sprites/legacy/SSR_08_sprite_unified_v1.png",
+      "gitBlobSha": "bebd6202cfc8a98c1b0c1fd802b229508230b646",
+      "bytes": 876674,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/SSR_08_sprite_unified_v1.png.webp",
+        "gitBlobSha": "aa3d61a166f413135309190d5a87379775fec475",
+        "bytes": 672600
+      }
+    },
+    "SSR_09_sprite_unified_v1.png": {
+      "path": "assets/characters/sprites/legacy/SSR_09_sprite_unified_v1.png",
+      "gitBlobSha": "fecbbabd016808412bce66b5b431c1e4f48602a5",
+      "bytes": 987934,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/SSR_09_sprite_unified_v1.png.webp",
+        "gitBlobSha": "e6635d75a5c6e09d17146f03ea240b6e57e98f65",
+        "bytes": 721318
+      }
+    },
+    "SSR_10_sprite_unified_v1.png": {
+      "path": "assets/characters/sprites/legacy/SSR_10_sprite_unified_v1.png",
+      "gitBlobSha": "03466d27a194945b71da91f00fa250710f5b802b",
+      "bytes": 983999,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/SSR_10_sprite_unified_v1.png.webp",
+        "gitBlobSha": "612c076cff04d16989b3359d2b46dde3f1728919",
+        "bytes": 759132
+      }
+    },
+    "SSR_11_sprite_unified_v1.png": {
+      "path": "assets/characters/sprites/legacy/SSR_11_sprite_unified_v1.png",
+      "gitBlobSha": "5075518251ff99d9d645310475eee2aae1572887",
+      "bytes": 973806,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/SSR_11_sprite_unified_v1.png.webp",
+        "gitBlobSha": "44b021b1d337171e93261a359a83ddbc1b19de04",
+        "bytes": 725578
+      }
+    },
+    "UR_01_sprite_unified_v1.png": {
+      "path": "assets/characters/sprites/legacy/UR_01_sprite_unified_v1.png",
+      "gitBlobSha": "911e28b602c19f33885a5432dc4c74e6606d4f79",
+      "bytes": 733836,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/UR_01_sprite_unified_v1.png.webp",
+        "gitBlobSha": "6be3c646268f50ec18deb6d2528af7e6babdbc0f",
+        "bytes": 466400
+      }
+    },
+    "UR_02_sprite_unified_v1.png": {
+      "path": "assets/characters/sprites/legacy/UR_02_sprite_unified_v1.png",
+      "gitBlobSha": "19ff306dd2e4e80d5bacf6c24970636dbc66e365",
+      "bytes": 905414,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/UR_02_sprite_unified_v1.png.webp",
+        "gitBlobSha": "bb69e7c20e33cf39a36be05ae4f04ed53e5d60b3",
+        "bytes": 668046
+      }
+    },
+    "UR_03_sprite_unified_v1.png": {
+      "path": "assets/characters/sprites/legacy/UR_03_sprite_unified_v1.png",
+      "gitBlobSha": "79f131ffa9fd2437a7684a504ade38352fcd921f",
+      "bytes": 969809,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/UR_03_sprite_unified_v1.png.webp",
+        "gitBlobSha": "00ad4499d18eaf868e21e0a1610e8f1ffb0b2eae",
+        "bytes": 737160
+      }
+    },
+    "UR_04_sprite_unified_v1.png": {
+      "path": "assets/characters/sprites/legacy/UR_04_sprite_unified_v1.png",
+      "gitBlobSha": "b71be120c7bef699988836b1093c5254ffcb6f2b",
+      "bytes": 846165,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/UR_04_sprite_unified_v1.png.webp",
+        "gitBlobSha": "6b89b36958dfc02e740e1641dfd730f24195abdc",
+        "bytes": 650208
+      }
+    },
+    "UR_05_sprite_unified_v1.png": {
+      "path": "assets/characters/sprites/legacy/UR_05_sprite_unified_v1.png",
+      "gitBlobSha": "2ba3efd404cca5ed6e56c506a68403c73acd841a",
+      "bytes": 831464,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/UR_05_sprite_unified_v1.png.webp",
+        "gitBlobSha": "bf1f3f3685f8ba981adc822d2ffe0545be919b3b",
+        "bytes": 622712
+      }
+    },
+    "UR_06_sprite_unified_v1.png": {
+      "path": "assets/characters/sprites/legacy/UR_06_sprite_unified_v1.png",
+      "gitBlobSha": "1c3f0d91812c6af338becfce92505cff97bd2539",
+      "bytes": 991599,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/UR_06_sprite_unified_v1.png.webp",
+        "gitBlobSha": "5e25979c44418e3495ddd6d0daf0466c2b1c8357",
+        "bytes": 779060
+      }
+    },
+    "UR_07_sprite_unified_v1.png": {
+      "path": "assets/characters/sprites/legacy/UR_07_sprite_unified_v1.png",
+      "gitBlobSha": "c357ba590a656abb8158efce882f5a3b7d90220a",
+      "bytes": 939896,
+      "optimized": {
+        "path": "assets/characters/sprites/legacy/optimized/UR_07_sprite_unified_v1.png.webp",
+        "gitBlobSha": "e0391a4e29499a73d6fb9b22c2f38c96e40f16eb",
+        "bytes": 683326
+      }
+    }
+  }
+}
