@@ -8,7 +8,7 @@
   "orientation": "portrait",
   "icons": [
     {
-      "src": "https://raw.githubusercontent.com/TwelveMoon/Quiz-RPG/refs/heads/main/ChiDongRPG.jpg",
+      "src": "https://raw.githubusercontent.com/TwelveMoon/Quiz-RPG/main/assets/ui/general/ChiDongRPG.jpg",
       "sizes": "512x512",
       "type": "image/jpeg",
       "purpose": "any maskable"

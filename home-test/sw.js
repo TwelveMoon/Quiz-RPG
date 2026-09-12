@@ -1,10 +1,10 @@
 'use strict';
 // This worker owns only the test entry shell, never GAS responses or game assets.
 const PREFIX='chidung-home-test-shell-';
-const CACHE=PREFIX+'b1-1';
+const CACHE=PREFIX+'b1-2';
 const BASE=new URL('./',self.location.href);
 const INDEX=new URL('index.html',BASE).href;
-const FILES=[INDEX,new URL('manifest.json',BASE).href,new URL('../ChiDongRPG.jpg',BASE).href];
+const FILES=[INDEX,new URL('manifest.json',BASE).href,new URL('../assets/ui/general/ChiDongRPG.jpg',BASE).href];
 self.addEventListener('install',event=>{
   event.waitUntil((async()=>{
     const cache=await caches.open(CACHE);
